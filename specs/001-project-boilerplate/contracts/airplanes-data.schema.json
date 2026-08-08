@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://airplane-guessing-game/schemas/airplanes-data.schema.json",
+  "title": "Airplanes Data File (Boilerplate)",
+  "description": "Contract between the crawler (writer) and the frontend (reader) for frontend/public/data/airplanes.json. At boilerplate scope this only proves the write/read pipeline; real aircraft fields are added by future features.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "title": "Placeholder Aircraft Record",
+    "properties": {
+      "id": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Stable identifier, unique within the file."
+      },
+      "name": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Human-readable placeholder label. Not a real aircraft name at this stage."
+      }
+    },
+    "required": ["id", "name"],
+    "additionalProperties": false
+  }
+}

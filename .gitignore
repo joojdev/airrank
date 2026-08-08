@@ -1,0 +1,28 @@
+# Frontend (Node.js/TypeScript/Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+frontend/coverage/
+frontend/test-results/
+frontend/playwright-report/
+frontend/.cache/
+
+# Crawler (Python)
+crawler/__pycache__/
+crawler/**/__pycache__/
+crawler/*.pyc
+crawler/.venv/
+crawler/venv/
+crawler/*.egg-info/
+crawler/.pytest_cache/
+crawler/.behave/
+
+# Universal
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.local
+.vscode/
+.idea/
