@@ -1,0 +1,1177 @@
+{
+  "head": { "vars": ["item", "itemLabel", "iata", "icao", "country", "pax", "paxDate", "image"] },
+  "results": {
+    "bindings": [
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8691" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "55726683"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1996-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "GB" },
+        "iata": { "type": "literal", "value": "LHR" },
+        "icao": { "type": "literal", "value": "EGLL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/London%20-%20Heathrow%20%28LHR%20-%20EGLL%29%20AN1572653.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "London Heathrow Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8691" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "6736919"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2014-04-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "GB" },
+        "iata": { "type": "literal", "value": "LHR" },
+        "icao": { "type": "literal", "value": "EGLL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/London%20-%20Heathrow%20%28LHR%20-%20EGLL%29%20AN1572653.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "London Heathrow Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8691" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "5028739"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2009-11-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "GB" },
+        "iata": { "type": "literal", "value": "LHR" },
+        "icao": { "type": "literal", "value": "EGLL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/London%20-%20Heathrow%20%28LHR%20-%20EGLL%29%20AN1572653.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "London Heathrow Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8691" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "461188"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2021-02-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "GB" },
+        "iata": { "type": "literal", "value": "LHR" },
+        "icao": { "type": "literal", "value": "EGLL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/London%20-%20Heathrow%20%28LHR%20-%20EGLL%29%20AN1572653.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "London Heathrow Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8691" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "20077270"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1974-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "GB" },
+        "iata": { "type": "literal", "value": "LHR" },
+        "icao": { "type": "literal", "value": "EGLL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/London%20-%20Heathrow%20%28LHR%20-%20EGLL%29%20AN1572653.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "London Heathrow Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8691" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "6419432"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2007-07-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "GB" },
+        "iata": { "type": "literal", "value": "LHR" },
+        "icao": { "type": "literal", "value": "EGLL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/London%20-%20Heathrow%20%28LHR%20-%20EGLL%29%20AN1572653.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "London Heathrow Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8691" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "6909764"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "GB" },
+        "iata": { "type": "literal", "value": "LHR" },
+        "icao": { "type": "literal", "value": "EGLL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/London%20-%20Heathrow%20%28LHR%20-%20EGLL%29%20AN1572653.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "London Heathrow Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8691" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "350283"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2020-06-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "GB" },
+        "iata": { "type": "literal", "value": "LHR" },
+        "icao": { "type": "literal", "value": "EGLL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/London%20-%20Heathrow%20%28LHR%20-%20EGLL%29%20AN1572653.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "London Heathrow Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8691" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "5582267"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-11-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "GB" },
+        "iata": { "type": "literal", "value": "LHR" },
+        "icao": { "type": "literal", "value": "EGLL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/London%20-%20Heathrow%20%28LHR%20-%20EGLL%29%20AN1572653.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "London Heathrow Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8691" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "5739466"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "GB" },
+        "iata": { "type": "literal", "value": "LHR" },
+        "icao": { "type": "literal", "value": "EGLL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/London%20-%20Heathrow%20%28LHR%20-%20EGLL%29%20AN1572653.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "London Heathrow Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8685" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "81997"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2020-04-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "JFK" },
+        "icao": { "type": "literal", "value": "KJFK" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/JFK%20Aerial%20Nov%2014%202018.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John F. Kennedy International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8685" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "30788322"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2021-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "JFK" },
+        "icao": { "type": "literal", "value": "KJFK" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/JFK%20Aerial%20Nov%2014%202018.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John F. Kennedy International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8685" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "62551072"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2019-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "JFK" },
+        "icao": { "type": "literal", "value": "KJFK" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/JFK%20Aerial%20Nov%2014%202018.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John F. Kennedy International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8685" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "56884730"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "JFK" },
+        "icao": { "type": "literal", "value": "KJFK" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/JFK%20Aerial%20Nov%2014%202018.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John F. Kennedy International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8685" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "30323077"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1989-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "JFK" },
+        "icao": { "type": "literal", "value": "KJFK" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/JFK%20Aerial%20Nov%2014%202018.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John F. Kennedy International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8685" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "5164589"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2019-09-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "JFK" },
+        "icao": { "type": "literal", "value": "KJFK" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/JFK%20Aerial%20Nov%2014%202018.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John F. Kennedy International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8685" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "26229068"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1991-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "JFK" },
+        "icao": { "type": "literal", "value": "KJFK" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/JFK%20Aerial%20Nov%2014%202018.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John F. Kennedy International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8685" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "29938188"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2002-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "JFK" },
+        "icao": { "type": "literal", "value": "KJFK" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/JFK%20Aerial%20Nov%2014%202018.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John F. Kennedy International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8685" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "29349000"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2001-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "JFK" },
+        "icao": { "type": "literal", "value": "KJFK" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/JFK%20Aerial%20Nov%2014%202018.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John F. Kennedy International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q8685" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "26796066"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1980-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "JFK" },
+        "icao": { "type": "literal", "value": "KJFK" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/JFK%20Aerial%20Nov%2014%202018.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John F. Kennedy International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q385406" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "13771186"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2005-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "GRU" },
+        "icao": { "type": "literal", "value": "SBGR" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/ViewfromAir-SaoPaulo.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "S\u00e3o Paulo-Guarulhos International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q385406" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "26646654"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "GRU" },
+        "icao": { "type": "literal", "value": "SBGR" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/ViewfromAir-SaoPaulo.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "S\u00e3o Paulo-Guarulhos International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q385406" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "3763779"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "GRU" },
+        "icao": { "type": "literal", "value": "SBGR" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/ViewfromAir-SaoPaulo.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "S\u00e3o Paulo-Guarulhos International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q385406" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "4073928"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2019-12-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "GRU" },
+        "icao": { "type": "literal", "value": "SBGR" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/ViewfromAir-SaoPaulo.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "S\u00e3o Paulo-Guarulhos International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q385406" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "1920730"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2020-11-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "GRU" },
+        "icao": { "type": "literal", "value": "SBGR" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/ViewfromAir-SaoPaulo.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "S\u00e3o Paulo-Guarulhos International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q385406" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "2942725"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "GRU" },
+        "icao": { "type": "literal", "value": "SBGR" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/ViewfromAir-SaoPaulo.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "S\u00e3o Paulo-Guarulhos International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q385406" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "3304739"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-05-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "GRU" },
+        "icao": { "type": "literal", "value": "SBGR" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/ViewfromAir-SaoPaulo.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "S\u00e3o Paulo-Guarulhos International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q385406" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "12261506"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2000-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "GRU" },
+        "icao": { "type": "literal", "value": "SBGR" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/ViewfromAir-SaoPaulo.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "S\u00e3o Paulo-Guarulhos International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q385406" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "24067287"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2021-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "GRU" },
+        "icao": { "type": "literal", "value": "SBGR" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/ViewfromAir-SaoPaulo.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "S\u00e3o Paulo-Guarulhos International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q385406" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "20394569"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2008-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "GRU" },
+        "icao": { "type": "literal", "value": "SBGR" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/ViewfromAir-SaoPaulo.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "S\u00e3o Paulo-Guarulhos International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q865475" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "10167951"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "SDU" },
+        "icao": { "type": "literal", "value": "SBRJ" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Santos%20Dumont%20Airport.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "Santos Dumont Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q865475" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "3551667"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2006-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "SDU" },
+        "icao": { "type": "literal", "value": "SBRJ" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Santos%20Dumont%20Airport.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "Santos Dumont Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q865475" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "6826379"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2021-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "SDU" },
+        "icao": { "type": "literal", "value": "SBRJ" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Santos%20Dumont%20Airport.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "Santos Dumont Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q865475" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "5201506"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2009-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "SDU" },
+        "icao": { "type": "literal", "value": "SBRJ" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Santos%20Dumont%20Airport.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "Santos Dumont Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q865475" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "10187401"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "SDU" },
+        "icao": { "type": "literal", "value": "SBRJ" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Santos%20Dumont%20Airport.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "Santos Dumont Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q865475" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "835515"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "SDU" },
+        "icao": { "type": "literal", "value": "SBRJ" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Santos%20Dumont%20Airport.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "Santos Dumont Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q865475" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "815617"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-12-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "SDU" },
+        "icao": { "type": "literal", "value": "SBRJ" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Santos%20Dumont%20Airport.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "Santos Dumont Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q865475" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "3607432"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2008-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "SDU" },
+        "icao": { "type": "literal", "value": "SBRJ" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Santos%20Dumont%20Airport.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "Santos Dumont Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q865475" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "8700238"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "SDU" },
+        "icao": { "type": "literal", "value": "SBRJ" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Santos%20Dumont%20Airport.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "Santos Dumont Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q865475" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "3603868"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2005-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "SDU" },
+        "icao": { "type": "literal", "value": "SBRJ" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Santos%20Dumont%20Airport.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "Santos Dumont Airport" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q214861" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "2995139"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2020-08-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "ATL" },
+        "icao": { "type": "literal", "value": "KATL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Atlanta%20Hartsfield-Jackson.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hartsfield\u2013Jackson Atlanta International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q214861" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "2533136"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2020-07-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "ATL" },
+        "icao": { "type": "literal", "value": "KATL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Atlanta%20Hartsfield-Jackson.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hartsfield\u2013Jackson Atlanta International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q214861" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "8310329"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2020-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "ATL" },
+        "icao": { "type": "literal", "value": "KATL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Atlanta%20Hartsfield-Jackson.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hartsfield\u2013Jackson Atlanta International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q214861" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "8378835"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-09-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "ATL" },
+        "icao": { "type": "literal", "value": "KATL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Atlanta%20Hartsfield-Jackson.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hartsfield\u2013Jackson Atlanta International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q214861" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "89379287"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2007-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "ATL" },
+        "icao": { "type": "literal", "value": "KATL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Atlanta%20Hartsfield-Jackson.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hartsfield\u2013Jackson Atlanta International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q214861" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "75704760"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2021-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "ATL" },
+        "icao": { "type": "literal", "value": "KATL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Atlanta%20Hartsfield-Jackson.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hartsfield\u2013Jackson Atlanta International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q214861" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "78092940"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1999-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "ATL" },
+        "icao": { "type": "literal", "value": "KATL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Atlanta%20Hartsfield-Jackson.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hartsfield\u2013Jackson Atlanta International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q214861" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "75858500"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2001-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "ATL" },
+        "icao": { "type": "literal", "value": "KATL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Atlanta%20Hartsfield-Jackson.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hartsfield\u2013Jackson Atlanta International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q214861" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "85907423"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2005-01-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "ATL" },
+        "icao": { "type": "literal", "value": "KATL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Atlanta%20Hartsfield-Jackson.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hartsfield\u2013Jackson Atlanta International Airport"
+        }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q214861" },
+        "pax": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "8699537"
+        },
+        "paxDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2019-11-01T00:00:00Z"
+        },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "ATL" },
+        "icao": { "type": "literal", "value": "KATL" },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Atlanta%20Hartsfield-Jackson.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hartsfield\u2013Jackson Atlanta International Airport"
+        }
+      }
+    ]
+  }
+}

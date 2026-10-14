@@ -1,0 +1,48 @@
+/* Flight Journal tokens, overriding the Paper UI color variables. */
+:root {
+  --fj-paper: #f5f0e6;
+  --fj-card: #e4dac8;
+  --fj-ink: #182c3d;
+  --fj-ink-soft: #3d5163;
+  --fj-sage: #54766b;
+  --fj-sage-text: #3b5b50;
+  --fj-amber: #d18a52;
+  --fj-amber-text: #8a4d1d;
+  --fj-on-accent: #182c3d;
+  --pp-bg: var(--fj-paper);
+  --pp-surface: var(--fj-card);
+  --pp-ink: var(--fj-ink);
+  --pp-accent: var(--fj-amber);
+}
+
+/* The manual choice (data-theme on <html>) wins; without one the system preference decides. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --fj-paper: #111e2a;
+    --fj-card: #1c3042;
+    --fj-ink: #f5f0e6;
+    --fj-ink-soft: #c9c2b2;
+    --fj-sage: #7fa597;
+    --fj-sage-text: #9bc2b3;
+    --fj-amber: #e0a06a;
+    --fj-amber-text: #e0a06a;
+    --fj-on-accent: #111e2a;
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --fj-paper: #111e2a;
+  --fj-card: #1c3042;
+  --fj-ink: #f5f0e6;
+  --fj-ink-soft: #c9c2b2;
+  --fj-sage: #7fa597;
+  --fj-sage-text: #9bc2b3;
+  --fj-amber: #e0a06a;
+  --fj-amber-text: #e0a06a;
+  --fj-on-accent: #111e2a;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+}

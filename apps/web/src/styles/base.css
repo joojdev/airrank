@@ -1,0 +1,151 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0;
+}
+body {
+  background: var(--fj-paper);
+  color: var(--fj-ink);
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  line-height: 1.5;
+  min-height: 100vh;
+}
+h1,
+h2,
+h3 {
+  font-family: "Space Grotesk", system-ui, sans-serif;
+  margin: 0 0 0.5rem;
+}
+:focus-visible {
+  outline: 2px solid var(--fj-amber-text);
+  outline-offset: 2px;
+}
+
+.app {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+.app-header h1 {
+  font-size: 1.25rem;
+  margin: 0;
+}
+.stack {
+  display: grid;
+  gap: 1rem;
+}
+.muted {
+  color: var(--fj-ink-soft);
+}
+
+.pp-button {
+  font: inherit;
+  color: var(--fj-ink);
+  background: var(--fj-card);
+  border: 2px solid var(--fj-ink);
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  box-shadow: 2px 2px 0 var(--fj-ink);
+  cursor: pointer;
+  transition:
+    transform 80ms linear,
+    box-shadow 80ms linear;
+}
+.pp-button:hover:not(:disabled) {
+  transform: translateY(-1px);
+  box-shadow: 2px 3px 0 var(--fj-ink);
+}
+.pp-button:active:not(:disabled) {
+  transform: translateY(2px);
+  box-shadow: none;
+}
+.pp-button:disabled {
+  border-style: dashed;
+  box-shadow: none;
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+.pp-button--primary {
+  background: var(--fj-amber);
+  color: var(--fj-on-accent);
+}
+.pp-button--sage {
+  background: var(--fj-sage-text);
+  color: var(--fj-paper);
+}
+
+.pp-window {
+  background: var(--fj-paper);
+  border: 2px solid var(--fj-ink);
+  border-radius: 10px;
+  box-shadow: 4px 4px 0 var(--fj-ink);
+}
+.pp-window__title {
+  background: var(--fj-card);
+  border-bottom: 2px solid var(--fj-ink);
+  border-radius: 8px 8px 0 0;
+  padding: 0.5rem 1rem;
+  font-weight: 600;
+}
+.pp-window__body {
+  padding: 1rem;
+}
+
+.field {
+  display: grid;
+  gap: 0.25rem;
+}
+.field select {
+  font: inherit;
+  color: var(--fj-ink);
+  background: var(--fj-paper);
+  border: 2px solid var(--fj-ink);
+  border-radius: 4px;
+  padding: 0.5rem;
+}
+.field select:disabled {
+  border-style: dashed;
+  opacity: 0.7;
+}
+
+.app-header .field {
+  grid-auto-flow: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+.app-header .field select {
+  padding: 0.3rem 0.5rem;
+}
+
+.app-header__controls {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+.theme-toggle {
+  display: inline-grid;
+  place-items: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  padding: 0;
+  color: var(--fj-ink);
+  background: var(--fj-card);
+  border: 1px solid var(--fj-ink-soft);
+  border-radius: 50%;
+  cursor: pointer;
+}
+.theme-toggle:focus-visible {
+  outline: 2px solid var(--fj-amber-text);
+  outline-offset: 2px;
+}

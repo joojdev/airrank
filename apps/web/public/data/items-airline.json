@@ -1,0 +1,5428 @@
+[
+  {
+    "id": "air-aegean-airlines",
+    "category": "airline",
+    "name": "Aegean Airlines",
+    "code": "A3",
+    "country": "GR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Colin Cooke Photo",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SX-NEC_A320NEO_Aegean_LHR_4.11.20.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1987,
+      "destinations": 117,
+      "countries": 45
+    }
+  },
+  {
+    "id": "air-aer-lingus",
+    "category": "airline",
+    "name": "Aer Lingus",
+    "code": "EI",
+    "country": "IE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Adam Moreira (AEMoreira042281)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aer_Lingus_Airbus_A330-302_EI-EDY_approaching_EWR_Airport.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "founded": 1936,
+      "destinations": 108,
+      "countries": 26
+    }
+  },
+  {
+    "id": "air-aero-mongolia",
+    "category": "airline",
+    "name": "Aero Mongolia",
+    "code": "M0",
+    "country": "MN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Yaan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AeroMongoliaFokker50.jpg",
+      "width": 1600,
+      "height": 816
+    },
+    "metrics": {
+      "founded": 1970,
+      "destinations": 4,
+      "countries": 4
+    }
+  },
+  {
+    "id": "air-aeroflot",
+    "category": "airline",
+    "name": "Aeroflot",
+    "code": "SU",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroflot,_VQ-BFY,_Airbus_A350-941_(51273117500).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1923,
+      "destinations": 107,
+      "countries": 20
+    }
+  },
+  {
+    "id": "air-aeromexico",
+    "category": "airline",
+    "name": "Aeroméxico",
+    "code": "AM",
+    "country": "MX",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Ipolanco97",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AeroMexico_B787-8.jpg",
+      "width": 960,
+      "height": 540
+    },
+    "metrics": {
+      "founded": 1934,
+      "destinations": 104,
+      "countries": 24
+    }
+  },
+  {
+    "id": "air-air-albania",
+    "category": "airline",
+    "name": "Air Albania",
+    "code": "ZB",
+    "country": "AL",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Albania,_ZA-BEL,_Airbus_A319-132_(49565881813).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2018
+    }
+  },
+  {
+    "id": "air-air-algerie",
+    "category": "airline",
+    "name": "Air Algérie",
+    "code": "AH",
+    "country": "DZ",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Abdallahh / Hhussein Abdallah from Montréal, Canada",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Alg%C3%A9rie_A330_@_YUL.jpg",
+      "width": 1600,
+      "height": 983
+    },
+    "metrics": {
+      "founded": 1953,
+      "destinations": 95,
+      "countries": 40
+    }
+  },
+  {
+    "id": "air-air-arabia",
+    "category": "airline",
+    "name": "Air Arabia",
+    "code": "G9",
+    "country": "AE",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Konstantin von Wedelstaedt",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Arabia_Airbus_A320-214_KvW.jpg",
+      "width": 960,
+      "height": 639
+    },
+    "metrics": {
+      "founded": 2003,
+      "destinations": 89,
+      "countries": 37
+    }
+  },
+  {
+    "id": "air-air-astana",
+    "category": "airline",
+    "name": "Air Astana",
+    "code": "KC",
+    "country": "KZ",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Astana,_P4-KDE,_Airbus_A321-271N_(46715427705).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2001,
+      "destinations": 36,
+      "countries": 18
+    }
+  },
+  {
+    "id": "air-air-atlanta-icelandic",
+    "category": "airline",
+    "name": "Air Atlanta Icelandic",
+    "code": "CC",
+    "country": "IS",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Pasparfait",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Atlanta_Aviaservices.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "founded": 1986
+    }
+  },
+  {
+    "id": "air-air-burkina",
+    "category": "airline",
+    "name": "Air Burkina",
+    "code": "2J",
+    "country": "BF",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "François Roche",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Burkina_Airbus_A319_Roche.jpg",
+      "width": 960,
+      "height": 639
+    },
+    "metrics": {
+      "founded": 1967,
+      "destinations": 9,
+      "countries": 8
+    }
+  },
+  {
+    "id": "air-air-busan",
+    "category": "airline",
+    "name": "Air Busan",
+    "code": "BX",
+    "country": "KR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Alec Wilson from Khon Kaen, Thailand",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HL7753_(10358524994).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 2007,
+      "destinations": 34,
+      "countries": 13
+    }
+  },
+  {
+    "id": "air-air-cairo",
+    "category": "airline",
+    "name": "Air Cairo",
+    "code": "SM",
+    "country": "EG",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Colin Cooke Photo",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SU-BPV_Airbus_A320_Air_Cairo_LGW_18.4.21.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1997,
+      "destinations": 76,
+      "countries": 26
+    }
+  },
+  {
+    "id": "air-air-caledonie",
+    "category": "airline",
+    "name": "Air Calédonie",
+    "code": "TY",
+    "country": "FR",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Nashman98800",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020-Photo_Avion_(3).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1954,
+      "destinations": 6,
+      "countries": 2
+    }
+  },
+  {
+    "id": "air-air-cambodia",
+    "category": "airline",
+    "name": "Air Cambodia",
+    "code": "K6",
+    "country": "KH",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Ole Simon",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cambodia_Angkor_Air_ATR_ATR-72-500_(ATR-72-212A)_Simon.jpg",
+      "width": 960,
+      "height": 672
+    },
+    "metrics": {
+      "founded": 2009,
+      "destinations": 23,
+      "countries": 9
+    }
+  },
+  {
+    "id": "air-air-canada",
+    "category": "airline",
+    "name": "Air Canada",
+    "code": "AC",
+    "country": "CA",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:C-FVLX@PEK_(20250503160547).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1937,
+      "destinations": 208,
+      "countries": 65
+    }
+  },
+  {
+    "id": "air-air-caraibes",
+    "category": "airline",
+    "name": "Air Caraïbes",
+    "code": "TX",
+    "country": "FR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Olivier CABARET",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:F-HHAV_-_Airbus_A350-900_-_Air_Cara%C3%AFbes_-_48187927197.jpg",
+      "width": 1600,
+      "height": 1035
+    },
+    "metrics": {
+      "founded": 2000,
+      "destinations": 12,
+      "countries": 10
+    }
+  },
+  {
+    "id": "air-air-china",
+    "category": "airline",
+    "name": "Air China",
+    "code": "CA",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Duan Zhu",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_China_Boeing_747-400_Zhu-1.jpg",
+      "width": 960,
+      "height": 639
+    },
+    "metrics": {
+      "founded": 1988,
+      "destinations": 216,
+      "countries": 55
+    }
+  },
+  {
+    "id": "air-air-corsica",
+    "category": "airline",
+    "name": "Air Corsica",
+    "code": "XK",
+    "country": "FR",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Maximilian Gruber",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:F-HDMF.jpg",
+      "width": 960,
+      "height": 637
+    },
+    "metrics": {
+      "founded": 1989,
+      "destinations": 24,
+      "countries": 8
+    }
+  },
+  {
+    "id": "air-air-do",
+    "category": "airline",
+    "name": "Air Do",
+    "code": "HD",
+    "country": "JP",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "contri",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hokkaido_International_Airlines_Boeing_737-54K_(JA8504274322783).jpg",
+      "width": 1600,
+      "height": 1063
+    },
+    "metrics": {
+      "founded": 1996,
+      "destinations": 11,
+      "countries": 1
+    }
+  },
+  {
+    "id": "air-air-europa",
+    "category": "airline",
+    "name": "Air Europa",
+    "code": "UX",
+    "country": "ES",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Gerry Stegmeier",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Europa_Airbus_A330-202_EC-JPF.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1986,
+      "destinations": 63,
+      "countries": 31
+    }
+  },
+  {
+    "id": "air-air-france",
+    "category": "airline",
+    "name": "Air France",
+    "code": "AF",
+    "country": "FR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Leaderofthewave.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_france_airbus_a350_f-htya.jpg",
+      "width": 1600,
+      "height": 1086
+    },
+    "metrics": {
+      "founded": 1932,
+      "destinations": 189,
+      "countries": 80
+    }
+  },
+  {
+    "id": "air-air-france-hop",
+    "category": "airline",
+    "name": "Air France Hop",
+    "code": "A5",
+    "country": "FR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "72JanJ",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_France_Hop_-_F-HBLK.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 2013
+    }
+  },
+  {
+    "id": "air-air-greenland",
+    "category": "airline",
+    "name": "Air Greenland",
+    "code": "GL",
+    "country": "DK",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Alexander Jonsson",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greenlandair_757.jpg",
+      "width": 960,
+      "height": 694
+    },
+    "metrics": {
+      "founded": 1960,
+      "destinations": 63,
+      "countries": 4
+    }
+  },
+  {
+    "id": "air-air-hong-kong",
+    "category": "airline",
+    "name": "Air Hong Kong",
+    "code": "LD",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Konstantin von Wedelstaedt",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A300F4-605R,_Air_Hong_Kong_(DHL)_AN0959269.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1986
+    }
+  },
+  {
+    "id": "air-air-iceland",
+    "category": "airline",
+    "name": "Air Iceland",
+    "code": "NY",
+    "country": "IS",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Ronnie Robertson",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dash_8_TF-FXB_IMG_0783_(33226623672).jpg",
+      "width": 1600,
+      "height": 913
+    },
+    "metrics": {
+      "founded": 1997
+    }
+  },
+  {
+    "id": "air-air-india",
+    "category": "airline",
+    "name": "Air India",
+    "code": "AI",
+    "country": "IN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Eluveitie",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_777-337ER_-_Air_India_(VT-ALK).JPG",
+      "width": 1600,
+      "height": 1068
+    },
+    "metrics": {
+      "founded": 1932,
+      "destinations": 85,
+      "countries": 32
+    }
+  },
+  {
+    "id": "air-air-india-express",
+    "category": "airline",
+    "name": "Air India Express",
+    "code": "IX",
+    "country": "IN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Krish Aarush",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:VT-BXY_Air_India_Express.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 2005,
+      "destinations": 66,
+      "countries": 10
+    }
+  },
+  {
+    "id": "air-air-koryo",
+    "category": "airline",
+    "name": "Air Koryo",
+    "code": "JS",
+    "country": "KP",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "wc",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Koryo_Antonov_An-148-100B.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1955,
+      "destinations": 4,
+      "countries": 3
+    }
+  },
+  {
+    "id": "air-air-madagascar",
+    "category": "airline",
+    "name": "Air Madagascar",
+    "code": "MD",
+    "country": "MG",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Madagascar,_TF-EAB,_Airbus_A340-313_(30334969737).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1961,
+      "destinations": 12,
+      "countries": 2
+    }
+  },
+  {
+    "id": "air-air-mauritius",
+    "category": "airline",
+    "name": "Air Mauritius",
+    "code": "MK",
+    "country": "MU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Mauritius_A340-300_(3B-NAU)_@_HKG,_Jan_2019.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1967,
+      "destinations": 14,
+      "countries": 10
+    }
+  },
+  {
+    "id": "air-air-new-zealand",
+    "category": "airline",
+    "name": "Air New Zealand",
+    "code": "NZ",
+    "country": "NZ",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Nathan Jones",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ZK-OXM_NZWN_2_April_2023.jpg",
+      "width": 1600,
+      "height": 903
+    },
+    "metrics": {
+      "founded": 1940,
+      "destinations": 49,
+      "countries": 17
+    }
+  },
+  {
+    "id": "air-air-niugini",
+    "category": "airline",
+    "name": "Air Niugini",
+    "code": "PX",
+    "country": "PG",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Jialiang Gao (peace-on-earth.org)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Niugini_Fokker_100_Mt_Hagen_PNG.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1973,
+      "destinations": 30,
+      "countries": 10
+    }
+  },
+  {
+    "id": "air-air-nostrum",
+    "category": "airline",
+    "name": "Air Nostrum",
+    "code": "YW",
+    "country": "ES",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "w:es:Usuario:Barcex",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canadair_CL-600-2B19_Regional_Jet_CRJ-200ER_-_Air_Nostrum_(Iberia_Regional)_-_EC-JEN_-_LEMD_-_200503051641.jpg",
+      "width": 1600,
+      "height": 901
+    },
+    "metrics": {
+      "founded": 1994
+    }
+  },
+  {
+    "id": "air-air-rarotonga",
+    "category": "airline",
+    "name": "Air Rarotonga",
+    "code": "GZ",
+    "country": "CK",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Follash",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Air_Rarotonga_Saab.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Rarotonga_Saab.JPG",
+      "width": 1600,
+      "height": 910
+    },
+    "metrics": {
+      "founded": 1978,
+      "destinations": 3,
+      "countries": 2
+    }
+  },
+  {
+    "id": "air-air-serbia",
+    "category": "airline",
+    "name": "Air Serbia",
+    "code": "JU",
+    "country": "RS",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Oyoyoy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:YU-API_LLBG_08-08-2014a.jpg",
+      "width": 1600,
+      "height": 961
+    },
+    "metrics": {
+      "founded": 2013,
+      "destinations": 93,
+      "countries": 35
+    }
+  },
+  {
+    "id": "air-air-seychelles",
+    "category": "airline",
+    "name": "Air Seychelles",
+    "code": "HM",
+    "country": "SC",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Ralf Roletschek",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:13-08-07-hongkong-airport-04.jpg",
+      "width": 1600,
+      "height": 963
+    },
+    "metrics": {
+      "founded": 1978,
+      "destinations": 7,
+      "countries": 6
+    }
+  },
+  {
+    "id": "air-air-tahiti",
+    "category": "airline",
+    "name": "Air Tahiti",
+    "code": "VT",
+    "country": "FR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "FRED",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Tahiti.JPG",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "founded": 1987,
+      "destinations": 48,
+      "countries": 2
+    }
+  },
+  {
+    "id": "air-air-tahiti-nui",
+    "category": "airline",
+    "name": "Air Tahiti Nui",
+    "code": "TN",
+    "country": "FR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Joe Jones from Tokyo, Japan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Tahiti_Nui_A340-313_(F-OLOV)_parked_at_Narita_International_Airport.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "founded": 1996,
+      "destinations": 6,
+      "countries": 6
+    }
+  },
+  {
+    "id": "air-air-tanzania",
+    "category": "airline",
+    "name": "Air Tanzania",
+    "code": "TC",
+    "country": "TZ",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:5H-TCG@PEK_(20221104080343).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1977,
+      "destinations": 38,
+      "countries": 17
+    }
+  },
+  {
+    "id": "air-air-transat",
+    "category": "airline",
+    "name": "Air Transat",
+    "code": "TS",
+    "country": "CA",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "P199",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Transat_HQ.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "founded": 1986,
+      "destinations": 71,
+      "countries": 34
+    }
+  },
+  {
+    "id": "air-air-vanuatu",
+    "category": "airline",
+    "name": "Air Vanuatu",
+    "code": "NF",
+    "country": "VU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Phillip Capper",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Another_view_of_Air_Vanuatu%27s_737-800_YJ-AV1,_Auckland,_April_2008.jpg",
+      "width": 1600,
+      "height": 1071
+    },
+    "metrics": {
+      "founded": 1981,
+      "destinations": 18,
+      "countries": 1
+    }
+  },
+  {
+    "id": "air-air-zimbabwe",
+    "category": "airline",
+    "name": "Air Zimbabwe",
+    "code": "UM",
+    "country": "ZW",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Dmitriy Pichugin",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Zimbabwe_Boeing_767-200ER_Pichugin-1.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1967,
+      "destinations": 5,
+      "countries": 2
+    }
+  },
+  {
+    "id": "air-airasia",
+    "category": "airline",
+    "name": "AirAsia",
+    "code": "AK",
+    "country": "MY",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "VishuN",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AirAsia_India_A320_Neo_Aircraft.png",
+      "width": 960,
+      "height": 614
+    },
+    "metrics": {
+      "founded": 1993,
+      "destinations": 79,
+      "countries": 20
+    }
+  },
+  {
+    "id": "air-airasia-x",
+    "category": "airline",
+    "name": "AirAsia X",
+    "code": "D7",
+    "country": "MY",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Albion",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Asia_X_Airbus_A340-300.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2007,
+      "destinations": 19,
+      "countries": 10
+    }
+  },
+  {
+    "id": "air-airbaltic",
+    "category": "airline",
+    "name": "AirBaltic",
+    "code": "BT",
+    "country": "LV",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Bene Riobó",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:YL-BTA_A220_airBaltic_VBY_01.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1995,
+      "destinations": 84,
+      "countries": 38
+    }
+  },
+  {
+    "id": "air-airblue",
+    "category": "airline",
+    "name": "airblue",
+    "code": "PA",
+    "country": "PK",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Konstantin von Wedelstaedt",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A321-231,_Airblue_AN1173610.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2003,
+      "destinations": 12,
+      "countries": 4
+    }
+  },
+  {
+    "id": "air-aircalin",
+    "category": "airline",
+    "name": "Aircalin",
+    "code": "SB",
+    "country": "FR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Masakatsu Ukon",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AirCalin,_Airbus_A330-200_F-OJSE_NRT_(20046678302).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1983,
+      "destinations": 11,
+      "countries": 10
+    }
+  },
+  {
+    "id": "air-aix-connect",
+    "category": "airline",
+    "name": "AIX Connect",
+    "code": "I5",
+    "country": "IN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Arjun Sarup",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:VT-APJ_at_IGIA.jpg",
+      "width": 960,
+      "height": 641
+    },
+    "metrics": {
+      "founded": 2013
+    }
+  },
+  {
+    "id": "air-ajet",
+    "category": "airline",
+    "name": "AJet",
+    "code": "TK",
+    "country": "TR",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Mehmet Mustafa Çelik",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AnadoluJet_Boeing_737-800_landing_at_Sabiha_G%C3%B6k%C3%A7en_International_Airport.jpg",
+      "width": 960,
+      "height": 689
+    },
+    "metrics": {
+      "founded": 2008
+    }
+  },
+  {
+    "id": "air-alaska-airlines",
+    "category": "airline",
+    "name": "Alaska Airlines",
+    "code": "AS",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "4300streetcar",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alaska_Boeing_737-900ER_N407AS_departing_Boston_June_2025.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "founded": 1932,
+      "destinations": 143,
+      "countries": 17
+    }
+  },
+  {
+    "id": "air-all-nippon-airways",
+    "category": "airline",
+    "name": "All Nippon Airways",
+    "code": "NH",
+    "country": "JP",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "SIA321",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:JA797A-LHR-20240410-192710.jpg",
+      "width": 1600,
+      "height": 1068
+    },
+    "metrics": {
+      "founded": 1952,
+      "destinations": 91,
+      "countries": 24
+    }
+  },
+  {
+    "id": "air-allegiant-air",
+    "category": "airline",
+    "name": "Allegiant Air",
+    "code": "G4",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Tomás Del Coro",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:N256NV_Allegiant_Air_Airbus_A320-214.jpg",
+      "width": 1600,
+      "height": 798
+    },
+    "metrics": {
+      "founded": 1997,
+      "destinations": 123,
+      "countries": 1
+    }
+  },
+  {
+    "id": "air-american-airlines",
+    "category": "airline",
+    "name": "American Airlines",
+    "code": "AA",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Venkat Mangudi",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:N189AN_KJFK_(37741857042).jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "founded": 1926,
+      "destinations": 372,
+      "countries": 67
+    }
+  },
+  {
+    "id": "air-ariana-afghan-airlines",
+    "category": "airline",
+    "name": "Ariana Afghan Airlines",
+    "code": "FG",
+    "country": "AF",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ariana_Afghan_Airlines,_YA-PID,_Boeing_737-470_(36833010420).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1955,
+      "destinations": 13,
+      "countries": 8
+    }
+  },
+  {
+    "id": "air-arik-air",
+    "category": "airline",
+    "name": "Arik Air",
+    "code": "W3",
+    "country": "NG",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Biggerben",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arik_Air_Boeing_737-800_5N-MJN_in_LHR.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2002,
+      "destinations": 7,
+      "countries": 1
+    }
+  },
+  {
+    "id": "air-arkia",
+    "category": "airline",
+    "name": "Arkia",
+    "code": "IZ",
+    "country": "IL",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Oyoyoy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:4X-AGK_Independence_Day_09-05-2019b.jpg",
+      "width": 1600,
+      "height": 1066
+    },
+    "metrics": {
+      "founded": 1949,
+      "destinations": 43,
+      "countries": 29
+    }
+  },
+  {
+    "id": "air-asiana-airlines",
+    "category": "airline",
+    "name": "Asiana Airlines",
+    "code": "OZ",
+    "country": "KR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "ltdccba",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Asiana_Airlines,_Airbus_A350-941,_HL8078.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "founded": 1988,
+      "destinations": 63,
+      "countries": 24
+    }
+  },
+  {
+    "id": "air-atlantic-airways",
+    "category": "airline",
+    "name": "Atlantic Airways",
+    "code": "RC",
+    "country": "FO",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Waka77",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_Airways_A319_OY-RCG.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_Airways_A319_OY-RCG.JPG",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "founded": 1987,
+      "destinations": 14,
+      "countries": 9
+    }
+  },
+  {
+    "id": "air-atlas-air",
+    "category": "airline",
+    "name": "Atlas Air",
+    "code": "5Y",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Jeff Gilbert",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlas_Air_Boeing_747-400F_N412MC_SYD_2005-9-17.png",
+      "width": 960,
+      "height": 641
+    },
+    "metrics": {
+      "founded": 1993
+    }
+  },
+  {
+    "id": "air-austrian-airlines",
+    "category": "airline",
+    "name": "Austrian Airlines",
+    "code": "OS",
+    "country": "AT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Olivier CABARET",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A321-200_OE-LBD_%22Steirisches_Weinland%22_Austrian_Airlines.jpg",
+      "width": 1600,
+      "height": 800
+    },
+    "metrics": {
+      "founded": 1957,
+      "destinations": 133,
+      "countries": 49
+    }
+  },
+  {
+    "id": "air-avianca",
+    "category": "airline",
+    "name": "Avianca",
+    "code": "AV",
+    "country": "CO",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Alan Wilson from Stilton, Peterborough, Cambs, UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_787-8_%E2%80%98N783AV%E2%80%99_Avianca_(26953627630).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1919,
+      "destinations": 85,
+      "countries": 27
+    }
+  },
+  {
+    "id": "air-avianca-ecuador",
+    "category": "airline",
+    "name": "Avianca Ecuador",
+    "code": "2K",
+    "country": "EC",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "MHernandezp05",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A320-200_Landing.jpg",
+      "width": 960,
+      "height": 652
+    },
+    "metrics": {
+      "founded": 1986
+    }
+  },
+  {
+    "id": "air-avion-express",
+    "category": "airline",
+    "name": "Avion Express",
+    "code": "X9",
+    "country": "LT",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Javier Bravo Muñoz",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Avion_Express_Italia_Airbus_A320_JBM.jpg",
+      "width": 960,
+      "height": 655
+    },
+    "metrics": {
+      "founded": 2005,
+      "destinations": 9,
+      "countries": 5
+    }
+  },
+  {
+    "id": "air-azerbaijan-airlines",
+    "category": "airline",
+    "name": "Azerbaijan Airlines",
+    "code": "J2",
+    "country": "AZ",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Oyoyoy",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:4K-AZ05_LLBG.jpg",
+      "width": 1600,
+      "height": 1198
+    },
+    "metrics": {
+      "founded": 1992,
+      "destinations": 52,
+      "countries": 27
+    }
+  },
+  {
+    "id": "air-azores-airlines",
+    "category": "airline",
+    "name": "Azores Airlines",
+    "code": "S4",
+    "country": "PT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "BriYYZ from Toronto, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Azores_Airlines_Airbus_A330-200_CS-TRY_(23613271258).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1998,
+      "destinations": 16,
+      "countries": 7
+    }
+  },
+  {
+    "id": "air-ba-cityflyer",
+    "category": "airline",
+    "name": "BA CityFlyer",
+    "code": "CJ",
+    "country": "GB",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Danny-14-soetje",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:G-LCYG.jpg",
+      "width": 960,
+      "height": 631
+    },
+    "metrics": {
+      "founded": 2007
+    }
+  },
+  {
+    "id": "air-bamboo-airways",
+    "category": "airline",
+    "name": "Bamboo Airways",
+    "code": "QH",
+    "country": "VN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Colin Cooke Photo",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:VN-A819_Boeing_787-9_Bamboo_Airways_LHR_23.3.22.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 2018,
+      "destinations": 2,
+      "countries": 1
+    }
+  },
+  {
+    "id": "air-bangkok-airways",
+    "category": "airline",
+    "name": "Bangkok Airways",
+    "code": "PG",
+    "country": "TH",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangkok_Airways,_HS-PPJ,_Airbus_A320-232_(46939324164).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1968,
+      "destinations": 17,
+      "countries": 7
+    }
+  },
+  {
+    "id": "air-batik-air-malaysia",
+    "category": "airline",
+    "name": "Batik Air Malaysia",
+    "code": "OD",
+    "country": "MY",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Md Shaifuzzaman Ayon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:9M-LRF_-_Boeing_737-8_MAX_-_Batik_Air_Malaysia_-_42994_-_VGHS.jpg",
+      "width": 1600,
+      "height": 902
+    },
+    "metrics": {
+      "founded": 2012,
+      "destinations": 62,
+      "countries": 21
+    }
+  },
+  {
+    "id": "air-beijing-capital-airlines",
+    "category": "airline",
+    "name": "Beijing Capital Airlines",
+    "code": "JD",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "BriYYZ from Toronto, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capital_Airlines_Airbus_A330-200_B-8019_(27468269928).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 2010,
+      "destinations": 83,
+      "countries": 11
+    }
+  },
+  {
+    "id": "air-belavia",
+    "category": "airline",
+    "name": "Belavia",
+    "code": "B2",
+    "country": "BY",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belavia,_EW-366PA,_Boeing_737-31S_(39200361412).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1996,
+      "destinations": 34,
+      "countries": 16
+    }
+  },
+  {
+    "id": "air-binter-canarias",
+    "category": "airline",
+    "name": "Binter Canarias",
+    "code": "NT",
+    "country": "ES",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Andy Mitchell",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Binter_CanariasNaysa_ATR72_EC-GRP.jpg",
+      "width": 1600,
+      "height": 1000
+    },
+    "metrics": {
+      "founded": 1989,
+      "destinations": 39,
+      "countries": 6
+    }
+  },
+  {
+    "id": "air-british-airways",
+    "category": "airline",
+    "name": "British Airways",
+    "code": "BA",
+    "country": "GB",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Steve Lynes from Sandshurst, United Kingdom",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Airways_A350-1000_(G-XWBD)_@_LHR,_Jan_2020.jpg",
+      "width": 1600,
+      "height": 1008
+    },
+    "metrics": {
+      "founded": 1919,
+      "destinations": 213,
+      "countries": 79
+    }
+  },
+  {
+    "id": "air-brussels-airlines",
+    "category": "airline",
+    "name": "Brussels Airlines",
+    "code": "SN",
+    "country": "BE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "MarcelX42",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_Brandenburg_Airport_Brussels_Airlines_Airbus_A319-111_OO-SSV_(DSC07283).jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "founded": 2006,
+      "destinations": 93,
+      "countries": 43
+    }
+  },
+  {
+    "id": "air-buddha-air",
+    "category": "airline",
+    "name": "Buddha Air",
+    "code": "U4",
+    "country": "NP",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Rui Miguel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buddha_Air_ATR_72-500_on_finals_into_Tribhuvan_International.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1996,
+      "destinations": 15,
+      "countries": 2
+    }
+  },
+  {
+    "id": "air-cabo-verde-airlines",
+    "category": "airline",
+    "name": "Cabo Verde Airlines",
+    "code": "VR",
+    "country": "CV",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:D4-CCJ_@_LIS,_2024-04-11.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1958,
+      "destinations": 9,
+      "countries": 7
+    }
+  },
+  {
+    "id": "air-cargolux",
+    "category": "airline",
+    "name": "Cargolux",
+    "code": "CV",
+    "country": "LU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LX-VCF@HKG_(20190501121917).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1970
+    }
+  },
+  {
+    "id": "air-carpatair",
+    "category": "airline",
+    "name": "Carpatair",
+    "code": "V3",
+    "country": "RO",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Juergen Lehle",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carpatair_SB20_YR-SBC.jpg",
+      "width": 960,
+      "height": 639
+    },
+    "metrics": {
+      "founded": 1999
+    }
+  },
+  {
+    "id": "air-cathay-pacific",
+    "category": "airline",
+    "name": "Cathay Pacific",
+    "code": "CX",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cathay_Pacific_A350-1000_(B-LXA)_@_HKG,_March_2019.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1946,
+      "destinations": 82,
+      "countries": 32
+    }
+  },
+  {
+    "id": "air-cebu-pacific",
+    "category": "airline",
+    "name": "Cebu Pacific",
+    "code": "5J",
+    "country": "PH",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Aeroprints.com",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:RP-C3265_Airbus_A320_Cebu_Pacific_(7838440378).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1988,
+      "destinations": 53,
+      "countries": 16
+    }
+  },
+  {
+    "id": "air-china-airlines",
+    "category": "airline",
+    "name": "China Airlines",
+    "code": "CI",
+    "country": "TW",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Colin Cooke Photo",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:B-18902_A350-900_China_Airlines_LHR_4.11.20.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1959,
+      "destinations": 58,
+      "countries": 23
+    }
+  },
+  {
+    "id": "air-china-eastern-airlines",
+    "category": "airline",
+    "name": "China Eastern Airlines",
+    "code": "MU",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:B-7882@PEK_(20240914131501).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1988,
+      "destinations": 230,
+      "countries": 45
+    }
+  },
+  {
+    "id": "air-china-southern-airlines",
+    "category": "airline",
+    "name": "China Southern Airlines",
+    "code": "CZ",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:B-309W@PEK_(20191029135845).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1991,
+      "destinations": 230,
+      "countries": 50
+    }
+  },
+  {
+    "id": "air-cityjet",
+    "category": "airline",
+    "name": "CityJet",
+    "code": "WX",
+    "country": "IE",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "SuperJet International",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SSJ100_CityJet_by_Katsuhiko_Tokunaga_(28156953912)_(cropped).jpg",
+      "width": 960,
+      "height": 641
+    },
+    "metrics": {
+      "founded": 1992
+    }
+  },
+  {
+    "id": "air-condor-flugdienst",
+    "category": "airline",
+    "name": "Condor Flugdienst",
+    "code": "DE",
+    "country": "DE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "TJDarmstadt",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:D-ANRH_Condor_A330-900neo_Beach.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "founded": 1955,
+      "destinations": 89,
+      "countries": 38
+    }
+  },
+  {
+    "id": "air-conviasa",
+    "category": "airline",
+    "name": "Conviasa",
+    "code": "V0",
+    "country": "VE",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Orlando Suárez",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Conviasa_Embraer_190AR_taking_off_at_Caracas.jpg",
+      "width": 960,
+      "height": 679
+    },
+    "metrics": {
+      "founded": 2004,
+      "destinations": 23,
+      "countries": 4
+    }
+  },
+  {
+    "id": "air-copa-airlines",
+    "category": "airline",
+    "name": "Copa Airlines",
+    "code": "CM",
+    "country": "PA",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Schonbrunn at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CM_Hubdelasamericas.jpg",
+      "width": 960,
+      "height": 720
+    },
+    "metrics": {
+      "founded": 1947,
+      "destinations": 88,
+      "countries": 32
+    }
+  },
+  {
+    "id": "air-corendon-airlines",
+    "category": "airline",
+    "name": "Corendon Airlines",
+    "code": "XC",
+    "country": "TR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "MarcelX42",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamburg_Airport_Corendon_Airlines_Boeing_737-8S3(WL)_TC-TJJ_(DSC06539).jpg",
+      "width": 1600,
+      "height": 901
+    },
+    "metrics": {
+      "founded": 2004,
+      "destinations": 32,
+      "countries": 7
+    }
+  },
+  {
+    "id": "air-corsair-international",
+    "category": "airline",
+    "name": "Corsair International",
+    "code": "SS",
+    "country": "FR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Olivier CABARET",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A330-300_F-HZEN_-_Corsair_International.jpg",
+      "width": 1600,
+      "height": 801
+    },
+    "metrics": {
+      "founded": 1981,
+      "destinations": 14,
+      "countries": 10
+    }
+  },
+  {
+    "id": "air-cubana-de-aviacion",
+    "category": "airline",
+    "name": "Cubana de Aviación",
+    "code": "CU",
+    "country": "CU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Alan Wilson from Stilton, Peterborough, Cambs, UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ilyushin_Il96-300_%E2%80%98CU-T1250%E2%80%99_Cubana_(27159752021).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1929,
+      "destinations": 7,
+      "countries": 3
+    }
+  },
+  {
+    "id": "air-cyprus-airways",
+    "category": "airline",
+    "name": "Cyprus Airways",
+    "code": "CY",
+    "country": "CY",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cyprus_Airways_A319_(5B-DCW)_@_LED,_Aug_2018.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2017,
+      "destinations": 12,
+      "countries": 9
+    }
+  },
+  {
+    "id": "air-czech-airlines",
+    "category": "airline",
+    "name": "Czech Airlines",
+    "code": "OK",
+    "country": "CZ",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Alan Lebeda",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A320-214,_CSA_-_Czech_Airlines_AN1841815.jpg",
+      "width": 960,
+      "height": 684
+    },
+    "metrics": {
+      "founded": 1923
+    }
+  },
+  {
+    "id": "air-daallo-airlines",
+    "category": "airline",
+    "name": "Daallo Airlines",
+    "code": "D3",
+    "country": "DJ",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "RHL Images from England",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Mediterranee_A321_SX-BHS_(7915365846).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1991,
+      "destinations": 6,
+      "countries": 3
+    }
+  },
+  {
+    "id": "air-delta-air-lines",
+    "category": "airline",
+    "name": "Delta Air Lines",
+    "code": "DL",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Jeroen Stroes Aviation Photography from Netherlands",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:N508DN,_a350_(39758160940).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1925,
+      "destinations": 317,
+      "countries": 65
+    }
+  },
+  {
+    "id": "air-drukair",
+    "category": "airline",
+    "name": "Drukair",
+    "code": "KB",
+    "country": "BT",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Christian Hanuise",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Druk_Air_BAe_146_Hanuise.jpg",
+      "width": 960,
+      "height": 648
+    },
+    "metrics": {
+      "founded": 1981,
+      "destinations": 15,
+      "countries": 8
+    }
+  },
+  {
+    "id": "air-easyjet",
+    "category": "airline",
+    "name": "easyJet",
+    "code": "U2",
+    "country": "GB",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "ERIC SALARD",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:EasyJet_G-UZHE_Airbus_A320neo_at_CDG.jpg",
+      "width": 1600,
+      "height": 1063
+    },
+    "metrics": {
+      "founded": 1995,
+      "destinations": 165,
+      "countries": 39
+    }
+  },
+  {
+    "id": "air-easyjet-switzerland",
+    "category": "airline",
+    "name": "EasyJet Switzerland",
+    "code": "DS",
+    "country": "CH",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Oyoyoy",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HB-JYD_LLBG_24-01-2014.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "founded": 1988
+    }
+  },
+  {
+    "id": "air-edelweiss-air",
+    "category": "airline",
+    "name": "Edelweiss Air",
+    "code": "WK",
+    "country": "CH",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edelweiss_Air,_HB-JMD,_Airbus_A340-313_(47610165782).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1995,
+      "destinations": 100,
+      "countries": 39
+    }
+  },
+  {
+    "id": "air-egyptair",
+    "category": "airline",
+    "name": "EgyptAir",
+    "code": "MS",
+    "country": "EG",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Julian Herzog (Website)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:EgyptAir_Boeing_737-866_SU-GDD_MUC_2015_01.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "founded": 1932,
+      "destinations": 97,
+      "countries": 57
+    }
+  },
+  {
+    "id": "air-el-al-israel-airlines-ltd",
+    "category": "airline",
+    "name": "EL AL Israel Airlines Ltd.",
+    "code": "LY",
+    "country": "IL",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Sourcr: Aero Icarus from Zürich, Switzerland Derivative:MathKnight",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Al-Boeing-777-258ER--4X-ECA_(6905388954a)_(cropped).jpg",
+      "width": 1600,
+      "height": 961
+    },
+    "metrics": {
+      "founded": 1948,
+      "destinations": 67,
+      "countries": 32
+    }
+  },
+  {
+    "id": "air-emirates",
+    "category": "airline",
+    "name": "Emirates",
+    "code": "EK",
+    "country": "AE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Maarten Visser from Capelle aan den IJssel, Nederland",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A6-EDY_A380_Emirates_31_jan_2013_jfk_(8442269364)_(cropped).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1985,
+      "destinations": 143,
+      "countries": 76
+    }
+  },
+  {
+    "id": "air-enter-air",
+    "category": "airline",
+    "name": "Enter Air",
+    "code": "E4",
+    "country": "PL",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Enterair",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ENTERAIR6-SPENB.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2010,
+      "destinations": 2,
+      "countries": 1
+    }
+  },
+  {
+    "id": "air-eritrean-airlines",
+    "category": "airline",
+    "name": "Eritrean Airlines",
+    "code": "B8",
+    "country": "ER",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Aleks B.",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:E3-AAO_FRA_20050611.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1991
+    }
+  },
+  {
+    "id": "air-ethiopian-airlines",
+    "category": "airline",
+    "name": "Ethiopian Airlines",
+    "code": "ET",
+    "country": "ET",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ET-BAY@PEK_(20250803162115).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1945,
+      "destinations": 167,
+      "countries": 84
+    }
+  },
+  {
+    "id": "air-etihad-airways",
+    "category": "airline",
+    "name": "Etihad Airways",
+    "code": "EY",
+    "country": "AE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Md Shaifuzzaman Ayon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A6-BLL_-_Boeing_787-9_Dreamliner_-_Etihad_Airways_-_MSN_39656_-_VGHS.jpg",
+      "width": 1600,
+      "height": 903
+    },
+    "metrics": {
+      "founded": 2003,
+      "destinations": 118,
+      "countries": 65
+    }
+  },
+  {
+    "id": "air-european-air-charter",
+    "category": "airline",
+    "name": "European Air Charter",
+    "code": "H6",
+    "country": "BG",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "MarcelX42",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamburg_Airport_European_Air_Charter_Airbus_A320-214_LZ-LAH_(DSC08051).jpg",
+      "width": 1600,
+      "height": 901
+    },
+    "metrics": {
+      "founded": 2000
+    }
+  },
+  {
+    "id": "air-eurowings",
+    "category": "airline",
+    "name": "Eurowings",
+    "code": "EW",
+    "country": "DE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "MarcelX42",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamburg_Airport_Eurowings_Airbus_A320-251N_D-AENB_(DSC09811).jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "founded": 1993,
+      "destinations": 156,
+      "countries": 43
+    }
+  },
+  {
+    "id": "air-eva-air",
+    "category": "airline",
+    "name": "EVA Air",
+    "code": "BR",
+    "country": "TW",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20240107_Boeing_787-10_of_EVA_Air_(B-17813)_at_SHA_01.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1989,
+      "destinations": 56,
+      "countries": 23
+    }
+  },
+  {
+    "id": "air-fedex-express",
+    "category": "airline",
+    "name": "FedEx Express",
+    "code": "FX",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:N869FD@PEK_(20190609145857).jpg",
+      "width": 1600,
+      "height": 1066
+    },
+    "metrics": {
+      "founded": 1971
+    }
+  },
+  {
+    "id": "air-fiji-airways",
+    "category": "airline",
+    "name": "Fiji Airways",
+    "code": "FJ",
+    "country": "FJ",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Eric Salard",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:DQ-FJU_(9512088156).jpg",
+      "width": 1600,
+      "height": 1066
+    },
+    "metrics": {
+      "founded": 1947,
+      "destinations": 38,
+      "countries": 15
+    }
+  },
+  {
+    "id": "air-finnair",
+    "category": "airline",
+    "name": "Finnair",
+    "code": "AY",
+    "country": "FI",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Alan Wilson from Stilton, Peterborough, Cambs, UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A350-941_%27OH-LWA%27_Finnair_(22457807972).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1923,
+      "destinations": 117,
+      "countries": 41
+    }
+  },
+  {
+    "id": "air-flydubai",
+    "category": "airline",
+    "name": "flydubai",
+    "code": "FZ",
+    "country": "AE",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FlyDubai,_A6-FMB,_Boeing_737-8_MAX_(30728990597).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2008,
+      "destinations": 132,
+      "countries": 57
+    }
+  },
+  {
+    "id": "air-freebird-airlines",
+    "category": "airline",
+    "name": "Freebird Airlines",
+    "code": "FH",
+    "country": "TR",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Juergen Lehle",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Freebird_A320_TC-FBE.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2001,
+      "destinations": 15,
+      "countries": 3
+    }
+  },
+  {
+    "id": "air-frontier-airlines",
+    "category": "airline",
+    "name": "Frontier Airlines",
+    "code": "F9",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Russell Sekeet",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cookie_The_Oriole_(N359FR).jpg",
+      "width": 960,
+      "height": 582
+    },
+    "metrics": {
+      "founded": 1994,
+      "destinations": 88,
+      "countries": 10
+    }
+  },
+  {
+    "id": "air-garuda-indonesia",
+    "category": "airline",
+    "name": "Garuda Indonesia",
+    "code": "GA",
+    "country": "ID",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Gunawan Kartapranata",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garuda_Indonesia_New_Livery.jpg",
+      "width": 960,
+      "height": 720
+    },
+    "metrics": {
+      "founded": 1947,
+      "destinations": 49,
+      "countries": 11
+    }
+  },
+  {
+    "id": "air-georgian-airways",
+    "category": "airline",
+    "name": "Georgian Airways",
+    "code": "A9",
+    "country": "GE",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Konstantin Nikiforov",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airzena_Boeing_737-500_Nikiforov.jpg",
+      "width": 960,
+      "height": 638
+    },
+    "metrics": {
+      "founded": 2004,
+      "destinations": 16,
+      "countries": 9
+    }
+  },
+  {
+    "id": "air-go-first",
+    "category": "airline",
+    "name": "Go First",
+    "code": "G8",
+    "country": "IN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:GoAir,_VT-WJB,_Airbus_A320-271N_(33789251398).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2005,
+      "destinations": 6,
+      "countries": 1
+    }
+  },
+  {
+    "id": "air-gol-transportes-aereos",
+    "category": "airline",
+    "name": "Gol Transportes Aéreos",
+    "code": "G3",
+    "country": "BR",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Rafael Luiz Canossa",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PR-GYC_(Gol_Linhas_A%C3%A9reas_Inteligentes).png",
+      "width": 960,
+      "height": 644
+    },
+    "metrics": {
+      "founded": 2001,
+      "destinations": 87,
+      "countries": 12
+    }
+  },
+  {
+    "id": "air-gulf-air",
+    "category": "airline",
+    "name": "Gulf Air",
+    "code": "GF",
+    "country": "BH",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "John Taggart from Claydon Banbury, Oxfordshire",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A9C-FB_15062018LHR_(42014775555).jpg",
+      "width": 1600,
+      "height": 1068
+    },
+    "metrics": {
+      "founded": 1950,
+      "destinations": 52,
+      "countries": 33
+    }
+  },
+  {
+    "id": "air-hainan-airlines",
+    "category": "airline",
+    "name": "Hainan Airlines",
+    "code": "HU",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "byeangel from Tsingtao, China",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:B-5713_-_Hainan_Airlines_-_Boeing_737-84P(WL)_-_PEK_(14896123557).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1989,
+      "destinations": 124,
+      "countries": 35
+    }
+  },
+  {
+    "id": "air-hawaiian-airlines",
+    "category": "airline",
+    "name": "Hawaiian Airlines",
+    "code": "HA",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Musashi1600",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hawaiian_B763ER_N584HA_2009-02-01.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "founded": 1929
+    }
+  },
+  {
+    "id": "air-helvetic-airways",
+    "category": "airline",
+    "name": "Helvetic Airways",
+    "code": "2L",
+    "country": "CH",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Salamanamanjaro",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Helvetic_Airways_A319_HBJVK_short_final_LSZB_RWY_32.jpg",
+      "width": 1600,
+      "height": 1071
+    },
+    "metrics": {
+      "founded": 2003,
+      "destinations": 21,
+      "countries": 15
+    }
+  },
+  {
+    "id": "air-hk-express",
+    "category": "airline",
+    "name": "HK Express",
+    "code": "UO",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "LN9267",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Express_Airways_B-KKJ_run_UO619(South_Korea_Seoul_Incheon_International_Airport_to_Hong_Kong_International_Airport)_06-06-2025.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "founded": 2004,
+      "destinations": 36,
+      "countries": 9
+    }
+  },
+  {
+    "id": "air-hong-kong-airlines",
+    "category": "airline",
+    "name": "Hong Kong Airlines",
+    "code": "HX",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:B-LHB@HKG_(20180903122406).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 2001,
+      "destinations": 33,
+      "countries": 13
+    }
+  },
+  {
+    "id": "air-iberia",
+    "category": "airline",
+    "name": "Iberia",
+    "code": "IB",
+    "country": "ES",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Colin Cooke Photo",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:EC-MXV_Airbus_A350-900_Iberia_LHR_30.3.21.jpg",
+      "width": 1600,
+      "height": 1025
+    },
+    "metrics": {
+      "founded": 1927,
+      "destinations": 137,
+      "countries": 49
+    }
+  },
+  {
+    "id": "air-icelandair",
+    "category": "airline",
+    "name": "Icelandair",
+    "code": "FI",
+    "country": "IS",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "MarcelX42",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamburg_Airport_Icelandair_Boeing_737-8_MAX_TF-ICU_(DSC06877).jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "founded": 1937,
+      "destinations": 66,
+      "countries": 22
+    }
+  },
+  {
+    "id": "air-indigo",
+    "category": "airline",
+    "name": "IndiGo",
+    "code": "6E",
+    "country": "IN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Paul Spijkers",
+      "license": "GFDL",
+      "licenseUrl": "http://www.gnu.org/copyleft/fdl.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:IndiGo_Airbus_A320-200_Spijkers-2.jpg",
+      "width": 960,
+      "height": 652
+    },
+    "metrics": {
+      "founded": 2005,
+      "destinations": 140,
+      "countries": 29
+    }
+  },
+  {
+    "id": "air-indonesia-airasia",
+    "category": "airline",
+    "name": "Indonesia AirAsia",
+    "code": "QZ",
+    "country": "ID",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Ole Simon",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indonesia_AirAsia_Airbus_A320_Simon.jpg",
+      "width": 960,
+      "height": 673
+    },
+    "metrics": {
+      "founded": 2004,
+      "destinations": 17,
+      "countries": 6
+    }
+  },
+  {
+    "id": "air-iraqi-airways",
+    "category": "airline",
+    "name": "Iraqi Airways",
+    "code": "IA",
+    "country": "IQ",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Colin Cooke Photo",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:YI-AGO_Boeing_747-270C_Iraqi_Airways_7.6.86.jpg",
+      "width": 1600,
+      "height": 1056
+    },
+    "metrics": {
+      "founded": 1946,
+      "destinations": 28,
+      "countries": 12
+    }
+  },
+  {
+    "id": "air-israir-airlines",
+    "category": "airline",
+    "name": "Israir Airlines",
+    "code": "6H",
+    "country": "IL",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Oyoyoy",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:4X-ABG_LLBG_11-07-2014b.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "founded": 1989
+    }
+  },
+  {
+    "id": "air-ita-airways",
+    "category": "airline",
+    "name": "ITA Airways",
+    "code": "AZ",
+    "country": "IT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Steven Byles",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ITA_AIRWAYS_A350-941_EI-IFF_HND_RJTT_19-APR-2023_(52829502995).jpg",
+      "width": 1600,
+      "height": 838
+    },
+    "metrics": {
+      "founded": 2020,
+      "destinations": 76,
+      "countries": 30
+    }
+  },
+  {
+    "id": "air-japan-airlines",
+    "category": "airline",
+    "name": "Japan Airlines",
+    "code": "JL",
+    "country": "JP",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Mark Bess",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:JA01WJ_JFK_Climb_Out_31L_JL_A350_1041_A350_1000_Red_Sticker_Beacon_Small.png",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "founded": 1951,
+      "destinations": 89,
+      "countries": 21
+    }
+  },
+  {
+    "id": "air-jazeera-airways",
+    "category": "airline",
+    "name": "Jazeera Airways",
+    "code": "J9",
+    "country": "KW",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jazeera_Airways,_9K-CAJ,_Airbus_A320-214_(39243847214).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2005,
+      "destinations": 66,
+      "countries": 32
+    }
+  },
+  {
+    "id": "air-jeju-air",
+    "category": "airline",
+    "name": "Jeju Air",
+    "code": "7C",
+    "country": "KR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Masakatsu Ukon",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_Air,_Boeing_737-800_HL8295_NRT_(24536186109).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 2005,
+      "destinations": 52,
+      "countries": 15
+    }
+  },
+  {
+    "id": "air-jet2-com",
+    "category": "airline",
+    "name": "Jet2.com",
+    "code": "LS",
+    "country": "GB",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Michiel1972",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jet2_aeroplane_landing_at_EDI.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jet2_aeroplane_landing_at_EDI.jpg",
+      "width": 480,
+      "height": 298
+    },
+    "metrics": {
+      "founded": 2002,
+      "destinations": 98,
+      "countries": 26
+    }
+  },
+  {
+    "id": "air-jetblue-airways",
+    "category": "airline",
+    "name": "JetBlue Airways",
+    "code": "B6",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "12anonymoususer34 at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:JetBlue_A320_at_Orlando.jpeg",
+      "width": 1600,
+      "height": 1169
+    },
+    "metrics": {
+      "founded": 1999,
+      "destinations": 115,
+      "countries": 32
+    }
+  },
+  {
+    "id": "air-jetstar-airways",
+    "category": "airline",
+    "name": "Jetstar Airways",
+    "code": "JQ",
+    "country": "AU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Terence Ong",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jetstar_A320.jpg",
+      "width": 1600,
+      "height": 1074
+    },
+    "metrics": {
+      "founded": 2003,
+      "destinations": 42,
+      "countries": 13
+    }
+  },
+  {
+    "id": "air-kam-air",
+    "category": "airline",
+    "name": "Kam Air",
+    "code": "RQ",
+    "country": "AF",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:YA-KME@PEK_(20200626153154).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 2003,
+      "destinations": 15,
+      "countries": 9
+    }
+  },
+  {
+    "id": "air-kenya-airways",
+    "category": "airline",
+    "name": "Kenya Airways",
+    "code": "KQ",
+    "country": "KE",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Konstantin von Wedelstaedt",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kenya_Airways_Boeing_777-200ER_5Y-KYZ_LHR_2009-8-8.png",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1977,
+      "destinations": 42,
+      "countries": 32
+    }
+  },
+  {
+    "id": "air-klm",
+    "category": "airline",
+    "name": "KLM",
+    "code": "KL",
+    "country": "NL",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Acroterion",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KLM_Boeing_787-10_PH-BKK_IAD_VA1.jpg",
+      "width": 1600,
+      "height": 832
+    },
+    "metrics": {
+      "founded": 1919,
+      "destinations": 171,
+      "countries": 67
+    }
+  },
+  {
+    "id": "air-klm-cityhopper",
+    "category": "airline",
+    "name": "KLM Cityhopper",
+    "code": "WA",
+    "country": "NL",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "MarcelX42",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_Brandenburg_Airport_KLM_Cityhopper_Embraer_ERJ-190STD_PH-EZY_(DSC02042).jpg",
+      "width": 1600,
+      "height": 901
+    },
+    "metrics": {
+      "founded": 1991
+    }
+  },
+  {
+    "id": "air-kuwait-airways",
+    "category": "airline",
+    "name": "Kuwait Airways",
+    "code": "KU",
+    "country": "KW",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Md Shaifuzzaman Ayon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:9K-AOJ_-_Boeing_777-369(ER)_-_Kuwait_Airways_-_Al-Mesila_-_MSN_62567_-_VGHS.jpg",
+      "width": 1600,
+      "height": 876
+    },
+    "metrics": {
+      "founded": 1954,
+      "destinations": 65,
+      "countries": 35
+    }
+  },
+  {
+    "id": "air-lam-mozambique-airlines",
+    "category": "airline",
+    "name": "LAM Mozambique Airlines",
+    "code": "TM",
+    "country": "MZ",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Christian Volpati",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LAM_Mozambique_Airlines_Embraer_190_Volpati.jpg",
+      "width": 960,
+      "height": 638
+    },
+    "metrics": {
+      "founded": 1936,
+      "destinations": 13,
+      "countries": 3
+    }
+  },
+  {
+    "id": "air-lao-airlines",
+    "category": "airline",
+    "name": "Lao Airlines",
+    "code": "QV",
+    "country": "LA",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Alec Wilson from Khon Kaen, Thailand",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:RDPL-34225_(33986141153).jpg",
+      "width": 1600,
+      "height": 814
+    },
+    "metrics": {
+      "founded": 1976,
+      "destinations": 22,
+      "countries": 6
+    }
+  },
+  {
+    "id": "air-latam-airlines",
+    "category": "airline",
+    "name": "LATAM Airlines",
+    "code": "LA",
+    "country": "CL",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LATAM_Airlines,_CC-BGJ,_Boeing_787-9_Dreamliner_(49593009796).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1929,
+      "destinations": 171,
+      "countries": 28
+    }
+  },
+  {
+    "id": "air-latam-brasil",
+    "category": "airline",
+    "name": "LATAM Brasil",
+    "code": "JJ",
+    "country": "BR",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Gregori Pavan Freire de Carvalho from Peruibe, Brasil",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TAMHQSaoPaulo.jpg",
+      "width": 960,
+      "height": 720
+    },
+    "metrics": {
+      "founded": 1961
+    }
+  },
+  {
+    "id": "air-libyan-airlines",
+    "category": "airline",
+    "name": "Libyan Airlines",
+    "code": "LN",
+    "country": "LY",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Libyan_Airlines,_5A-LAQ,_Airbus_A320-214_(39243850794).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1965,
+      "destinations": 8,
+      "countries": 4
+    }
+  },
+  {
+    "id": "air-lion-air",
+    "category": "airline",
+    "name": "Lion Air",
+    "code": "JT",
+    "country": "ID",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Aldo Bidini",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_737-9GPER,_Lion_Air_JP7325214.jpg",
+      "width": 960,
+      "height": 648
+    },
+    "metrics": {
+      "founded": 1999,
+      "destinations": 35,
+      "countries": 3
+    }
+  },
+  {
+    "id": "air-lot-polish-airlines",
+    "category": "airline",
+    "name": "LOT Polish Airlines",
+    "code": "LO",
+    "country": "PL",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Mark Harkin",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SP-LWA_(38370349225).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1929,
+      "destinations": 105,
+      "countries": 55
+    }
+  },
+  {
+    "id": "air-lucky-air",
+    "category": "airline",
+    "name": "Lucky Air",
+    "code": "8L",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Md Shaifuzzaman Ayon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:B-1014_-_Lucky_Air_-_Airbus_A330-343_-_MSN_1851_-_VGHS.jpg",
+      "width": 1600,
+      "height": 902
+    },
+    "metrics": {
+      "founded": 2004,
+      "destinations": 68,
+      "countries": 3
+    }
+  },
+  {
+    "id": "air-lufthansa",
+    "category": "airline",
+    "name": "Lufthansa",
+    "code": "LH",
+    "country": "DE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "TJDarmstadt",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:D-AIXK_Lufthansa_A350-900_MUC_%22Karlsruhe%22.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "founded": 1926,
+      "destinations": 192,
+      "countries": 70
+    }
+  },
+  {
+    "id": "air-lufthansa-cityline",
+    "category": "airline",
+    "name": "Lufthansa CityLine",
+    "code": "CL",
+    "country": "DE",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lufthansa_Cityline,_D-ACNH,_Bombardier_CRJ-900LR_(49580354133).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1958
+    }
+  },
+  {
+    "id": "air-lufthansa-regional",
+    "category": "airline",
+    "name": "Lufthansa Regional",
+    "code": "LH",
+    "country": "DE",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lufthansa_CityLine,_D-ACNA,_Bombardier_CRJ-900LR_(26743321668).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2004
+    }
+  },
+  {
+    "id": "air-luxair",
+    "category": "airline",
+    "name": "Luxair",
+    "code": "LG",
+    "country": "LU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Maarten Visser from Capelle aan den IJssel, Nederland",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LX-LGS_B737-700_Luxair_(6235299294).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1961,
+      "destinations": 103,
+      "countries": 31
+    }
+  },
+  {
+    "id": "air-mahan-air",
+    "category": "airline",
+    "name": "Mahan Air",
+    "code": "W5",
+    "country": "IR",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Konstantin von Wedelstaedt",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahan_Air_Boeing_747-400_KvW.jpg",
+      "width": 960,
+      "height": 638
+    },
+    "metrics": {
+      "founded": 1991,
+      "destinations": 54,
+      "countries": 12
+    }
+  },
+  {
+    "id": "air-malaysia-airlines",
+    "category": "airline",
+    "name": "Malaysia Airlines",
+    "code": "MH",
+    "country": "MY",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malaysia_Airlines,_9M-MLR,_Boeing_737-8H6_(32719159297).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1972,
+      "destinations": 73,
+      "countries": 24
+    }
+  },
+  {
+    "id": "air-mandarin-airlines",
+    "category": "airline",
+    "name": "Mandarin Airlines",
+    "code": "AE",
+    "country": "TW",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Minyen Hsieh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mandarin_Airlines_ATR72-600_2019-10-27.jpg",
+      "width": 1600,
+      "height": 992
+    },
+    "metrics": {
+      "founded": 1991,
+      "destinations": 14,
+      "countries": 4
+    }
+  },
+  {
+    "id": "air-mango",
+    "category": "airline",
+    "name": "Mango",
+    "code": "JE",
+    "country": "ZA",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Maarten Visser from Capelle aan den IJssel, Nederland",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ZS-SJL_B737-800W_Mango_240309_(4319670670)_(2).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2006
+    }
+  },
+  {
+    "id": "air-martinair",
+    "category": "airline",
+    "name": "Martinair",
+    "code": "MP",
+    "country": "NL",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Jakkrit Prasertwit",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martinair_Cargo_Boeing_747-400F_Prasertwit-2.jpg",
+      "width": 960,
+      "height": 639
+    },
+    "metrics": {
+      "founded": 1958
+    }
+  },
+  {
+    "id": "air-miat-mongolian-airlines",
+    "category": "airline",
+    "name": "MIAT Mongolian Airlines",
+    "code": "OM",
+    "country": "MN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Nikiforov Konstantin",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:MIAT_Mongolian_Airlines_Boeing_767-300ER_JU-1021_SVO_Jan_2014.png",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1956,
+      "destinations": 21,
+      "countries": 9
+    }
+  },
+  {
+    "id": "air-middle-east-airlines-air-liban",
+    "category": "airline",
+    "name": "Middle East Airlines - Air Liban",
+    "code": "ME",
+    "country": "LB",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Wael AL-Qutub",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Middle_East_Airlines_A330-200_OD-MEA_LHR_2009-8-8.png",
+      "width": 960,
+      "height": 638
+    },
+    "metrics": {
+      "founded": 1945,
+      "destinations": 37,
+      "countries": 24
+    }
+  },
+  {
+    "id": "air-nauru-airlines",
+    "category": "airline",
+    "name": "Nauru Airlines",
+    "code": "ON",
+    "country": "NR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "YSSYguy at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Our_Airline_(VH-INU)_Boeing_737-3Y0_at_Sydney_Airport.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 2014,
+      "destinations": 7,
+      "countries": 5
+    }
+  },
+  {
+    "id": "air-nepal-airlines",
+    "category": "airline",
+    "name": "Nepal Airlines",
+    "code": "RA",
+    "country": "NP",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Paul Spikers",
+      "license": "GFDL",
+      "licenseUrl": "http://www.gnu.org/copyleft/fdl.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nepal_Airlines_Boeing_757_Spijkers.jpg",
+      "width": 960,
+      "height": 644
+    },
+    "metrics": {
+      "founded": 1958,
+      "destinations": 12,
+      "countries": 10
+    }
+  },
+  {
+    "id": "air-nok-air",
+    "category": "airline",
+    "name": "Nok Air",
+    "code": "DD",
+    "country": "TH",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Andre Wadman",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_737-8AS,_Nok_Air_AN2214559.jpg",
+      "width": 960,
+      "height": 641
+    },
+    "metrics": {
+      "founded": 2004,
+      "destinations": 16,
+      "countries": 2
+    }
+  },
+  {
+    "id": "air-nordica",
+    "category": "airline",
+    "name": "Nordica",
+    "code": "EE",
+    "country": "EE",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nordica,_ES-ACD,_Canadair_CRJ-900ER_(26076502426).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2015
+    }
+  },
+  {
+    "id": "air-norwegian-air-shuttle",
+    "category": "airline",
+    "name": "Norwegian Air Shuttle",
+    "code": "DY",
+    "country": "NO",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Alan Wilson from Stilton, Peterborough, Cambs, UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_737-8JP(w)_%E2%80%98LN-DYD%E2%80%99_Norwegian_Air_Shuttle_(42567575274).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1993,
+      "destinations": 115,
+      "countries": 38
+    }
+  },
+  {
+    "id": "air-norwegian-air-sweden",
+    "category": "airline",
+    "name": "Norwegian Air Sweden",
+    "code": "D8",
+    "country": "SE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Norwegian",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Norwegian_Boeing_737_MAX_8.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 2018,
+      "destinations": 103,
+      "countries": 36
+    }
+  },
+  {
+    "id": "air-nouvelair",
+    "category": "airline",
+    "name": "Nouvelair",
+    "code": "BJ",
+    "country": "TN",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Juergen Lehle",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nouvelair_A320_TS-INC.jpg",
+      "width": 480,
+      "height": 320
+    },
+    "metrics": {
+      "founded": 1989,
+      "destinations": 31,
+      "countries": 13
+    }
+  },
+  {
+    "id": "air-okay-airways",
+    "category": "airline",
+    "name": "Okay Airways",
+    "code": "BK",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Aeroprints.com",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:B-5575_Boeing_738WL_OK_Air_(12204762535).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 2004,
+      "destinations": 38,
+      "countries": 1
+    }
+  },
+  {
+    "id": "air-oman-air",
+    "category": "airline",
+    "name": "Oman Air",
+    "code": "WY",
+    "country": "OM",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Julian Herzog (Website)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oman_Air_Airbus_A330-343_A4O-DI_MUC_2015_02.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "founded": 1993,
+      "destinations": 46,
+      "countries": 25
+    }
+  },
+  {
+    "id": "air-orient-thai-airlines",
+    "category": "airline",
+    "name": "Orient Thai Airlines",
+    "code": "OX",
+    "country": "TH",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Jakkrit Prasertwit",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orient_Thai_Airlines_Boeing_767-300_Prasertwit.jpg",
+      "width": 960,
+      "height": 639
+    },
+    "metrics": {
+      "founded": 1995
+    }
+  },
+  {
+    "id": "air-pacific-airlines",
+    "category": "airline",
+    "name": "Pacific Airlines",
+    "code": "BL",
+    "country": "VN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Long Ethan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jetstar_Pacific_new_livery..jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1991
+    }
+  },
+  {
+    "id": "air-pakistan-international-airlines",
+    "category": "airline",
+    "name": "Pakistan International Airlines",
+    "code": "PK",
+    "country": "PK",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Aero Icarus from Zürich, Switzerland",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:158dv_-_PIA_Pakistan_International_Airlines_Boeing_747-200_(M),_AP-BAT@LHR,27.10.2001_-_Flickr_-_Aero_Icarus.jpg",
+      "width": 1600,
+      "height": 1096
+    },
+    "metrics": {
+      "founded": 1955,
+      "destinations": 30,
+      "countries": 10
+    }
+  },
+  {
+    "id": "air-pegasus-airlines",
+    "category": "airline",
+    "name": "Pegasus Airlines",
+    "code": "PC",
+    "country": "TR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Julian Herzog (Website)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pegasus_Airlines_Boeing_737-82R_TC-CPC_MUC_2015_01.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "founded": 1989,
+      "destinations": 168,
+      "countries": 56
+    }
+  },
+  {
+    "id": "air-philippine-airlines",
+    "category": "airline",
+    "name": "Philippine Airlines",
+    "code": "PR",
+    "country": "PH",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Next Trip Network",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Philippine_777-300ER_LAX_(cropped).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1941,
+      "destinations": 71,
+      "countries": 22
+    }
+  },
+  {
+    "id": "air-pobeda",
+    "category": "airline",
+    "name": "Pobeda",
+    "code": "DP",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pobeda,_VQ-BTD,_Boeing_737-8MA_(20679727523).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2014,
+      "destinations": 45,
+      "countries": 6
+    }
+  },
+  {
+    "id": "air-portugalia",
+    "category": "airline",
+    "name": "Portugália",
+    "code": "NI",
+    "country": "PT",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Javier Bravo Muñoz",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fokker_100_(F-28-0100),_PGA_-_Portugalia_Airlines_AN1910284.jpg",
+      "width": 960,
+      "height": 656
+    },
+    "metrics": {
+      "founded": 1989
+    }
+  },
+  {
+    "id": "air-qantas-airways",
+    "category": "airline",
+    "name": "Qantas Airways",
+    "code": "QF",
+    "country": "AU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Vismay Bhadra",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:QANTAS_A380_VH-OQF_4974.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1920,
+      "destinations": 100,
+      "countries": 28
+    }
+  },
+  {
+    "id": "air-qatar-airways",
+    "category": "airline",
+    "name": "Qatar Airways",
+    "code": "QR",
+    "country": "QA",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Juke Schweizer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qatar_Airways_Airbus_A350-1000.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1993,
+      "destinations": 184,
+      "countries": 87
+    }
+  },
+  {
+    "id": "air-red-wings-airlines",
+    "category": "airline",
+    "name": "Red Wings Airlines",
+    "code": "WZ",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Wings,_VP-BRW,_Airbus_A321-211_(43587517545).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1999,
+      "destinations": 55,
+      "countries": 10
+    }
+  },
+  {
+    "id": "air-rossiya",
+    "category": "airline",
+    "name": "Rossiya",
+    "code": "FV",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Marvin Mutz",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:VP-BBT_Airbus_A319-100_Rossiya_DUS_2018-07-31_(14a)_(42895822715).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1934
+    }
+  },
+  {
+    "id": "air-royal-air-maroc",
+    "category": "airline",
+    "name": "Royal Air Maroc",
+    "code": "AT",
+    "country": "MA",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CN-RGZ@PEK_(20200414153836).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1957,
+      "destinations": 103,
+      "countries": 46
+    }
+  },
+  {
+    "id": "air-royal-brunei-airlines",
+    "category": "airline",
+    "name": "Royal Brunei Airlines",
+    "code": "BI",
+    "country": "BN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Montague Smith",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Brunei_Airlines_Airbus_A320_PER_Monty-1.jpg",
+      "width": 960,
+      "height": 639
+    },
+    "metrics": {
+      "founded": 1974,
+      "destinations": 25,
+      "countries": 17
+    }
+  },
+  {
+    "id": "air-royal-jordanian",
+    "category": "airline",
+    "name": "Royal Jordanian",
+    "code": "RJ",
+    "country": "JO",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Maarten Visser from Capelle aan den IJssel, Nederland",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:JY-AIB_A340_Royal_Jordanian_B_(4191868167).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1967,
+      "destinations": 70,
+      "countries": 36
+    }
+  },
+  {
+    "id": "air-rwandair",
+    "category": "airline",
+    "name": "RwandAir",
+    "code": "WB",
+    "country": "RW",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Hansueli Krapf This file was uploaded with Commonist.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2012-06-21_07-13-14_Kenya_Nairobi_Area_Empakasi.jpg",
+      "width": 1600,
+      "height": 728
+    },
+    "metrics": {
+      "founded": 2002,
+      "destinations": 22,
+      "countries": 18
+    }
+  },
+  {
+    "id": "air-ryanair",
+    "category": "airline",
+    "name": "Ryanair",
+    "code": "FR",
+    "country": "IE",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Michael Oldfield",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ryanair_Boeing_737-800_EI-EBX.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1985,
+      "destinations": 220,
+      "countries": 35
+    }
+  },
+  {
+    "id": "air-saudia",
+    "category": "airline",
+    "name": "Saudia",
+    "code": "SV",
+    "country": "SA",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Colin Cooke Photo",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HZ-AR29_Boeing_787-10_Saudia_Arabian_Airlines_LHR_3.1.25.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1945,
+      "destinations": 103,
+      "countries": 39
+    }
+  },
+  {
+    "id": "air-scandinavian-airlines",
+    "category": "airline",
+    "name": "Scandinavian Airlines",
+    "code": "SK",
+    "country": "DK",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SE-RSE@PEK_(20220221140317).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1946,
+      "destinations": 151,
+      "countries": 43
+    }
+  },
+  {
+    "id": "air-scat-airlines",
+    "category": "airline",
+    "name": "SCAT Airlines",
+    "code": "DV",
+    "country": "KZ",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Aktug Ates",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SCAT_Boeing_737-500_Ates-1.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1997,
+      "destinations": 45,
+      "countries": 18
+    }
+  },
+  {
+    "id": "air-scoot",
+    "category": "airline",
+    "name": "Scoot",
+    "code": "TR",
+    "country": "SG",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "MarcelX42",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_Brandenburg_Airport_Scoot_Boeing_787-8_Dreamliner_9V-OFK_(DSC05998).jpg",
+      "width": 1600,
+      "height": 901
+    },
+    "metrics": {
+      "founded": 2011,
+      "destinations": 86,
+      "countries": 18
+    }
+  },
+  {
+    "id": "air-shandong-airlines",
+    "category": "airline",
+    "name": "Shandong Airlines",
+    "code": "SC",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "byeangel from Tsingtao, China",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:B-5651_-_Shandong_Airlines_-_Boeing_737-85N(WL)_-_PEK_(16963813486).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1994,
+      "destinations": 78,
+      "countries": 10
+    }
+  },
+  {
+    "id": "air-shanghai-airlines",
+    "category": "airline",
+    "name": "Shanghai Airlines",
+    "code": "FM",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:China_Eastern_Airlines,_B-2020,_Boeing_777-39P_ER_(19992854280).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1985,
+      "destinations": 82,
+      "countries": 12
+    }
+  },
+  {
+    "id": "air-shenzhen-airlines",
+    "category": "airline",
+    "name": "Shenzhen Airlines",
+    "code": "ZH",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "flickr.com/photos/boeingdreamscape",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shenzhen_Airlines_Boeing_737-800.jpg",
+      "width": 1600,
+      "height": 1135
+    },
+    "metrics": {
+      "founded": 1992,
+      "destinations": 92,
+      "countries": 18
+    }
+  },
+  {
+    "id": "air-sichuan-airlines",
+    "category": "airline",
+    "name": "Sichuan Airlines",
+    "code": "3U",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sichuan_Airlines_Building_(20250402125241).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1986,
+      "destinations": 134,
+      "countries": 23
+    }
+  },
+  {
+    "id": "air-singapore-airlines",
+    "category": "airline",
+    "name": "Singapore Airlines",
+    "code": "SQ",
+    "country": "SG",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Kentaro Iemoto from Tokyo, Japan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Singapore_Airlines_A380-800(9V-SKH)_(5441780270).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1964,
+      "destinations": 83,
+      "countries": 35
+    }
+  },
+  {
+    "id": "air-sky-airline",
+    "category": "airline",
+    "name": "Sky Airline",
+    "code": "H2",
+    "country": "CL",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Sky KoreSCL",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CC-AZE_SCEL_Feb._23rd_2019.jpg",
+      "width": 960,
+      "height": 595
+    },
+    "metrics": {
+      "founded": 2002,
+      "destinations": 45,
+      "countries": 7
+    }
+  },
+  {
+    "id": "air-skymark-airlines",
+    "category": "airline",
+    "name": "Skymark Airlines",
+    "code": "BC",
+    "country": "JP",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Kentaro Iemoto from Tokyo, Japan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skymark_B737-800(JA737Q)_(5067059699).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1996,
+      "destinations": 12,
+      "countries": 1
+    }
+  },
+  {
+    "id": "air-smartavia",
+    "category": "airline",
+    "name": "Smartavia",
+    "code": "5N",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SmartAvia,_VP-BOS,_Airbus_A320-251N_(51265505595).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2004,
+      "destinations": 22,
+      "countries": 1
+    }
+  },
+  {
+    "id": "air-smartwings",
+    "category": "airline",
+    "name": "Smartwings",
+    "code": "QS",
+    "country": "CZ",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Andy Mitchell from Glasgow, UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:OK-SWW_(16127185407).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1997,
+      "destinations": 57,
+      "countries": 18
+    }
+  },
+  {
+    "id": "air-south-african-airways",
+    "category": "airline",
+    "name": "South African Airways",
+    "code": "SA",
+    "country": "ZA",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Alan Wilson from Stilton, Peterborough, Cambs, UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A319-131_%27ZS-SFG%27_South_African_Airways_(15554993244).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1934,
+      "destinations": 18,
+      "countries": 13
+    }
+  },
+  {
+    "id": "air-southwest-airlines",
+    "category": "airline",
+    "name": "Southwest Airlines",
+    "code": "WN",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Luiz Eduardo",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southwest_Airlines_plane.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "founded": 1967,
+      "destinations": 120,
+      "countries": 14
+    }
+  },
+  {
+    "id": "air-spicejet",
+    "category": "airline",
+    "name": "SpiceJet",
+    "code": "SG",
+    "country": "IN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Nisarg Vyas",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SpiceJet_Boeing_737-800_Vyas-2.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2005,
+      "destinations": 31,
+      "countries": 3
+    }
+  },
+  {
+    "id": "air-spring-airlines",
+    "category": "airline",
+    "name": "Spring Airlines",
+    "code": "9C",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "byeangel from Tsingtao, China",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:B-6971_-_Spring_Airlines_-_Airbus_A320-214_-_SHA_(12437572033).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 2004,
+      "destinations": 115,
+      "countries": 13
+    }
+  },
+  {
+    "id": "air-srilankan-airlines",
+    "category": "airline",
+    "name": "SriLankan Airlines",
+    "code": "UL",
+    "country": "LK",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Adrian Pingstone",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Srilankan_a340-300_4r-adf_arp.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Srilankan_a340-300_4r-adf_arp.jpg",
+      "width": 1600,
+      "height": 994
+    },
+    "metrics": {
+      "founded": 1979,
+      "destinations": 35,
+      "countries": 21
+    }
+  },
+  {
+    "id": "air-sriwijaya-air",
+    "category": "airline",
+    "name": "Sriwijaya Air",
+    "code": "SJ",
+    "country": "ID",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Netaholic13",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sriwijaya_supadio.jpg",
+      "width": 1600,
+      "height": 772
+    },
+    "metrics": {
+      "founded": 2003,
+      "destinations": 26,
+      "countries": 1
+    }
+  },
+  {
+    "id": "air-sudan-airways",
+    "category": "airline",
+    "name": "Sudan Airways",
+    "code": "SD",
+    "country": "SD",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Michel Gilliand",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sudan_Airways_Airbus_A320_Gilliand.jpg",
+      "width": 960,
+      "height": 686
+    },
+    "metrics": {
+      "founded": 1947,
+      "destinations": 5,
+      "countries": 3
+    }
+  },
+  {
+    "id": "air-sun-country-airlines",
+    "category": "airline",
+    "name": "Sun Country Airlines",
+    "code": "SY",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Luis David Sanchez",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sun_Country_Airlines_Boeing_737-800_LDS.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2002,
+      "destinations": 79,
+      "countries": 14
+    }
+  },
+  {
+    "id": "air-sunexpress",
+    "category": "airline",
+    "name": "SunExpress",
+    "code": "XQ",
+    "country": "TR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "MarcelX42",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamburg_Airport_SunExpress_Boeing_737-8HC(WL)_TC-SOE_(DSC00365).jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "founded": 1990,
+      "destinations": 106,
+      "countries": 37
+    }
+  },
+  {
+    "id": "air-surinam-airways",
+    "category": "airline",
+    "name": "Surinam Airways",
+    "code": "PY",
+    "country": "SR",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Aldo Bidini",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Surinam_Airways_Boeing_747-300_Bidini.jpg",
+      "width": 960,
+      "height": 652
+    },
+    "metrics": {
+      "founded": 1955,
+      "destinations": 8,
+      "countries": 8
+    }
+  },
+  {
+    "id": "air-swiftair",
+    "category": "airline",
+    "name": "Swiftair",
+    "code": "WT",
+    "country": "ES",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Juergen Lehle",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Swiftair_AT72_EC-INV.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1986
+    }
+  },
+  {
+    "id": "air-swiss-international-air-lines",
+    "category": "airline",
+    "name": "Swiss International Air Lines",
+    "code": "LX",
+    "country": "CH",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Swiss,_HB-JNG,_Boeing_777-3DE_ER_(25267919527).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2002,
+      "destinations": 111,
+      "countries": 51
+    }
+  },
+  {
+    "id": "air-syrian-air",
+    "category": "airline",
+    "name": "Syrian Air",
+    "code": "RB",
+    "country": "SY",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Syrian_Air,_YK-AZB,_Airbus_A340-313_(51270929088).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1961,
+      "destinations": 15,
+      "countries": 9
+    }
+  },
+  {
+    "id": "air-taag-angola-airlines",
+    "category": "airline",
+    "name": "TAAG Angola Airlines",
+    "code": "DT",
+    "country": "AO",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Hansueli Krapf This file was uploaded with Commonist.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2011-02-11_15-38-53_South_Africa_-_Bonaero_Park.jpg",
+      "width": 1600,
+      "height": 1143
+    },
+    "metrics": {
+      "founded": 1938,
+      "destinations": 28,
+      "countries": 14
+    }
+  },
+  {
+    "id": "air-taimyr-air-company",
+    "category": "airline",
+    "name": "Taimyr Air Company",
+    "code": "Y7",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Igor Dvurekov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nordstar_Boeing_737-800.jpg",
+      "width": 960,
+      "height": 638
+    },
+    "metrics": {
+      "founded": 2009,
+      "destinations": 23,
+      "countries": 2
+    }
+  },
+  {
+    "id": "air-tajik-air",
+    "category": "airline",
+    "name": "Tajik Air",
+    "code": "7J",
+    "country": "TJ",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Irene2005",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tajik_air.jpg",
+      "width": 1600,
+      "height": 1070
+    },
+    "metrics": {
+      "founded": 1924
+    }
+  },
+  {
+    "id": "air-tap-air-portugal",
+    "category": "airline",
+    "name": "TAP Air Portugal",
+    "code": "TP",
+    "country": "PT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CS-TUR@PEK_(20200411084804).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1945,
+      "destinations": 93,
+      "countries": 32
+    }
+  },
+  {
+    "id": "air-tarom",
+    "category": "airline",
+    "name": "TAROM",
+    "code": "RO",
+    "country": "RO",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tarom,_YR-BGK,_Boeing_737-82R_(42582531500).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1954,
+      "destinations": 28,
+      "countries": 18
+    }
+  },
+  {
+    "id": "air-thai-airways",
+    "category": "airline",
+    "name": "Thai Airways",
+    "code": "TG",
+    "country": "TH",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Julian Herzog (Website)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thai_Airways_International_Boeing_747-4D7_HS-TGP_MUC_2015_05.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "founded": 1960,
+      "destinations": 67,
+      "countries": 31
+    }
+  },
+  {
+    "id": "air-tianjin-airlines",
+    "category": "airline",
+    "name": "Tianjin Airlines",
+    "code": "GS",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "SEBASTIEN MORTIER",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:320.SHK_TIANJIN_AIRLINES_F-WWIU_6449_TO_B-1658_09_02_15_TLS_(16629894877).jpg",
+      "width": 1600,
+      "height": 747
+    },
+    "metrics": {
+      "founded": 2004,
+      "destinations": 121,
+      "countries": 7
+    }
+  },
+  {
+    "id": "air-tibet-airlines",
+    "category": "airline",
+    "name": "Tibet Airlines",
+    "code": "TV",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "3GO*CHN-405/mjordan 6",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tibet_Airlines_Airbus_A319_Jordan.jpg",
+      "width": 960,
+      "height": 639
+    },
+    "metrics": {
+      "founded": 2010,
+      "destinations": 75,
+      "countries": 3
+    }
+  },
+  {
+    "id": "air-transavia",
+    "category": "airline",
+    "name": "Transavia",
+    "code": "HV",
+    "country": "NL",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Transavia,_PH-XRB,_Boeing_737-7K2_(40269351105).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1965,
+      "destinations": 99,
+      "countries": 25
+    }
+  },
+  {
+    "id": "air-tui-airways",
+    "category": "airline",
+    "name": "TUI Airways",
+    "code": "BY",
+    "country": "GB",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TUI,_G-TUID,_Boeing_787-8_@_Phuket,_Feb_2019.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2008
+    }
+  },
+  {
+    "id": "air-tui-fly-belgium",
+    "category": "airline",
+    "name": "TUI fly Belgium",
+    "code": "TB",
+    "country": "BE",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Pedro Aragão",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TUI_Airlines_Belgium,_OO-TMA,_Boeing_737-8_MAX.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 2004,
+      "destinations": 84,
+      "countries": 24
+    }
+  },
+  {
+    "id": "air-tui-fly-deutschland",
+    "category": "airline",
+    "name": "TUI fly Deutschland",
+    "code": "X3",
+    "country": "DE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Milad A380",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TUIfly_738_D-ATUM_170414.JPG",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1972,
+      "destinations": 40,
+      "countries": 13
+    }
+  },
+  {
+    "id": "air-tui-fly-netherlands",
+    "category": "airline",
+    "name": "TUI fly Netherlands",
+    "code": "OR",
+    "country": "NL",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Marvin Mutz",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PH-TFL_Boeing_787-8_Dreamliner_TUI_Airlines_Netherlands_AMS_2019-06-02_(28a).jpg",
+      "width": 1600,
+      "height": 1037
+    },
+    "metrics": {
+      "founded": 2005,
+      "destinations": 52,
+      "countries": 24
+    }
+  },
+  {
+    "id": "air-tuifly-nordic",
+    "category": "airline",
+    "name": "TUIfly Nordic",
+    "code": "6B",
+    "country": "DK",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Ole Simon",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TUIfly_Nordic_Boeing_757-200_Simon.jpg",
+      "width": 960,
+      "height": 672
+    },
+    "metrics": {
+      "founded": 2006,
+      "destinations": 2,
+      "countries": 1
+    }
+  },
+  {
+    "id": "air-tunisair",
+    "category": "airline",
+    "name": "Tunisair",
+    "code": "TU",
+    "country": "TN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Adrian Pingstone (Arpingstone)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Tunisair.a320-200.ts-ime.arp.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tunisair.a320-200.ts-ime.arp.jpg",
+      "width": 1600,
+      "height": 1073
+    },
+    "metrics": {
+      "founded": 1948,
+      "destinations": 41,
+      "countries": 23
+    }
+  },
+  {
+    "id": "air-turkish-airlines",
+    "category": "airline",
+    "name": "Turkish Airlines",
+    "code": "TK",
+    "country": "TR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "MarcelX42",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_Brandenburg_Airport_Turkish_Airlines_Airbus_A350-941_TC-LGJ_(DSC01105).jpg",
+      "width": 1600,
+      "height": 901
+    },
+    "metrics": {
+      "founded": 1933,
+      "destinations": 283,
+      "countries": 124
+    }
+  },
+  {
+    "id": "air-turkmenistan-airlines",
+    "category": "airline",
+    "name": "Turkmenistan Airlines",
+    "code": "T5",
+    "country": "TM",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Alex Beltyukov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turkmenistan_Boeing_757-200_Beltyukov-1.jpg",
+      "width": 960,
+      "height": 638
+    },
+    "metrics": {
+      "founded": 1992,
+      "destinations": 18,
+      "countries": 12
+    }
+  },
+  {
+    "id": "air-united-airlines",
+    "category": "airline",
+    "name": "United Airlines",
+    "code": "UA",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Anna Zvereva from Tallinn, Estonia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:United_Airlines,_N69063,_Boeing_767-424_ER_(49597633137).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1926,
+      "destinations": 399,
+      "countries": 77
+    }
+  },
+  {
+    "id": "air-ural-airlines",
+    "category": "airline",
+    "name": "Ural Airlines",
+    "code": "U6",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:VP-BOP@PEK_(20200424094530).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1993,
+      "destinations": 48,
+      "countries": 11
+    }
+  },
+  {
+    "id": "air-utair-aviation",
+    "category": "airline",
+    "name": "UTair Aviation",
+    "code": "UT",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Gennady Misko",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:UTair_Tupolev_Tu-154M_Misko.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "founded": 1991,
+      "destinations": 54,
+      "countries": 8
+    }
+  },
+  {
+    "id": "air-uzbekistan-airways",
+    "category": "airline",
+    "name": "Uzbekistan Airways",
+    "code": "HY",
+    "country": "UZ",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Я",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:ER_Uzbekistan_Airways.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ER_Uzbekistan_Airways.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1992,
+      "destinations": 69,
+      "countries": 27
+    }
+  },
+  {
+    "id": "air-vietjet-air",
+    "category": "airline",
+    "name": "VietJet Air",
+    "code": "VJ",
+    "country": "VN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Long Ethan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:VJ1.JPG",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 2012,
+      "destinations": 60,
+      "countries": 18
+    }
+  },
+  {
+    "id": "air-vietnam-airlines",
+    "category": "airline",
+    "name": "Vietnam Airlines",
+    "code": "VN",
+    "country": "VN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Mitchul Hope",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vietnam_Airlines_-_VN-A864_-_Boeing_787-9_Dreamliner_-_Frankfurt_am_Main_Airport_(FRA-EDDF).jpg",
+      "width": 1600,
+      "height": 1068
+    },
+    "metrics": {
+      "founded": 1956,
+      "destinations": 67,
+      "countries": 24
+    }
+  },
+  {
+    "id": "air-virgin-atlantic",
+    "category": "airline",
+    "name": "Virgin Atlantic",
+    "code": "VS",
+    "country": "GB",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Afpwong",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Virgin_Atlantic_Boeing_787-9_Dreamliner_G-VYUM.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1984,
+      "destinations": 30,
+      "countries": 15
+    }
+  },
+  {
+    "id": "air-virgin-australia",
+    "category": "airline",
+    "name": "Virgin Australia",
+    "code": "VA",
+    "country": "AU",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "YSSYguy (talk)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Virgin_Australia_(VH-YFC)_Boeing_737-81D_at_Sydney_Airport.jpg",
+      "width": 960,
+      "height": 642
+    },
+    "metrics": {
+      "founded": 2000,
+      "destinations": 36,
+      "countries": 6
+    }
+  },
+  {
+    "id": "air-virgin-galactic",
+    "category": "airline",
+    "name": "Virgin Galactic",
+    "code": "VGX",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Virgin Galactic/Mark Greenberg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SS2_and_VMS_Eve.jpg",
+      "width": 1600,
+      "height": 1023
+    },
+    "metrics": {
+      "founded": 2004
+    }
+  },
+  {
+    "id": "air-vistara",
+    "category": "airline",
+    "name": "Vistara",
+    "code": "UK",
+    "country": "IN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Tamás Vékony",
+      "license": "GFDL",
+      "licenseUrl": "http://www.gnu.org/copyleft/fdl.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vistara_Airbus_A320-232_at_Delhi_Airport.jpg",
+      "width": 960,
+      "height": 667
+    },
+    "metrics": {
+      "founded": 2013
+    }
+  },
+  {
+    "id": "air-volaris",
+    "category": "airline",
+    "name": "Volaris",
+    "code": "Y4",
+    "country": "MX",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Alan Wilson from Stilton, Peterborough, Cambs, UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A320-232(w)_%E2%80%98N520VL%E2%80%99_Volaris_(27824039144).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 2005,
+      "destinations": 79,
+      "countries": 6
+    }
+  },
+  {
+    "id": "air-volotea",
+    "category": "airline",
+    "name": "Volotea",
+    "code": "V7",
+    "country": "ES",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "ERIC SALARD from Paris, FRANCE",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:EC-MUY_NCE_(50578221118).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 2011,
+      "destinations": 114,
+      "countries": 16
+    }
+  },
+  {
+    "id": "air-vueling",
+    "category": "airline",
+    "name": "Vueling",
+    "code": "VY",
+    "country": "ES",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Laurent ERRERA from L'Union, France",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A320-200_Vueling_AL_(VLG)_F-WWII_-_MSN_4661_-_Named_Luke_Sky_Vueling_-_Will_be_EC-LLJ_(5568571910).jpg",
+      "width": 1600,
+      "height": 1066
+    },
+    "metrics": {
+      "founded": 2004,
+      "destinations": 102,
+      "countries": 29
+    }
+  },
+  {
+    "id": "air-westjet",
+    "category": "airline",
+    "name": "WestJet",
+    "code": "WS",
+    "country": "CA",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Ken Fielding",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:C-FNWD_Boeing_737_MAX_8_WestJet_Airlines_YVR_04JUL18.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1994,
+      "destinations": 127,
+      "countries": 34
+    }
+  },
+  {
+    "id": "air-wider-e",
+    "category": "airline",
+    "name": "Widerøe",
+    "code": "WF",
+    "country": "NO",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Valentin Hintikka from Finland",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wider%C3%B8e,_LN-WEA,_Embraer_E190-E2_@_HEL.jpg",
+      "width": 1600,
+      "height": 1068
+    },
+    "metrics": {
+      "founded": 1934,
+      "destinations": 51,
+      "countries": 10
+    }
+  },
+  {
+    "id": "air-wizz-air",
+    "category": "airline",
+    "name": "Wizz Air",
+    "code": "W6",
+    "country": "HU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HA-LVD@PEK_(20200403093844).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 2003,
+      "destinations": 156,
+      "countries": 44
+    }
+  },
+  {
+    "id": "air-xiamen-airlines",
+    "category": "airline",
+    "name": "Xiamen Airlines",
+    "code": "MF",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Masakatsu Ukon",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xiamen_Airlines,_Boeing_787-8_B-2761_NRT_(20229992129).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "founded": 1984,
+      "destinations": 101,
+      "countries": 21
+    }
+  },
+  {
+    "id": "air-yakutia-airlines",
+    "category": "airline",
+    "name": "Yakutia Airlines",
+    "code": "R3",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Pavel Adzhigildaev",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yakutia_Airlines_Boeing_757-200_Parfaits.jpg",
+      "width": 960,
+      "height": 638
+    },
+    "metrics": {
+      "founded": 1992,
+      "destinations": 30,
+      "countries": 2
+    }
+  },
+  {
+    "id": "air-yemenia",
+    "category": "airline",
+    "name": "Yemenia",
+    "code": "IY",
+    "country": "YE",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Aleks B.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yemenia_Airbus_A310_F-OHPR.jpg",
+      "width": 480,
+      "height": 320
+    },
+    "metrics": {
+      "founded": 1961,
+      "destinations": 14,
+      "countries": 8
+    }
+  },
+  {
+    "id": "air-yeti-airlines",
+    "category": "airline",
+    "name": "Yeti Airlines",
+    "code": "YT",
+    "country": "NP",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "calflier001",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:YETI_AIRLINES_BAE_JETSTREAM_41_9N-AHV_AT_POKHARA_AIRPORT_NEPAL_FEB2013_(8506252867).jpg",
+      "width": 1600,
+      "height": 1158
+    },
+    "metrics": {
+      "founded": 1998,
+      "destinations": 7,
+      "countries": 1
+    }
+  }
+]

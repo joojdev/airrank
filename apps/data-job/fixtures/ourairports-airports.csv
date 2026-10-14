@@ -1,0 +1,8 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,icao_code,iata_code,gps_code,local_code,home_link,wikipedia_link,keywords
+2434,EGLL,large_airport,London Heathrow Airport,51.470748,-0.459909,83,EU,GB,GB-ENG,London,yes,EGLL,LHR,EGLL,,http://www.heathrow.com/,https://en.wikipedia.org/wiki/Heathrow_Airport,"LON, Londres"
+3384,KATL,large_airport,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,1026,NA,US,US-GA,Atlanta,yes,KATL,ATL,KATL,ATL,https://www.atl.com,https://en.wikipedia.org/wiki/Hartsfield–Jackson_Atlanta_International_Airport,
+3622,KJFK,large_airport,John F. Kennedy International Airport,40.639447,-73.779317,13,NA,US,US-NY,New York,yes,KJFK,JFK,KJFK,JFK,https://www.jfkairport.com/,https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport,"Manhattan, New York City, NYC, Idlewild, IDL, KIDL"
+5910,SBGR,large_airport,São Paulo/Guarulhos–Governor André Franco Montoro International Airport,-23.431274,-46.469954,2461,SA,BR,BR-SP,São Paulo,yes,SBGR,GRU,SBGR,SP0002,http://www.gru.com.br/,https://en.wikipedia.org/wiki/S%C3%A3o_Paulo-Guarulhos_International_Airport,Cumbica
+5967,SBRJ,large_airport,Santos Dumont Airport,-22.910397,-43.16282,11,SA,BR,BR-RJ,Rio de Janeiro,yes,SBRJ,SDU,SBRJ,RJ0002,https://www4.infraero.gov.br/aeroporto-santos-dumont/,https://en.wikipedia.org/wiki/Santos_Dumont_Airport,RIO
+13208,6CA3,heliport,Catalina Air-Sea Terminal Heliport,33.7491989136,-118.275001526,5,NA,US,US-CA,San Pedro,no,,SPQ,6CA3,6CA3,,,
+7139,0CO2,small_airport,Crested Butte Airpark,38.851918,-106.928341,8980,NA,US,US-CO,Crested Butte,no,,CSE,0CO2,0CO2,,,Buckhorn Ranch

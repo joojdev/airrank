@@ -1,0 +1,303 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:This_file_does_not_exist_zzz.jpg",
+        "to": "File:This file does not exist zzz.jpg"
+      }
+    ],
+    "pages": {
+      "-1": {
+        "ns": 6,
+        "title": "File:This file does not exist zzz.jpg",
+        "missing": "",
+        "imagerepository": ""
+      },
+      "26831941": {
+        "pageid": 26831941,
+        "ns": 6,
+        "title": "File:Airbus A321-231, Airblue AN1173610.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Airbus_A321-231%2C_Airblue_AN1173610.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1067,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Airbus_A321-231%2C_Airblue_AN1173610.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1067
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Airbus_A321-231%2C_Airblue_AN1173610.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Airbus_A321-231,_Airblue_AN1173610.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26831941",
+            "extmetadata": {
+              "Artist": {
+                "value": "<div class=\"fn value\">\nKonstantin von Wedelstaedt</div>"
+              },
+              "LicenseShortName": {
+                "value": "GFDL 1.2"
+              },
+              "LicenseUrl": {
+                "value": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html"
+              }
+            }
+          }
+        ]
+      },
+      "9732901": {
+        "pageid": 9732901,
+        "ns": 6,
+        "title": "File:Atlanta Hartsfield-Jackson.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Atlanta_Hartsfield-Jackson.jpg/1920px-Atlanta_Hartsfield-Jackson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1067,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Atlanta_Hartsfield-Jackson.jpg/3840px-Atlanta_Hartsfield-Jackson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Atlanta_Hartsfield-Jackson.jpg/1920px-Atlanta_Hartsfield-Jackson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1067,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Atlanta_Hartsfield-Jackson.jpg/3840px-Atlanta_Hartsfield-Jackson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Atlanta_Hartsfield-Jackson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atlanta_Hartsfield-Jackson.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9732901",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Craig_Butz&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Craig Butz (page does not exist)\">Craig Butz</a>"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0"
+              }
+            }
+          }
+        ]
+      },
+      "97286012": {
+        "pageid": 97286012,
+        "ns": 6,
+        "title": "File:D-AIXK Lufthansa A350-900 MUC \"Karlsruhe\".jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/D-AIXK_Lufthansa_A350-900_MUC_%22Karlsruhe%22.jpg/1920px-D-AIXK_Lufthansa_A350-900_MUC_%22Karlsruhe%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 900,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/D-AIXK_Lufthansa_A350-900_MUC_%22Karlsruhe%22.jpg/3840px-D-AIXK_Lufthansa_A350-900_MUC_%22Karlsruhe%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/D-AIXK_Lufthansa_A350-900_MUC_%22Karlsruhe%22.jpg/1920px-D-AIXK_Lufthansa_A350-900_MUC_%22Karlsruhe%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 900,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/D-AIXK_Lufthansa_A350-900_MUC_%22Karlsruhe%22.jpg/3840px-D-AIXK_Lufthansa_A350-900_MUC_%22Karlsruhe%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/D-AIXK_Lufthansa_A350-900_MUC_%22Karlsruhe%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:D-AIXK_Lufthansa_A350-900_MUC_%22Karlsruhe%22.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97286012",
+            "extmetadata": {
+              "Artist": {
+                "value": "TJDarmstadt"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0"
+              }
+            }
+          }
+        ]
+      },
+      "74406492": {
+        "pageid": 74406492,
+        "ns": 6,
+        "title": "File:JFK Aerial Nov 14 2018.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/1920px-JFK_Aerial_Nov_14_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1200,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/3840px-JFK_Aerial_Nov_14_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/1920px-JFK_Aerial_Nov_14_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1200,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/3840px-JFK_Aerial_Nov_14_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/JFK_Aerial_Nov_14_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:JFK_Aerial_Nov_14_2018.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74406492",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:KenzieAbraham&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:KenzieAbraham (page does not exist)\">User:KenzieAbraham</a>"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0"
+              }
+            }
+          }
+        ]
+      },
+      "87516733": {
+        "pageid": 87516733,
+        "ns": 6,
+        "title": "File:LATAM Airlines, CC-BGJ, Boeing 787-9 Dreamliner (49593009796).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/LATAM_Airlines%2C_CC-BGJ%2C_Boeing_787-9_Dreamliner_%2849593009796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1067,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/LATAM_Airlines%2C_CC-BGJ%2C_Boeing_787-9_Dreamliner_%2849593009796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1067
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/LATAM_Airlines%2C_CC-BGJ%2C_Boeing_787-9_Dreamliner_%2849593009796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:LATAM_Airlines,_CC-BGJ,_Boeing_787-9_Dreamliner_(49593009796).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=87516733",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/130961247@N06\">Anna Zvereva</a> from Tallinn, Estonia"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0"
+              }
+            }
+          }
+        ]
+      },
+      "26822982": {
+        "pageid": 26822982,
+        "ns": 6,
+        "title": "File:London - Heathrow (LHR - EGLL) AN1572653.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/London_-_Heathrow_%28LHR_-_EGLL%29_AN1572653.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1067,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/London_-_Heathrow_%28LHR_-_EGLL%29_AN1572653.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1067
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/London_-_Heathrow_%28LHR_-_EGLL%29_AN1572653.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:London_-_Heathrow_(LHR_-_EGLL)_AN1572653.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26822982",
+            "extmetadata": {
+              "Artist": {
+                "value": "<div class=\"fn value\">\nKonstantin Von Wedelstaedt</div>"
+              },
+              "LicenseShortName": {
+                "value": "GFDL 1.2"
+              },
+              "LicenseUrl": {
+                "value": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html"
+              }
+            }
+          }
+        ]
+      },
+      "3186610": {
+        "pageid": 3186610,
+        "ns": 6,
+        "title": "File:Santos Dumont Airport.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Santos_Dumont_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 979,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Santos_Dumont_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 979
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Santos_Dumont_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Santos_Dumont_Airport.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3186610",
+            "extmetadata": {
+              "Artist": {
+                "value": "Mikko Palo"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0"
+              }
+            }
+          }
+        ]
+      },
+      "3802563": {
+        "pageid": 3802563,
+        "ns": 6,
+        "title": "File:ViewfromAir-SaoPaulo.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/ViewfromAir-SaoPaulo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1044,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/ViewfromAir-SaoPaulo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1044
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/ViewfromAir-SaoPaulo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ViewfromAir-SaoPaulo.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3802563",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/User:Andomenda\" class=\"extiw\" title=\"en:User:Andomenda\">Andomenda</a>"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0"
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

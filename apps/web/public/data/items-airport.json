@@ -1,0 +1,5493 @@
+[
+  {
+    "id": "apt-acc",
+    "category": "airport",
+    "name": "Accra International Airport",
+    "code": "ACC",
+    "country": "GH",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Rjruiziii",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kotoka_International_Airport,_Accra,_Ghana.JPG",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 2805347,
+      "runways": 1,
+      "airlines": 29
+    }
+  },
+  {
+    "id": "apt-add",
+    "category": "airport",
+    "name": "Addis Ababa Bole International Airport",
+    "code": "ADD",
+    "country": "ET",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "ProtoplasmaKid",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeropuerto_Internacional_Bole_2022_3.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 13134076,
+      "runways": 2,
+      "airlines": 19
+    }
+  },
+  {
+    "id": "apt-aer",
+    "category": "airport",
+    "name": "Sochi International Airport",
+    "code": "AER",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Dzerod",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82_%D0%90%D0%B4%D0%BB%D0%B5%D1%80_2006.jpg",
+      "width": 960,
+      "height": 720
+    },
+    "metrics": {
+      "passengers": 12500000,
+      "runways": 2,
+      "airlines": 25
+    }
+  },
+  {
+    "id": "apt-agp",
+    "category": "airport",
+    "name": "Málaga-Costa del Sol",
+    "code": "AGP",
+    "country": "ES",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Javier Bravo Muñoz",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malaga_(AGP_-_LEMG)_AN1863602.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "passengers": 26760549,
+      "runways": 2,
+      "airlines": 51
+    }
+  },
+  {
+    "id": "apt-akl",
+    "category": "airport",
+    "name": "Auckland Airport",
+    "code": "AKL",
+    "country": "NZ",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Land Information New Zealand",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Auckland_International_Airport_2017_aerial.png",
+      "width": 960,
+      "height": 652
+    },
+    "metrics": {
+      "passengers": 21111613,
+      "runways": 1,
+      "airlines": 26
+    }
+  },
+  {
+    "id": "apt-ala",
+    "category": "airport",
+    "name": "Almaty International Airport",
+    "code": "ALA",
+    "country": "KZ",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Kayhan ERTUGRUL",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ALMATY_AIRPORT_-_panoramio.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 11426650,
+      "runways": 2,
+      "airlines": 40
+    }
+  },
+  {
+    "id": "apt-alc",
+    "category": "airport",
+    "name": "Alicante Airport",
+    "code": "ALC",
+    "country": "ES",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "20Panorama15",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ALC_aerial_photo.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 19950394,
+      "runways": 1,
+      "airlines": 41
+    }
+  },
+  {
+    "id": "apt-amd",
+    "category": "airport",
+    "name": "Sardar Vallabhbhai Patel International Airport",
+    "code": "AMD",
+    "country": "IN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Apurba Biswas",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sardar_Vallabhbhai_Patel_International_Airport,_Ahmedabad,_India_3.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 10665822,
+      "runways": 1,
+      "airlines": 24
+    }
+  },
+  {
+    "id": "apt-amm",
+    "category": "airport",
+    "name": "Queen Alia International Airport",
+    "code": "AMM",
+    "country": "JO",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Writer.00015",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Alia_International_Airport_-_New_Terminal_-_2013.JPG",
+      "width": 1600,
+      "height": 899
+    },
+    "metrics": {
+      "passengers": 7837501,
+      "runways": 2,
+      "airlines": 34
+    }
+  },
+  {
+    "id": "apt-ams",
+    "category": "airport",
+    "name": "Amsterdam Schiphol Airport",
+    "code": "AMS",
+    "country": "NL",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Fyodor Borisov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ams-above-2007.jpg",
+      "width": 480,
+      "height": 326
+    },
+    "metrics": {
+      "passengers": 66828453,
+      "runways": 6,
+      "airlines": 78
+    }
+  },
+  {
+    "id": "apt-arn",
+    "category": "airport",
+    "name": "Stockholm Arlanda Airport",
+    "code": "ARN",
+    "country": "SE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Brorsson at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arlanda_1_Publish.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 18387268,
+      "runways": 3,
+      "airlines": 48
+    }
+  },
+  {
+    "id": "apt-ath",
+    "category": "airport",
+    "name": "Athens International Airport \"Eleftherios Venizelos\"",
+    "code": "ATH",
+    "country": "GR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Manfred Werner (Tsui)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Athens_International_Airport_Eleftherios_Venizelos_%CE%94%CE%B9%CE%B5%CE%B8%CE%BD%CE%AE%CF%82_%CE%91%CE%B5%CF%81%CE%BF%CE%BB%CE%B9%CE%BC%CE%AD%CE%BD%CE%B1%CF%82_%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD_%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82_2019-12-01_h.jpg",
+      "width": 1600,
+      "height": 970
+    },
+    "metrics": {
+      "passengers": 22422704,
+      "runways": 2,
+      "airlines": 66
+    }
+  },
+  {
+    "id": "apt-atl",
+    "category": "airport",
+    "name": "Hartsfield–Jackson Atlanta International Airport",
+    "code": "ATL",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Craig Butz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlanta_Hartsfield-Jackson.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 106302208,
+      "runways": 5,
+      "airlines": 27
+    }
+  },
+  {
+    "id": "apt-ayt",
+    "category": "airport",
+    "name": "Antalya Airport",
+    "code": "AYT",
+    "country": "TR",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Ercan Karakas",
+      "license": "GFDL",
+      "licenseUrl": "http://www.gnu.org/copyleft/fdl.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antalya_Airport_Karakas-2.jpg",
+      "width": 960,
+      "height": 638
+    },
+    "metrics": {
+      "passengers": 39000177,
+      "runways": 3,
+      "airlines": 56
+    }
+  },
+  {
+    "id": "apt-bah",
+    "category": "airport",
+    "name": "Bahrain International Airport",
+    "code": "BAH",
+    "country": "BH",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Fanuc18",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BahrainInternationalAirport01.jpeg",
+      "width": 480,
+      "height": 329
+    },
+    "metrics": {
+      "passengers": 6900000,
+      "runways": 2,
+      "airlines": 22
+    }
+  },
+  {
+    "id": "apt-bcn",
+    "category": "airport",
+    "name": "Josep Tarradellas Airport Barcelona-El Prat",
+    "code": "BCN",
+    "country": "ES",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Ad Meskens",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barcelona_El_Prat_05.jpg",
+      "width": 1600,
+      "height": 963
+    },
+    "metrics": {
+      "passengers": 57483036,
+      "runways": 3,
+      "airlines": 86
+    }
+  },
+  {
+    "id": "apt-beg",
+    "category": "airport",
+    "name": "Belgrade Nikola Tesla Airport",
+    "code": "BEG",
+    "country": "RS",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "kallerna",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belgrade_Nikola_Tesla_Airport_4.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 8367931,
+      "runways": 2,
+      "airlines": 29
+    }
+  },
+  {
+    "id": "apt-bey",
+    "category": "airport",
+    "name": "Beirut–Rafic Hariri International Airport",
+    "code": "BEY",
+    "country": "LB",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Ian Lim",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beirut_Airport_aerial_overview_Lim.jpg",
+      "width": 960,
+      "height": 668
+    },
+    "metrics": {
+      "passengers": 7011129,
+      "runways": 3,
+      "airlines": 32
+    }
+  },
+  {
+    "id": "apt-bfs",
+    "category": "airport",
+    "name": "Belfast International Airport",
+    "code": "BFS",
+    "country": "GB",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Chris Shaw",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belfast_International_Airport_-_geograph.org.uk_-_119152.jpg",
+      "width": 480,
+      "height": 360
+    },
+    "metrics": {
+      "passengers": 4818214,
+      "runways": 2,
+      "airlines": 4
+    }
+  },
+  {
+    "id": "apt-bgw",
+    "category": "airport",
+    "name": "Baghdad International Airport",
+    "code": "BGW",
+    "country": "IQ",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Baghdadinternationalairportaerial.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baghdadinternationalairportaerial.JPG",
+      "width": 960,
+      "height": 960
+    },
+    "metrics": {
+      "passengers": 3797413,
+      "runways": 2,
+      "airlines": 21
+    }
+  },
+  {
+    "id": "apt-bgy",
+    "category": "airport",
+    "name": "Bergamo-Il Caravaggio",
+    "code": "BGY",
+    "country": "IT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Nabbegat",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orio_al_Serio_International_Airport_2025.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "passengers": 16937976,
+      "runways": 2,
+      "airlines": 28
+    }
+  },
+  {
+    "id": "apt-bhx",
+    "category": "airport",
+    "name": "Birmingham Airport",
+    "code": "BHX",
+    "country": "GB",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Phillip Capper",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birmingham_Airport,_England,_Feb._2008.jpg",
+      "width": 1600,
+      "height": 1071
+    },
+    "metrics": {
+      "passengers": 9595557,
+      "runways": 1,
+      "airlines": 26
+    }
+  },
+  {
+    "id": "apt-bkk",
+    "category": "airport",
+    "name": "Suvarnabhumi Airport",
+    "code": "BKK",
+    "country": "TH",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Gleb Osokin - Russian AviaPhoto Team",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangkok_-_Suvarnabhumi_International_(BKK_-_VTBS)_AN1822384.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "passengers": 62902183,
+      "runways": 3,
+      "airlines": 120
+    }
+  },
+  {
+    "id": "apt-blq",
+    "category": "airport",
+    "name": "Bologna Guglielmo Marconi Airport",
+    "code": "BLQ",
+    "country": "IT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Ex13",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bologna_Guglielmo_Marconi_Airport_aerial.jpg",
+      "width": 1600,
+      "height": 922
+    },
+    "metrics": {
+      "passengers": 11138013,
+      "runways": 1,
+      "airlines": 44
+    }
+  },
+  {
+    "id": "apt-blr",
+    "category": "airport",
+    "name": "Kempegowda International Airport",
+    "code": "BLR",
+    "country": "IN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "sarang",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bengaluru-airport.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 41875620,
+      "runways": 2,
+      "airlines": 38
+    }
+  },
+  {
+    "id": "apt-bne",
+    "category": "airport",
+    "name": "Brisbane Airport",
+    "code": "BNE",
+    "country": "AU",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Phil Vabre",
+      "license": "GFDL",
+      "licenseUrl": "http://www.gnu.org/copyleft/fdl.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brisbane_Airport_domestic_terminal_Vabre.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "passengers": 16905697,
+      "runways": 2,
+      "airlines": 29
+    }
+  },
+  {
+    "id": "apt-bog",
+    "category": "airport",
+    "name": "El Dorado International Airport",
+    "code": "BOG",
+    "country": "CO",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Pablo Andrés Ortega Chávez",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_Aeropuerto_Internacional_Eldorado_Bogot%C3%A1_(SKBO-BOG)_(8204598528).jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "passengers": 35362529,
+      "runways": 2,
+      "airlines": 29
+    }
+  },
+  {
+    "id": "apt-boj",
+    "category": "airport",
+    "name": "Burgas Airport",
+    "code": "BOJ",
+    "country": "BG",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Roman Toldy",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Runway_Burgas.JPG",
+      "width": 1600,
+      "height": 902
+    },
+    "metrics": {
+      "passengers": 1808300,
+      "runways": 1,
+      "airlines": 21
+    }
+  },
+  {
+    "id": "apt-bom",
+    "category": "airport",
+    "name": "Chhatrapati Shivaji Maharaj International Airport",
+    "code": "BOM",
+    "country": "IN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Trinidade",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_1C_Overview.jpg",
+      "width": 1600,
+      "height": 1273
+    },
+    "metrics": {
+      "passengers": 47204259,
+      "runways": 2,
+      "airlines": 52
+    }
+  },
+  {
+    "id": "apt-bos",
+    "category": "airport",
+    "name": "Logan International Airport",
+    "code": "BOS",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "David Wilson",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Logan_Airport_aerial_view.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 43236013,
+      "runways": 6,
+      "airlines": 45
+    }
+  },
+  {
+    "id": "apt-brn",
+    "category": "airport",
+    "name": "Bern Airport",
+    "code": "BRN",
+    "country": "CH",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Lszb29",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bern_Airport_Overview.jpg",
+      "width": 1600,
+      "height": 907
+    },
+    "metrics": {
+      "runways": 5,
+      "airlines": 3
+    }
+  },
+  {
+    "id": "apt-brs",
+    "category": "airport",
+    "name": "Bristol Airport",
+    "code": "BRS",
+    "country": "GB",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "M J Richardson",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:N_Side_Road,_Bristol_Airport_-_geograph.org.uk_-_3737093.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 7945038,
+      "runways": 1,
+      "airlines": 11
+    }
+  },
+  {
+    "id": "apt-bru",
+    "category": "airport",
+    "name": "Brussels Airport",
+    "code": "BRU",
+    "country": "BE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Lucash",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brussels_Airport_Runway_25_R.jpg",
+      "width": 1600,
+      "height": 870
+    },
+    "metrics": {
+      "passengers": 18930698,
+      "runways": 3,
+      "airlines": 70
+    }
+  },
+  {
+    "id": "apt-bsl",
+    "category": "airport",
+    "name": "EuroAirport Basel-Mulhouse-Freiburg",
+    "code": "BSL",
+    "country": "FR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Aero Icarus from Zürich, Switzerland",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Euroairport_from_the_air_(7262130986).jpg",
+      "width": 1600,
+      "height": 1071
+    },
+    "metrics": {
+      "passengers": 7050905,
+      "runways": 2,
+      "airlines": 34
+    }
+  },
+  {
+    "id": "apt-bts",
+    "category": "airport",
+    "name": "M. R. Štefánik Airport",
+    "code": "BTS",
+    "country": "SK",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "User Michaelis1888 on [1]",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bratislava_airport.jpg",
+      "width": 480,
+      "height": 373
+    },
+    "metrics": {
+      "passengers": 1406284,
+      "runways": 2,
+      "airlines": 8
+    }
+  },
+  {
+    "id": "apt-bud",
+    "category": "airport",
+    "name": "Budapest Ferenc Liszt International Airport",
+    "code": "BUD",
+    "country": "HU",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Civertan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeropark_l%C3%A9gi_felv%C3%A9telen.jpg",
+      "width": 480,
+      "height": 320
+    },
+    "metrics": {
+      "passengers": 17574413,
+      "runways": 2,
+      "airlines": 51
+    }
+  },
+  {
+    "id": "apt-bus",
+    "category": "airport",
+    "name": "Batumi International Airport",
+    "code": "BUS",
+    "country": "GE",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Ercan Karakas",
+      "license": "GFDL",
+      "licenseUrl": "http://www.gnu.org/copyleft/fdl.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Batumi_Airport_Karakas-2.jpg",
+      "width": 960,
+      "height": 638
+    },
+    "metrics": {
+      "passengers": 616885,
+      "runways": 1,
+      "airlines": 20
+    }
+  },
+  {
+    "id": "apt-bwi",
+    "category": "airport",
+    "name": "Baltimore/Washington International Thurgood Marshall Airport",
+    "code": "BWI",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Doc Searls from Santa Barbara, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BWI_aerial2.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 25215520,
+      "runways": 3,
+      "airlines": 14
+    }
+  },
+  {
+    "id": "apt-cah",
+    "category": "airport",
+    "name": "Cà Mau Airport",
+    "code": "CAH",
+    "country": "VN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "[Tycho] talk",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:C%C3%A0_Mau_Airport.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "runways": 1,
+      "airlines": 1
+    }
+  },
+  {
+    "id": "apt-cai",
+    "category": "airport",
+    "name": "Cairo International Airport",
+    "code": "CAI",
+    "country": "EG",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "NASA",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Cairo_Int._Airport_-_NASA.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo_Int._Airport_-_NASA.JPG",
+      "width": 960,
+      "height": 721
+    },
+    "metrics": {
+      "passengers": 30940000,
+      "runways": 3,
+      "airlines": 63
+    }
+  },
+  {
+    "id": "apt-can",
+    "category": "airport",
+    "name": "Guangzhou Baiyun International Airport",
+    "code": "CAN",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Jacky Cheung",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guangzhou_Baiyun_International_Airport_Terminal_2.jpg",
+      "width": 1600,
+      "height": 1093
+    },
+    "metrics": {
+      "passengers": 76370000,
+      "runways": 5,
+      "airlines": 77
+    }
+  },
+  {
+    "id": "apt-ccp",
+    "category": "airport",
+    "name": "Carriel Sur International Airport",
+    "code": "CCP",
+    "country": "CL",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Mavalenzu at Spanish Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lan_737en_CCP.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 885529,
+      "runways": 2,
+      "airlines": 3
+    }
+  },
+  {
+    "id": "apt-ccu",
+    "category": "airport",
+    "name": "Netaji Subhas Chandra Bose International Airport",
+    "code": "CCU",
+    "country": "IN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Das kr. (talk) (Uploads)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:External_view_of_Netaji_Subhas_Chandra_Bose_International_Airport.jpg",
+      "width": 1600,
+      "height": 786
+    },
+    "metrics": {
+      "runways": 2,
+      "airlines": 25
+    }
+  },
+  {
+    "id": "apt-cdg",
+    "category": "airport",
+    "name": "Paris-Charles de Gaulle Airport",
+    "code": "CDG",
+    "country": "FR",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Remi Jouan",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroport_de_Roissy.JPG",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "passengers": 67421316,
+      "runways": 5,
+      "airlines": 116
+    }
+  },
+  {
+    "id": "apt-cgk",
+    "category": "airport",
+    "name": "Soekarno Hatta International Airport",
+    "code": "CGK",
+    "country": "ID",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Gunawan Kartapranata",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soekarno-Hatta_International_Airport_Terminal_3_apron.jpg",
+      "width": 1600,
+      "height": 754
+    },
+    "metrics": {
+      "passengers": 54809500,
+      "runways": 3,
+      "airlines": 52
+    }
+  },
+  {
+    "id": "apt-cgo",
+    "category": "airport",
+    "name": "Zhengzhou Xinzheng International Airport",
+    "code": "CGO",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Zhengzhou_Xinzheng_Airport.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 9221674,
+      "runways": 2,
+      "airlines": 41
+    }
+  },
+  {
+    "id": "apt-chq",
+    "category": "airport",
+    "name": "Chania International Airport",
+    "code": "CHQ",
+    "country": "GR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Image Science and Analysis Laboratory, NASA-Johnson Space Center. \"The Gateway…",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Chania_Airport_NASA.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chania_Airport_NASA.jpg",
+      "width": 1600,
+      "height": 1059
+    },
+    "metrics": {
+      "passengers": 3290802,
+      "runways": 1,
+      "airlines": 29
+    }
+  },
+  {
+    "id": "apt-cia",
+    "category": "airport",
+    "name": "Rome Ciampino Airport",
+    "code": "CIA",
+    "country": "IT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Badudoy",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roma_Ciampino.jpg",
+      "width": 1600,
+      "height": 958
+    },
+    "metrics": {
+      "passengers": 3475902,
+      "runways": 1,
+      "airlines": 2
+    }
+  },
+  {
+    "id": "apt-ckg",
+    "category": "airport",
+    "name": "Chongqing Jiangbei International Airport",
+    "code": "CKG",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Juukeihc at English Wikipedia",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_3_of_Chongqing_Jiangbei_Airport.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 21673547,
+      "runways": 4,
+      "airlines": 50
+    }
+  },
+  {
+    "id": "apt-clt",
+    "category": "airport",
+    "name": "Charlotte Douglas International Airport",
+    "code": "CLT",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "MaverickHunter40245",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CLT_Atrium.jpg",
+      "width": 1600,
+      "height": 1195
+    },
+    "metrics": {
+      "passengers": 53574392,
+      "runways": 3,
+      "airlines": 12
+    }
+  },
+  {
+    "id": "apt-cmb",
+    "category": "airport",
+    "name": "Bandaranaike International Airport",
+    "code": "CMB",
+    "country": "LK",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Dilubaba",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:22_boeing_772_app_cmb.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:22_boeing_772_app_cmb.jpg",
+      "width": 960,
+      "height": 607
+    },
+    "metrics": {
+      "passengers": 9962670,
+      "runways": 1,
+      "airlines": 34
+    }
+  },
+  {
+    "id": "apt-cmn",
+    "category": "airport",
+    "name": "Mohammed V International Airport",
+    "code": "CMN",
+    "country": "MA",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Fawaz.tairou",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Avion_Royal_Air_Maroc_%C3%A0_l%27a%C3%A9roport_de_Casablanca.jpg",
+      "width": 1600,
+      "height": 1199
+    },
+    "metrics": {
+      "passengers": 7637643,
+      "runways": 2,
+      "airlines": 28
+    }
+  },
+  {
+    "id": "apt-cok",
+    "category": "airport",
+    "name": "Cochin International Airport",
+    "code": "COK",
+    "country": "IN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Shahin Olakara",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AIX_at_COK.jpg",
+      "width": 960,
+      "height": 571
+    },
+    "metrics": {
+      "passengers": 4306661,
+      "runways": 1,
+      "airlines": 26
+    }
+  },
+  {
+    "id": "apt-cph",
+    "category": "airport",
+    "name": "Copenhagen Airport",
+    "code": "CPH",
+    "country": "DK",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "kallerna",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Copenhagen_airport_from_air.jpg",
+      "width": 1600,
+      "height": 1061
+    },
+    "metrics": {
+      "passengers": 22143135,
+      "runways": 3,
+      "airlines": 65
+    }
+  },
+  {
+    "id": "apt-cpt",
+    "category": "airport",
+    "name": "Cape Town International Airport",
+    "code": "CPT",
+    "country": "ZA",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Andres de Wet",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CTIA-CentralTerminal.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 10693063,
+      "runways": 2,
+      "airlines": 27
+    }
+  },
+  {
+    "id": "apt-crl",
+    "category": "airport",
+    "name": "Brussels South Charleroi Airport",
+    "code": "CRL",
+    "country": "BE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Fernandopascullo",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroport_de_Charleroi_Bruxelles_Sud.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 8272000,
+      "runways": 1,
+      "airlines": 7
+    }
+  },
+  {
+    "id": "apt-cta",
+    "category": "airport",
+    "name": "Catania-Fontanarossa Airport",
+    "code": "CTA",
+    "country": "IT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "sailko",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroporto_di_catania,_veduta_etna.jpg",
+      "width": 1600,
+      "height": 943
+    },
+    "metrics": {
+      "passengers": 12369485,
+      "runways": 1,
+      "airlines": 46
+    }
+  },
+  {
+    "id": "apt-ctu",
+    "category": "airport",
+    "name": "Chengdu Shuangliu International Airport",
+    "code": "CTU",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "MNXANL",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:201107_B-6632_at_CTU.JPG",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 33518945,
+      "runways": 2,
+      "airlines": 16
+    }
+  },
+  {
+    "id": "apt-cun",
+    "category": "airport",
+    "name": "Cancún International Airport",
+    "code": "CUN",
+    "country": "MX",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Saskjon",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CUNterminal3.jpg",
+      "width": 960,
+      "height": 626
+    },
+    "metrics": {
+      "passengers": 32750413,
+      "runways": 2,
+      "airlines": 42
+    }
+  },
+  {
+    "id": "apt-cxr",
+    "category": "airport",
+    "name": "Cam Ranh International Airport",
+    "code": "CXR",
+    "country": "VN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Ed Crystal",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cam_Ranh_International_Airport_Terminal_2.jpg",
+      "width": 960,
+      "height": 720
+    },
+    "metrics": {
+      "passengers": 10000000,
+      "runways": 2,
+      "airlines": 25
+    }
+  },
+  {
+    "id": "apt-dac",
+    "category": "airport",
+    "name": "Hazrat Shahjalal International Airport",
+    "code": "DAC",
+    "country": "BD",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Amranrahman at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Zia_aeropuerto_internacional.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zia_aeropuerto_internacional.JPG",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 8898000,
+      "runways": 1,
+      "airlines": 38
+    }
+  },
+  {
+    "id": "apt-dad",
+    "category": "airport",
+    "name": "Da Nang International Airport",
+    "code": "DAD",
+    "country": "VN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Dragfyre",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:DAD_new_terminal_2012_02.JPG",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 15504650,
+      "runways": 2,
+      "airlines": 37
+    }
+  },
+  {
+    "id": "apt-dam",
+    "category": "airport",
+    "name": "Damascus International Airport",
+    "code": "DAM",
+    "country": "SY",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Ercan Karakas",
+      "license": "GFDL",
+      "licenseUrl": "http://www.gnu.org/copyleft/fdl.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Damascus_International_Airport_Karakas-1.jpg",
+      "width": 960,
+      "height": 638
+    },
+    "metrics": {
+      "passengers": 1392699,
+      "runways": 1,
+      "airlines": 16
+    }
+  },
+  {
+    "id": "apt-dar",
+    "category": "airport",
+    "name": "Julius Nyerere International Airport",
+    "code": "DAR",
+    "country": "TZ",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Omoo",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:D80-2007-03-26_25.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:D80-2007-03-26_25.JPG",
+      "width": 480,
+      "height": 321
+    },
+    "metrics": {
+      "passengers": 2472885,
+      "runways": 2,
+      "airlines": 21
+    }
+  },
+  {
+    "id": "apt-dca",
+    "category": "airport",
+    "name": "Ronald Reagan Washington National Airport",
+    "code": "DCA",
+    "country": "US",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "United States Geological Survey (USGS)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Washington_national_airport.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Washington_national_airport.jpg",
+      "width": 480,
+      "height": 356
+    },
+    "metrics": {
+      "passengers": 24889473,
+      "runways": 3,
+      "airlines": 8
+    }
+  },
+  {
+    "id": "apt-del",
+    "category": "airport",
+    "name": "Indira Gandhi International Airport",
+    "code": "DEL",
+    "country": "IN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Ravi Dwivedi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delhi_airport_terminal_3_(cropped).jpg",
+      "width": 1600,
+      "height": 960
+    },
+    "metrics": {
+      "passengers": 77820834,
+      "runways": 4,
+      "airlines": 73
+    }
+  },
+  {
+    "id": "apt-den",
+    "category": "airport",
+    "name": "Denver International Airport",
+    "code": "DEN",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Photograph provided courtesy of Denver International Airport",
+      "license": "Attribution",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:DIA_Roof_and_Hotel.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:DIA_Roof_and_Hotel.jpg",
+      "width": 1600,
+      "height": 998
+    },
+    "metrics": {
+      "passengers": 82427962,
+      "runways": 6,
+      "airlines": 24
+    }
+  },
+  {
+    "id": "apt-dfw",
+    "category": "airport",
+    "name": "Dallas/Fort Worth International Airport",
+    "code": "DFW",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Todd MacDonald",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:DFWAirportOverview.jpg",
+      "width": 1600,
+      "height": 1204
+    },
+    "metrics": {
+      "passengers": 85660127,
+      "runways": 7,
+      "airlines": 31
+    }
+  },
+  {
+    "id": "apt-dli",
+    "category": "airport",
+    "name": "Lien Khuong Airport",
+    "code": "DLI",
+    "country": "VN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Diane Selwyn",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Lien_Khuong_Airport_04.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lien_Khuong_Airport_04.jpg",
+      "width": 1600,
+      "height": 951
+    },
+    "metrics": {
+      "passengers": 1750000,
+      "runways": 1,
+      "airlines": 4
+    }
+  },
+  {
+    "id": "apt-dme",
+    "category": "airport",
+    "name": "Domodedovo International Airport",
+    "code": "DME",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Andrey Belenko",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Domodedovo_Airport.jpg",
+      "width": 1600,
+      "height": 931
+    },
+    "metrics": {
+      "passengers": 13860000,
+      "runways": 2,
+      "airlines": 22
+    }
+  },
+  {
+    "id": "apt-dmk",
+    "category": "airport",
+    "name": "Don Mueang International Airport",
+    "code": "DMK",
+    "country": "TH",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Chainwit.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:DMK_-_Don_Mueang_Airport_-_as_seen_from_a_flight_(2026)_-_IMG_02.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 31650000,
+      "runways": 2,
+      "airlines": 14
+    }
+  },
+  {
+    "id": "apt-dmm",
+    "category": "airport",
+    "name": "King Fahd International Airport",
+    "code": "DMM",
+    "country": "SA",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Ashashyou",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_Fahd_Airport_mosque_2.jpg",
+      "width": 1600,
+      "height": 2133
+    },
+    "metrics": {
+      "passengers": 5971668,
+      "runways": 2,
+      "airlines": 41
+    }
+  },
+  {
+    "id": "apt-doh",
+    "category": "airport",
+    "name": "Hamad International Airport",
+    "code": "DOH",
+    "country": "QA",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Contrarian Metal Resources President Jim Halliday",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamad_International_Airport_Qatar.jpg",
+      "width": 480,
+      "height": 320
+    },
+    "metrics": {
+      "passengers": 35734243,
+      "runways": 2,
+      "airlines": 41
+    }
+  },
+  {
+    "id": "apt-dps",
+    "category": "airport",
+    "name": "I Gusti Ngurah Rai International Airport",
+    "code": "DPS",
+    "country": "ID",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "M Radzi Desa",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ngurah_Rai_International_Airport_MRD-1.jpg",
+      "width": 1600,
+      "height": 1199
+    },
+    "metrics": {
+      "passengers": 25382335,
+      "runways": 1,
+      "airlines": 49
+    }
+  },
+  {
+    "id": "apt-dtw",
+    "category": "airport",
+    "name": "Detroit Metropolitan Wayne County Airport",
+    "code": "DTW",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "en:User:Dehk deekster(at)gmail [dot] com",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Detroit_Metropolitan_Wayne_County_Airport_DTW.jpg",
+      "width": 960,
+      "height": 643
+    },
+    "metrics": {
+      "passengers": 33372682,
+      "runways": 6,
+      "airlines": 17
+    }
+  },
+  {
+    "id": "apt-dub",
+    "category": "airport",
+    "name": "Dublin Airport",
+    "code": "DUB",
+    "country": "IE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "ozz13x",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Departure_from_Dublin_Airport_onboard_Aer_Lingus_A320.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 34645335,
+      "runways": 3,
+      "airlines": 47
+    }
+  },
+  {
+    "id": "apt-dus",
+    "category": "airport",
+    "name": "Düsseldorf Airport",
+    "code": "DUS",
+    "country": "DE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Carsten Steger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_D%C3%BCsseldorf_Airport.jpg",
+      "width": 1600,
+      "height": 983
+    },
+    "metrics": {
+      "passengers": 16071936,
+      "runways": 2,
+      "airlines": 56
+    }
+  },
+  {
+    "id": "apt-dxb",
+    "category": "airport",
+    "name": "Dubai International Airport",
+    "code": "DXB",
+    "country": "AE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Mhp1255",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubai_Airport.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 95200000,
+      "runways": 2,
+      "airlines": 91
+    }
+  },
+  {
+    "id": "apt-ebb",
+    "category": "airport",
+    "name": "Entebbe International Airport",
+    "code": "EBB",
+    "country": "UG",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "PetterLundkvist",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fly540_ATR42_at_Entebbe.jpg",
+      "width": 1600,
+      "height": 948
+    },
+    "metrics": {
+      "passengers": 2008230,
+      "runways": 2,
+      "airlines": 19
+    }
+  },
+  {
+    "id": "apt-edi",
+    "category": "airport",
+    "name": "Edinburgh Airport",
+    "code": "EDI",
+    "country": "GB",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Ad Meskens",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_Airport_1.jpg",
+      "width": 1600,
+      "height": 1165
+    },
+    "metrics": {
+      "passengers": 11248459,
+      "runways": 1,
+      "airlines": 41
+    }
+  },
+  {
+    "id": "apt-ein",
+    "category": "airport",
+    "name": "Eindhoven Airport",
+    "code": "EIN",
+    "country": "NL",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "CoolmenNL",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vertekhal_Eindhoven_airport.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 6859144,
+      "runways": 1,
+      "airlines": 9
+    }
+  },
+  {
+    "id": "apt-evn",
+    "category": "airport",
+    "name": "Zvartnots International Airport",
+    "code": "EVN",
+    "country": "AM",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Armenia The World",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zvartnots_airport.jpg",
+      "width": 960,
+      "height": 540
+    },
+    "metrics": {
+      "passengers": 3644000,
+      "runways": 1,
+      "airlines": 38
+    }
+  },
+  {
+    "id": "apt-ewr",
+    "category": "airport",
+    "name": "Newark Liberty International Airport",
+    "code": "EWR",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Fan Railer (talk)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Newark_Liberty_International_Airport_from_the_Air.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newark_Liberty_International_Airport_from_the_Air.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 49160546,
+      "runways": 3,
+      "airlines": 37
+    }
+  },
+  {
+    "id": "apt-eze",
+    "category": "airport",
+    "name": "Ministro Pistarini International Airport",
+    "code": "EZE",
+    "country": "AR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Npo80",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeropuerto_Internacional_Ezeiza.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "passengers": 11911000,
+      "runways": 2,
+      "airlines": 29
+    }
+  },
+  {
+    "id": "apt-fae",
+    "category": "airport",
+    "name": "Vágar Airport",
+    "code": "FAE",
+    "country": "FO",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Erik Christensen, Porkeri (Contact at the Danish Wikipedia)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:V%C3%A1gar_Airport,_Faroe_Islands.JPG",
+      "width": 1600,
+      "height": 1065
+    },
+    "metrics": {
+      "passengers": 238849,
+      "runways": 1,
+      "airlines": 4
+    }
+  },
+  {
+    "id": "apt-fao",
+    "category": "airport",
+    "name": "Faro Airport",
+    "code": "FAO",
+    "country": "PT",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "BabyNuke",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FaroAPoverview.jpg",
+      "width": 480,
+      "height": 360
+    },
+    "metrics": {
+      "passengers": 2207000,
+      "runways": 1,
+      "airlines": 34
+    }
+  },
+  {
+    "id": "apt-fco",
+    "category": "airport",
+    "name": "Roma Fiumicino Airport",
+    "code": "FCO",
+    "country": "IT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "© Ra Boe / Wikipedia",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rom_Fiumicino_2011-by-RaBoe-02.jpg",
+      "width": 1600,
+      "height": 996
+    },
+    "metrics": {
+      "passengers": 51306744,
+      "runways": 3,
+      "airlines": 100
+    }
+  },
+  {
+    "id": "apt-fll",
+    "category": "airport",
+    "name": "Fort Lauderdale–Hollywood",
+    "code": "FLL",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Alpha1702",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Lauderdale-Hollywood_International_Airport_(cropped).JPG",
+      "width": 960,
+      "height": 769
+    },
+    "metrics": {
+      "passengers": 32208419,
+      "runways": 2,
+      "airlines": 26
+    }
+  },
+  {
+    "id": "apt-fnc",
+    "category": "airport",
+    "name": "Madeira Cristiano-Ronaldo Airport",
+    "code": "FNC",
+    "country": "PT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Jarvin - Jarle Vines",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroporto_da_Madeira_runway.JPG",
+      "width": 1600,
+      "height": 774
+    },
+    "metrics": {
+      "passengers": 3202527,
+      "runways": 1,
+      "airlines": 29
+    }
+  },
+  {
+    "id": "apt-fnj",
+    "category": "airport",
+    "name": "Pyongyang International Airport",
+    "code": "FNJ",
+    "country": "KP",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Attribution to (Stephan) at Flickr and",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_Korea-Pyongyang-Sunan_International_Airport-02.jpg",
+      "width": 1600,
+      "height": 1063
+    },
+    "metrics": {
+      "runways": 1,
+      "airlines": 3
+    }
+  },
+  {
+    "id": "apt-fra",
+    "category": "airport",
+    "name": "Frankfurt Airport",
+    "code": "FRA",
+    "country": "DE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Steffen Wurzel",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FRA_June2013.JPG",
+      "width": 1600,
+      "height": 1000
+    },
+    "metrics": {
+      "passengers": 61564957,
+      "runways": 4,
+      "airlines": 90
+    }
+  },
+  {
+    "id": "apt-gib",
+    "category": "airport",
+    "name": "Gibraltar International Airport",
+    "code": "GIB",
+    "country": "GI",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Jnpet",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gibraltar_airport.JPG",
+      "width": 960,
+      "height": 720
+    },
+    "metrics": {
+      "passengers": 437172,
+      "runways": 1,
+      "airlines": 2
+    }
+  },
+  {
+    "id": "apt-gig",
+    "category": "airport",
+    "name": "Rio de Janeiro/Galeão – Antonio Carlos Jobim International Airport",
+    "code": "GIG",
+    "country": "BR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Portal da Copa /Governo Federal Brasileiro / Daniel Basil",
+      "license": "CC BY 3.0 br",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riodejaneiro_aerea_aeroportogaleao-131756(cut).jpg",
+      "width": 1600,
+      "height": 1250
+    },
+    "metrics": {
+      "passengers": 14443884,
+      "runways": 2,
+      "airlines": 23
+    }
+  },
+  {
+    "id": "apt-gla",
+    "category": "airport",
+    "name": "Glasgow Airport",
+    "code": "GLA",
+    "country": "GB",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Jim Smillie",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:GlasgowAirportFromAir.jpg",
+      "width": 480,
+      "height": 360
+    },
+    "metrics": {
+      "passengers": 6516029,
+      "runways": 1,
+      "airlines": 20
+    }
+  },
+  {
+    "id": "apt-got",
+    "category": "airport",
+    "name": "Gothenburg-Landvetter Airport",
+    "code": "GOT",
+    "country": "SE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Andrzej Otrębski",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:GOT_D-AEMD.jpg",
+      "width": 1600,
+      "height": 787
+    },
+    "metrics": {
+      "passengers": 4447037,
+      "runways": 1,
+      "airlines": 24
+    }
+  },
+  {
+    "id": "apt-gro",
+    "category": "airport",
+    "name": "Girona-Costa Brava Airport",
+    "code": "GRO",
+    "country": "ES",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Babbsack",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Girona-Costa_Brava_Airport_-_View_from_plane.JPG",
+      "width": 1600,
+      "height": 903
+    },
+    "metrics": {
+      "passengers": 2185561,
+      "runways": 1,
+      "airlines": 6
+    }
+  },
+  {
+    "id": "apt-gru",
+    "category": "airport",
+    "name": "São Paulo-Guarulhos International Airport",
+    "code": "GRU",
+    "country": "BR",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Andomenda",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ViewfromAir-SaoPaulo.jpg",
+      "width": 480,
+      "height": 313
+    },
+    "metrics": {
+      "passengers": 34393588,
+      "runways": 2,
+      "airlines": 33
+    }
+  },
+  {
+    "id": "apt-grz",
+    "category": "airport",
+    "name": "Graz Airport",
+    "code": "GRZ",
+    "country": "AT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Carsten Steger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Graz_airport.jpg",
+      "width": 1600,
+      "height": 1091
+    },
+    "metrics": {
+      "passengers": 831095,
+      "runways": 3,
+      "airlines": 9
+    }
+  },
+  {
+    "id": "apt-gva",
+    "category": "airport",
+    "name": "Geneva International Airport",
+    "code": "GVA",
+    "country": "CH",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Schutz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geneva_airport_from_air.jpg",
+      "width": 1600,
+      "height": 991
+    },
+    "metrics": {
+      "passengers": 17796333,
+      "runways": 1,
+      "airlines": 55
+    }
+  },
+  {
+    "id": "apt-gyd",
+    "category": "airport",
+    "name": "Heydar Aliyev International Airport",
+    "code": "GYD",
+    "country": "AZ",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Anar Aliyev (PR at Azerbaijan Airlines)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:GYD_(2).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 1030700,
+      "runways": 2,
+      "airlines": 38
+    }
+  },
+  {
+    "id": "apt-ham",
+    "category": "airport",
+    "name": "Hamburg Airport",
+    "code": "HAM",
+    "country": "DE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Arne Müseler",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamburg_airport_terminals.jpg",
+      "width": 1600,
+      "height": 872
+    },
+    "metrics": {
+      "passengers": 14831711,
+      "runways": 2,
+      "airlines": 50
+    }
+  },
+  {
+    "id": "apt-hav",
+    "category": "airport",
+    "name": "José Martí International Airport",
+    "code": "HAV",
+    "country": "CU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "AlbertRA",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroport_de_l%27Havana.jpg",
+      "width": 1600,
+      "height": 1236
+    },
+    "metrics": {
+      "passengers": 5713859,
+      "runways": 1,
+      "airlines": 20
+    }
+  },
+  {
+    "id": "apt-hel",
+    "category": "airport",
+    "name": "Helsinki Airport",
+    "code": "HEL",
+    "country": "FI",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Markus Trienke",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Helsinki_Airport_(17087444118).jpg",
+      "width": 1600,
+      "height": 876
+    },
+    "metrics": {
+      "passengers": 16308814,
+      "runways": 3,
+      "airlines": 21
+    }
+  },
+  {
+    "id": "apt-hkg",
+    "category": "airport",
+    "name": "Hong Kong International Airport",
+    "code": "HKG",
+    "country": "HK",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "LN9267",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_International_Airport_restricted_area_01-12-2024(9).jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 53055000,
+      "runways": 3,
+      "airlines": 75
+    }
+  },
+  {
+    "id": "apt-hkt",
+    "category": "airport",
+    "name": "Phuket International Airport",
+    "code": "HKT",
+    "country": "TH",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "กสิณธร ราชโอรส",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95_%E0%B8%AD.%E0%B8%96%E0%B8%A5%E0%B8%B2%E0%B8%87_%E0%B8%88.%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95_Phuket_International_Airport_(7).jpg",
+      "width": 1600,
+      "height": 1202
+    },
+    "metrics": {
+      "passengers": 17474051,
+      "runways": 1,
+      "airlines": 64
+    }
+  },
+  {
+    "id": "apt-hnd",
+    "category": "airport",
+    "name": "Tokyo International Airport",
+    "code": "HND",
+    "country": "JP",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "MaedaAkihiko",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo-International-Airport_Satellite.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 85900617,
+      "runways": 4,
+      "airlines": 45
+    }
+  },
+  {
+    "id": "apt-hnl",
+    "category": "airport",
+    "name": "Daniel K. Inouye International Airport",
+    "code": "HNL",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Glenn Cando",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HNL_Interisland_Terminal_DSC00913.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 21188678,
+      "runways": 6,
+      "airlines": 17
+    }
+  },
+  {
+    "id": "apt-hrg",
+    "category": "airport",
+    "name": "Hurghada International Airport",
+    "code": "HRG",
+    "country": "EG",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Binter",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hurghada-Airport.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hurghada-Airport.jpg",
+      "width": 960,
+      "height": 566
+    },
+    "metrics": {
+      "passengers": 11425529,
+      "runways": 2,
+      "airlines": 36
+    }
+  },
+  {
+    "id": "apt-hui",
+    "category": "airport",
+    "name": "Phu Bai International Airport",
+    "code": "HUI",
+    "country": "VN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Looper5920 at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phu_Bai_Airport_(2006).jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 1831000,
+      "runways": 1,
+      "airlines": 2
+    }
+  },
+  {
+    "id": "apt-iad",
+    "category": "airport",
+    "name": "Washington Dulles International Airport",
+    "code": "IAD",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Burkhard Mücke",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020_Dulles_International_Airport_03.jpg",
+      "width": 1600,
+      "height": 806
+    },
+    "metrics": {
+      "passengers": 27254087,
+      "runways": 4,
+      "airlines": 46
+    }
+  },
+  {
+    "id": "apt-iah",
+    "category": "airport",
+    "name": "George Bush Intercontinental Airport",
+    "code": "IAH",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "JOHN ROEVER from Olathe, Johnson County, Kansas, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:IAH_Aerial.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "passengers": 48131213,
+      "runways": 5,
+      "airlines": 26
+    }
+  },
+  {
+    "id": "apt-icn",
+    "category": "airport",
+    "name": "Incheon International Airport",
+    "code": "ICN",
+    "country": "KR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "MNXANL",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:202403_Aerial_View_of_Incheon_International_Airport.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 74071475,
+      "runways": 4,
+      "airlines": 85
+    }
+  },
+  {
+    "id": "apt-ika",
+    "category": "airport",
+    "name": "Tehran Imam Khomeini International Airport",
+    "code": "IKA",
+    "country": "IR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Kat1100",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:IKA_Airport_main_terminal_(cropped).jpg",
+      "width": 1600,
+      "height": 853
+    },
+    "metrics": {
+      "passengers": 7672152,
+      "runways": 2,
+      "airlines": 15
+    }
+  },
+  {
+    "id": "apt-inn",
+    "category": "airport",
+    "name": "Innsbruck Airport",
+    "code": "INN",
+    "country": "AT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Ralf Roletschek",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:12-06-05-innsbruck-by-ralfr-164.jpg",
+      "width": 1600,
+      "height": 1063
+    },
+    "metrics": {
+      "passengers": 882876,
+      "runways": 2,
+      "airlines": 10
+    }
+  },
+  {
+    "id": "apt-jed",
+    "category": "airport",
+    "name": "King Abdulaziz International Airport",
+    "code": "JED",
+    "country": "SA",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Amineshaker",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_Abdul_Aziz_International_Airport-_South_Terminal_and_Terminal_1_(2020-02-16).jpeg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 14117611,
+      "runways": 3,
+      "airlines": 71
+    }
+  },
+  {
+    "id": "apt-jfk",
+    "category": "airport",
+    "name": "John F. Kennedy International Airport",
+    "code": "JFK",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "User:KenzieAbraham",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:JFK_Aerial_Nov_14_2018.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 62440306,
+      "runways": 4,
+      "airlines": 71
+    }
+  },
+  {
+    "id": "apt-jnb",
+    "category": "airport",
+    "name": "OR Tambo International Airport",
+    "code": "JNB",
+    "country": "ZA",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "PretoriaTravel",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ekurhuleni_Aerotropolis.jpg",
+      "width": 960,
+      "height": 644
+    },
+    "metrics": {
+      "passengers": 21237208,
+      "runways": 2,
+      "airlines": 43
+    }
+  },
+  {
+    "id": "apt-kbl",
+    "category": "airport",
+    "name": "Kabul International Airport",
+    "code": "KBL",
+    "country": "AF",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "WestendRaider",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kabul_Airport_Aerial.jpg",
+      "width": 960,
+      "height": 720
+    },
+    "metrics": {
+      "runways": 1,
+      "airlines": 7
+    }
+  },
+  {
+    "id": "apt-kef",
+    "category": "airport",
+    "name": "Keflavík Airport",
+    "code": "KEF",
+    "country": "IS",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "SuperJet International",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SSJ100_Keflavik_runways_(5160518757).jpg",
+      "width": 1600,
+      "height": 1034
+    },
+    "metrics": {
+      "passengers": 7776147,
+      "runways": 2,
+      "airlines": 31
+    }
+  },
+  {
+    "id": "apt-kix",
+    "category": "airport",
+    "name": "Kansai International Airport",
+    "code": "KIX",
+    "country": "JP",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Ankou1192",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E5%85%A8%E4%BD%93%E5%86%99%E7%9C%9F20220811.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 30598651,
+      "runways": 2,
+      "airlines": 65
+    }
+  },
+  {
+    "id": "apt-kmg",
+    "category": "airport",
+    "name": "Kunming Changshui International Airport",
+    "code": "KMG",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_of_Kunming_Changshui_International_Airport_(20180213180341).jpg",
+      "width": 1600,
+      "height": 1061
+    },
+    "metrics": {
+      "passengers": 49705725,
+      "runways": 2,
+      "airlines": 43
+    }
+  },
+  {
+    "id": "apt-krk",
+    "category": "airport",
+    "name": "John Paul II International Airport Kraków-Balice",
+    "code": "KRK",
+    "country": "PL",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Darpaw",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Paul_II_Airport_in_Balice-Krak%C3%B3w_night_november_2017(3).jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 11080830,
+      "runways": 1,
+      "airlines": 32
+    }
+  },
+  {
+    "id": "apt-ktm",
+    "category": "airport",
+    "name": "Tribhuvan International Airport",
+    "code": "KTM",
+    "country": "NP",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Ralf Lotys (Sicherlich)",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2009-03_Kathmandu_10.jpg",
+      "width": 1600,
+      "height": 867
+    },
+    "metrics": {
+      "passengers": 7327042,
+      "runways": 1,
+      "airlines": 30
+    }
+  },
+  {
+    "id": "apt-ktw",
+    "category": "airport",
+    "name": "Katowice International Airport",
+    "code": "KTW",
+    "country": "PL",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Air-Quad UG",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luftaufnahme_Airport_Kattowitz_2.jpg",
+      "width": 480,
+      "height": 290
+    },
+    "metrics": {
+      "passengers": 5297247,
+      "runways": 1,
+      "airlines": 6
+    }
+  },
+  {
+    "id": "apt-kul",
+    "category": "airport",
+    "name": "Kuala Lumpur International Airport",
+    "code": "KUL",
+    "country": "MY",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Craig",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:KLIA_MTB%26Tower.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KLIA_MTB%26Tower.jpg",
+      "width": 1600,
+      "height": 1031
+    },
+    "metrics": {
+      "passengers": 25377000,
+      "runways": 3,
+      "airlines": 76
+    }
+  },
+  {
+    "id": "apt-kun",
+    "category": "airport",
+    "name": "Kaunas Airport",
+    "code": "KUN",
+    "country": "LT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Grobuonis",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Kaunas_International_Airportxx.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaunas_International_Airportxx.JPG",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 1159184,
+      "runways": 1,
+      "airlines": 2
+    }
+  },
+  {
+    "id": "apt-kwi",
+    "category": "airport",
+    "name": "Kuwait International Airport",
+    "code": "KWI",
+    "country": "KW",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Faisalalserbel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%A8%D9%86%D9%89_%D8%A7%D9%84%D8%B1%D9%83%D8%A7%D8%A8_4_%D9%85%D8%B7%D8%A7%D8%B1_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A.jpg",
+      "width": 960,
+      "height": 662
+    },
+    "metrics": {
+      "passengers": 15448909,
+      "runways": 3,
+      "airlines": 34
+    }
+  },
+  {
+    "id": "apt-kzn",
+    "category": "airport",
+    "name": "Kazan International Airport",
+    "code": "KZN",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Jozef Tóth",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kazan_International_Airport.jpg",
+      "width": 960,
+      "height": 639
+    },
+    "metrics": {
+      "passengers": 5380000,
+      "runways": 1,
+      "airlines": 30
+    }
+  },
+  {
+    "id": "apt-las",
+    "category": "airport",
+    "name": "Harry Reid International Airport",
+    "code": "LAS",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Craig Butz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Las_Vegas_McCarran.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 54989185,
+      "runways": 4,
+      "airlines": 30
+    }
+  },
+  {
+    "id": "apt-lax",
+    "category": "airport",
+    "name": "Los Angeles International Airport",
+    "code": "LAX",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "monkeytime | brachiator",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LAX_LA.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "passengers": 73709594,
+      "runways": 4,
+      "airlines": 67
+    }
+  },
+  {
+    "id": "apt-lba",
+    "category": "airport",
+    "name": "Leeds Bradford Airport",
+    "code": "LBA",
+    "country": "GB",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Mtaylor848",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LBIA_Airside_2.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 3287968,
+      "runways": 1,
+      "airlines": 9
+    }
+  },
+  {
+    "id": "apt-lca",
+    "category": "airport",
+    "name": "Larnaca International Airport",
+    "code": "LCA",
+    "country": "CY",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Phpeter",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LCA_Terminal_outside.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "passengers": 6037053,
+      "runways": 1,
+      "airlines": 47
+    }
+  },
+  {
+    "id": "apt-lcy",
+    "category": "airport",
+    "name": "London City Airport",
+    "code": "LCY",
+    "country": "GB",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Frans Zwart",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_City_Airport_Zwart.jpg",
+      "width": 960,
+      "height": 719
+    },
+    "metrics": {
+      "passengers": 3009313,
+      "runways": 1,
+      "airlines": 8
+    }
+  },
+  {
+    "id": "apt-led",
+    "category": "airport",
+    "name": "Pulkovo Airport",
+    "code": "LED",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Dmitry Avdeev",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pulkovo_airport.jpg",
+      "width": 960,
+      "height": 677
+    },
+    "metrics": {
+      "passengers": 20700000,
+      "runways": 2,
+      "airlines": 42
+    }
+  },
+  {
+    "id": "apt-lga",
+    "category": "airport",
+    "name": "LaGuardia Airport",
+    "code": "LGA",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Patrick Handrigan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LaGuardia_Airport.JPG",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 32791050,
+      "runways": 2,
+      "airlines": 8
+    }
+  },
+  {
+    "id": "apt-lgw",
+    "category": "airport",
+    "name": "London Gatwick Airport",
+    "code": "LGW",
+    "country": "GB",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Mike McBey",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gatwick_Airport_(50850159593).jpg",
+      "width": 1600,
+      "height": 883
+    },
+    "metrics": {
+      "passengers": 40899000,
+      "runways": 2,
+      "airlines": 57
+    }
+  },
+  {
+    "id": "apt-lhe",
+    "category": "airport",
+    "name": "Allama Iqbal International Airport",
+    "code": "LHE",
+    "country": "PK",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "WhisperToMe",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:AllamaIqbalAirport.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AllamaIqbalAirport.JPG",
+      "width": 960,
+      "height": 720
+    },
+    "metrics": {
+      "passengers": 4490182,
+      "runways": 2,
+      "airlines": 28
+    }
+  },
+  {
+    "id": "apt-lhr",
+    "category": "airport",
+    "name": "London Heathrow Airport",
+    "code": "LHR",
+    "country": "GB",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Konstantin Von Wedelstaedt",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_-_Heathrow_(LHR_-_EGLL)_AN1572653.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "passengers": 83884572,
+      "runways": 2,
+      "airlines": 86
+    }
+  },
+  {
+    "id": "apt-lim",
+    "category": "airport",
+    "name": "Jorge Chávez International Airport",
+    "code": "LIM",
+    "country": "PE",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Tramandosi",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeropuerto_gorge_chavez.png",
+      "width": 960,
+      "height": 611
+    },
+    "metrics": {
+      "passengers": 22876785,
+      "runways": 2,
+      "airlines": 22
+    }
+  },
+  {
+    "id": "apt-lin",
+    "category": "airport",
+    "name": "Linate Airport",
+    "code": "LIN",
+    "country": "IT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Saggittarius A",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_Linate.jpg",
+      "width": 1600,
+      "height": 1357
+    },
+    "metrics": {
+      "passengers": 11131764,
+      "runways": 1,
+      "airlines": 20
+    }
+  },
+  {
+    "id": "apt-lis",
+    "category": "airport",
+    "name": "Humberto Delgado Airport",
+    "code": "LIS",
+    "country": "PT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Mister No",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroporto_Lisboa_-_panoramio.jpg",
+      "width": 1600,
+      "height": 1066
+    },
+    "metrics": {
+      "passengers": 9261000,
+      "runways": 1,
+      "airlines": 63
+    }
+  },
+  {
+    "id": "apt-lju",
+    "category": "airport",
+    "name": "Ljubljana Jože Pučnik Airport",
+    "code": "LJU",
+    "country": "SI",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Tiia Monto",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ljubljana_airport_2017.jpg",
+      "width": 1600,
+      "height": 983
+    },
+    "metrics": {
+      "passengers": 970152,
+      "runways": 1,
+      "airlines": 24
+    }
+  },
+  {
+    "id": "apt-los",
+    "category": "airport",
+    "name": "Murtala Muhammed International Airport",
+    "code": "LOS",
+    "country": "NG",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Sm105",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:MMIA_Intl_Terminal_2019.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 5689234,
+      "runways": 2,
+      "airlines": 35
+    }
+  },
+  {
+    "id": "apt-lpa",
+    "category": "airport",
+    "name": "Gran Canaria Airport",
+    "code": "LPA",
+    "country": "ES",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "kallerna",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gran_Canaria_Airport_aerial.jpg",
+      "width": 1600,
+      "height": 2133
+    },
+    "metrics": {
+      "passengers": 15826553,
+      "runways": 2,
+      "airlines": 41
+    }
+  },
+  {
+    "id": "apt-lpl",
+    "category": "airport",
+    "name": "Liverpool John Lennon Airport",
+    "code": "LPL",
+    "country": "GB",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "comedy_nose",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Lennon_Airport_Lpool.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "passengers": 3490655,
+      "runways": 1,
+      "airlines": 8
+    }
+  },
+  {
+    "id": "apt-ltn",
+    "category": "airport",
+    "name": "London Luton Airport",
+    "code": "LTN",
+    "country": "GB",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Thomas Nugent",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luton_Airport_from_the_air_(geograph_7106190).jpg",
+      "width": 960,
+      "height": 720
+    },
+    "metrics": {
+      "passengers": 13322236,
+      "runways": 1,
+      "airlines": 10
+    }
+  },
+  {
+    "id": "apt-lua",
+    "category": "airport",
+    "name": "Tenzing-Hillary Airport",
+    "code": "LUA",
+    "country": "NP",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Reinhard Kraasch",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:RK_0602_00825_LuklaFlugplatz.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 129508,
+      "runways": 1
+    }
+  },
+  {
+    "id": "apt-lyr",
+    "category": "airport",
+    "name": "Svalbard Airport",
+    "code": "LYR",
+    "country": "NO",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "User:Bjoertvedt",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Longyearbyen_Hotellneset_IMG_3003-rot.jpg",
+      "width": 960,
+      "height": 704
+    },
+    "metrics": {
+      "passengers": 170277,
+      "runways": 1,
+      "airlines": 2
+    }
+  },
+  {
+    "id": "apt-lys",
+    "category": "airport",
+    "name": "Lyon–Saint-Exupéry Airport",
+    "code": "LYS",
+    "country": "FR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Benoît Prieur",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_d%27une_partie_de_l%27a%C3%A9roport_de_Lyon_Saint-Exup%C3%A9ry_et_de_la_gare_TGV_(septembre_2022).jpg",
+      "width": 1600,
+      "height": 1170
+    },
+    "metrics": {
+      "passengers": 8558341,
+      "runways": 2,
+      "airlines": 49
+    }
+  },
+  {
+    "id": "apt-maa",
+    "category": "airport",
+    "name": "Chennai International Airport",
+    "code": "MAA",
+    "country": "IN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "User:Tshrinivasan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chennai_airport_view_4.jpeg",
+      "width": 1600,
+      "height": 948
+    },
+    "metrics": {
+      "passengers": 1468723,
+      "runways": 2,
+      "airlines": 30
+    }
+  },
+  {
+    "id": "apt-mad",
+    "category": "airport",
+    "name": "Madrid-Barajas Airport",
+    "code": "MAD",
+    "country": "ES",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "en:User:Malaga",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Barajas_overview1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barajas_overview1.jpg",
+      "width": 960,
+      "height": 641
+    },
+    "metrics": {
+      "passengers": 66197066,
+      "runways": 4,
+      "airlines": 87
+    }
+  },
+  {
+    "id": "apt-man",
+    "category": "airport",
+    "name": "Manchester Airport",
+    "code": "MAN",
+    "country": "GB",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Dave Croker",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manchester_Airport.jpg",
+      "width": 480,
+      "height": 300
+    },
+    "metrics": {
+      "passengers": 23340418,
+      "runways": 2,
+      "airlines": 53
+    }
+  },
+  {
+    "id": "apt-mco",
+    "category": "airport",
+    "name": "Orlando International Airport",
+    "code": "MCO",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Dough4872",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Orlando_International_Airport_terminal_from_arriving_airplane.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orlando_International_Airport_terminal_from_arriving_airplane.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 57675573,
+      "runways": 4,
+      "airlines": 35
+    }
+  },
+  {
+    "id": "apt-mct",
+    "category": "airport",
+    "name": "Muscat International Airport",
+    "code": "MCT",
+    "country": "OM",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Andrea Tabanelli",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Muscat_Airport.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "passengers": 6479860,
+      "runways": 2,
+      "airlines": 28
+    }
+  },
+  {
+    "id": "apt-mel",
+    "category": "airport",
+    "name": "Melbourne Airport",
+    "code": "MEL",
+    "country": "AU",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Phil Vabre",
+      "license": "GFDL",
+      "licenseUrl": "http://www.gnu.org/copyleft/fdl.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tullamarine_International_terminal_Vabre-1.jpg",
+      "width": 960,
+      "height": 642
+    },
+    "metrics": {
+      "passengers": 25690854,
+      "runways": 2,
+      "airlines": 46
+    }
+  },
+  {
+    "id": "apt-mia",
+    "category": "airport",
+    "name": "Miami International Airport",
+    "code": "MIA",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Martin St-Amant (S23678)",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_-_A%C3%A9roport_de_Miami_-_Ao%C3%BBt_2008.jpg",
+      "width": 1600,
+      "height": 762
+    },
+    "metrics": {
+      "passengers": 55314661,
+      "runways": 4,
+      "airlines": 47
+    }
+  },
+  {
+    "id": "apt-mla",
+    "category": "airport",
+    "name": "Malta International Airport",
+    "code": "MLA",
+    "country": "MT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Kristoferb",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malta_International_Airport_from_tarmac.JPG",
+      "width": 1600,
+      "height": 873
+    },
+    "metrics": {
+      "passengers": 5850499,
+      "runways": 2,
+      "airlines": 32
+    }
+  },
+  {
+    "id": "apt-mle",
+    "category": "airport",
+    "name": "Velana International Airport",
+    "code": "MLE",
+    "country": "MV",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Jolle",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hulele-airport.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "runways": 1,
+      "airlines": 48
+    }
+  },
+  {
+    "id": "apt-mln",
+    "category": "airport",
+    "name": "Melilla Airport",
+    "code": "MLN",
+    "country": "ES",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "twiga_swala",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Melilla_Airport.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 507957,
+      "runways": 1,
+      "airlines": 1
+    }
+  },
+  {
+    "id": "apt-mnl",
+    "category": "airport",
+    "name": "Ninoy Aquino International Airport",
+    "code": "MNL",
+    "country": "PH",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Josh Lim (Sky Harbor)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ninoy_Aquino_International_Airport_aerial_view.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 50356465,
+      "runways": 2,
+      "airlines": 51
+    }
+  },
+  {
+    "id": "apt-mrs",
+    "category": "airport",
+    "name": "Marseille Provence Airport",
+    "code": "MRS",
+    "country": "FR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Georges Seguin (Okki)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marseille_Provence_Airport_2017_05.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 9148306,
+      "runways": 2,
+      "airlines": 41
+    }
+  },
+  {
+    "id": "apt-mru",
+    "category": "airport",
+    "name": "Sir Seewoosagur Ramgoolam International Airport",
+    "code": "MRU",
+    "country": "MU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Simisa (talk · contribs)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:MRU-NBO_25.08.2009_07-53-03.jpg",
+      "width": 1600,
+      "height": 1063
+    },
+    "metrics": {
+      "passengers": 3884056,
+      "runways": 1,
+      "airlines": 23
+    }
+  },
+  {
+    "id": "apt-msp",
+    "category": "airport",
+    "name": "Minneapolis–Saint Paul International Airport",
+    "code": "MSP",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Tony Webster",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minneapolis-Saint_Paul_International_Airport_Control_Tower_(53999716911).jpg",
+      "width": 1600,
+      "height": 1143
+    },
+    "metrics": {
+      "passengers": 36071627,
+      "runways": 4,
+      "airlines": 15
+    }
+  },
+  {
+    "id": "apt-msq",
+    "category": "airport",
+    "name": "Minsk National Airport",
+    "code": "MSQ",
+    "country": "BY",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Vasyatka1",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parking_lot_of_Minsk_National_Airport_(2).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 2497631,
+      "runways": 2,
+      "airlines": 11
+    }
+  },
+  {
+    "id": "apt-muc",
+    "category": "airport",
+    "name": "Munich Airport",
+    "code": "MUC",
+    "country": "DE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Thomas Kniess",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Munich_Airport_Aerial_View_T1_T2_MAC.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 41568000,
+      "runways": 2,
+      "airlines": 79
+    }
+  },
+  {
+    "id": "apt-mxp",
+    "category": "airport",
+    "name": "Milan–Malpensa \"Silvio Berlusconi\" Airport",
+    "code": "MXP",
+    "country": "IT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Olivier Cleynen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Milan_Malpensa_airport.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 31385585,
+      "runways": 2,
+      "airlines": 89
+    }
+  },
+  {
+    "id": "apt-nap",
+    "category": "airport",
+    "name": "Naples International Airport",
+    "code": "NAP",
+    "country": "IT",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Aktug Ates",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airport,_Ramp_JP7227131.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "passengers": 13271522,
+      "runways": 1,
+      "airlines": 44
+    }
+  },
+  {
+    "id": "apt-nbo",
+    "category": "airport",
+    "name": "Jomo Kenyatta International Airport",
+    "code": "NBO",
+    "country": "KE",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "li yong",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jomo_Kenyatta_International_Airport_(JKIA).jpg",
+      "width": 960,
+      "height": 638
+    },
+    "metrics": {
+      "passengers": 1942000,
+      "runways": 1,
+      "airlines": 33
+    }
+  },
+  {
+    "id": "apt-nce",
+    "category": "airport",
+    "name": "Nice Côte d'Azur Airport",
+    "code": "NCE",
+    "country": "FR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Abxbay",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A%C3%A9roport_Nice_vue_a%C3%A9rienne.jpg",
+      "width": 1600,
+      "height": 792
+    },
+    "metrics": {
+      "passengers": 12119043,
+      "runways": 2,
+      "airlines": 62
+    }
+  },
+  {
+    "id": "apt-ngo",
+    "category": "airport",
+    "name": "Chubu Centrair International Airport",
+    "code": "NGO",
+    "country": "JP",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "JKT-c",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chubu_Centrair_International_Airport_-_North_Wing_-_01.JPG",
+      "width": 1600,
+      "height": 1070
+    },
+    "metrics": {
+      "passengers": 10616189,
+      "runways": 1,
+      "airlines": 36
+    }
+  },
+  {
+    "id": "apt-nkg",
+    "category": "airport",
+    "name": "Nanjing Lukou International Airport",
+    "code": "NKG",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Siyuwj",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E4%BA%AC%E7%A6%84%E5%8F%A3%E6%9C%BA%E5%9C%BA,_2023-02-20.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "passengers": 31378166,
+      "runways": 2,
+      "airlines": 40
+    }
+  },
+  {
+    "id": "apt-nrt",
+    "category": "airport",
+    "name": "Narita International Airport",
+    "code": "NRT",
+    "country": "JP",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "PSnyan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Narita_International_Air_Port_(cropped).jpg",
+      "width": 1600,
+      "height": 1037
+    },
+    "metrics": {
+      "passengers": 39807651,
+      "runways": 2,
+      "airlines": 84
+    }
+  },
+  {
+    "id": "apt-opo",
+    "category": "airport",
+    "name": "Francisco de Sá Carneiro Airport",
+    "code": "OPO",
+    "country": "PT",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Pedroshin at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Aeroporto_Porto_17.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroporto_Porto_17.jpg",
+      "width": 480,
+      "height": 319
+    },
+    "metrics": {
+      "passengers": 4433000,
+      "runways": 1,
+      "airlines": 45
+    }
+  },
+  {
+    "id": "apt-ord",
+    "category": "airport",
+    "name": "O'Hare International Airport",
+    "code": "ORD",
+    "country": "US",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:O%27Hare_International_Airport_(USGS).png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:O%27Hare_International_Airport_(USGS).png",
+      "width": 480,
+      "height": 589
+    },
+    "metrics": {
+      "passengers": 84851825,
+      "runways": 8,
+      "airlines": 48
+    }
+  },
+  {
+    "id": "apt-ory",
+    "category": "airport",
+    "name": "Orly Airport",
+    "code": "ORY",
+    "country": "FR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "PierreAeroport",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:OrlyVal_Orly.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:OrlyVal_Orly.JPG",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 32294167,
+      "runways": 3,
+      "airlines": 27
+    }
+  },
+  {
+    "id": "apt-osl",
+    "category": "airport",
+    "name": "Oslo Airport",
+    "code": "OSL",
+    "country": "NO",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Avinor Oslo lufthavn/Espen Solli",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oslo_Airport_terminal_night_view.jpg",
+      "width": 1600,
+      "height": 944
+    },
+    "metrics": {
+      "passengers": 22467510,
+      "runways": 2,
+      "airlines": 43
+    }
+  },
+  {
+    "id": "apt-otp",
+    "category": "airport",
+    "name": "Henri Coandă International Airport",
+    "code": "OTP",
+    "country": "RO",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Cristibur (talk)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:HC_arrivals.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HC_arrivals.jpg",
+      "width": 1600,
+      "height": 1195
+    },
+    "metrics": {
+      "passengers": 17001578,
+      "runways": 2,
+      "airlines": 35
+    }
+  },
+  {
+    "id": "apt-ovb",
+    "category": "airport",
+    "name": "Tolmachevo Airport",
+    "code": "OVB",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Vyacheslav Bukharov",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tolmachevo_Airport_(February_2024)_-_4.jpg",
+      "width": 1600,
+      "height": 782
+    },
+    "metrics": {
+      "passengers": 9680000,
+      "runways": 2,
+      "airlines": 21
+    }
+  },
+  {
+    "id": "apt-pbh",
+    "category": "airport",
+    "name": "Paro Airport",
+    "code": "PBH",
+    "country": "BT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Douglas J. McLaughlin",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paro_Airport.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "runways": 1,
+      "airlines": 2
+    }
+  },
+  {
+    "id": "apt-pek",
+    "category": "airport",
+    "name": "Beijing Capital International Airport",
+    "code": "PEK",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Calvin411",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beijing_Capital_International_Airport_Aerial_Photo_(20240113213409).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 52879156,
+      "runways": 3,
+      "airlines": 47
+    }
+  },
+  {
+    "id": "apt-per",
+    "category": "airport",
+    "name": "Perth Airport",
+    "code": "PER",
+    "country": "AU",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Montague Smith",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Singapore_Airlines_Boeing_777-200ER_at_Perth_Airport_Smith-1.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "passengers": 16900000,
+      "runways": 2,
+      "airlines": 28
+    }
+  },
+  {
+    "id": "apt-pfo",
+    "category": "airport",
+    "name": "Paphos International Airport",
+    "code": "PFO",
+    "country": "CY",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "TomasNY at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paphos_International_Airport_Check-in_Hall.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 3179776,
+      "runways": 1,
+      "airlines": 15
+    }
+  },
+  {
+    "id": "apt-phl",
+    "category": "airport",
+    "name": "Philadelphia International Airport",
+    "code": "PHL",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Photo: Andreas Praefcke",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Philadelphia_International_Airport.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Philadelphia_International_Airport.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 30136790,
+      "runways": 4,
+      "airlines": 15
+    }
+  },
+  {
+    "id": "apt-phx",
+    "category": "airport",
+    "name": "Phoenix Sky Harbor International Airport",
+    "code": "PHX",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Braboowi at en.wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phoenix-sky-harbor-control-tower.jpg",
+      "width": 1600,
+      "height": 1064
+    },
+    "metrics": {
+      "passengers": 51618649,
+      "runways": 3,
+      "airlines": 23
+    }
+  },
+  {
+    "id": "apt-pkx",
+    "category": "airport",
+    "name": "Beijing Daxing International Airport",
+    "code": "PKX",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Siyuwj",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%85%B4%E6%9C%BA%E5%9C%BA%E8%88%AA%E7%AB%99%E6%A5%BC,_2023-02-20_(20240113195424).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 53618400,
+      "runways": 4,
+      "airlines": 40
+    }
+  },
+  {
+    "id": "apt-pqc",
+    "category": "airport",
+    "name": "Old Phu Quoc Airport",
+    "code": "PQC",
+    "country": "VN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Michael gerard burns",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:PhuQuocAirport.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PhuQuocAirport.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "runways": 2,
+      "airlines": 24
+    }
+  },
+  {
+    "id": "apt-prg",
+    "category": "airport",
+    "name": "Václav Havel Airport Prague",
+    "code": "PRG",
+    "country": "CZ",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Jklamo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:VaclavHavelAirport.JPG",
+      "width": 1600,
+      "height": 1065
+    },
+    "metrics": {
+      "passengers": 17750528,
+      "runways": 2,
+      "airlines": 78
+    }
+  },
+  {
+    "id": "apt-prn",
+    "category": "airport",
+    "name": "Pristina International Airport Adem Jashari",
+    "code": "PRN",
+    "country": "XK",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "PIA \"Adem Jashari\" Limak Kosova",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PIIAJ_-_Limak_Kosovo.jpg",
+      "width": 1600,
+      "height": 1065
+    },
+    "metrics": {
+      "passengers": 4082481,
+      "runways": 1,
+      "airlines": 17
+    }
+  },
+  {
+    "id": "apt-psa",
+    "category": "airport",
+    "name": "Pisa International Airport 'Galileo Galilei'",
+    "code": "PSA",
+    "country": "IT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "DV",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pisa_International_Airport_Galileo_Galilei,_Italy.JPG",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 5944769,
+      "runways": 2,
+      "airlines": 23
+    }
+  },
+  {
+    "id": "apt-pvg",
+    "category": "airport",
+    "name": "Shanghai Pudong International Airport",
+    "code": "PVG",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "User:Yuezhi_Huang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shanghai_Pudong_Airport_2024_(cropped).jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 84994548,
+      "runways": 5,
+      "airlines": 86
+    }
+  },
+  {
+    "id": "apt-pxu",
+    "category": "airport",
+    "name": "Pleiku Airport",
+    "code": "PXU",
+    "country": "VN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "BertholdD",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pleiku_Airport.jpg",
+      "width": 960,
+      "height": 641
+    },
+    "metrics": {
+      "passengers": 720000,
+      "runways": 1,
+      "airlines": 2
+    }
+  },
+  {
+    "id": "apt-rix",
+    "category": "airport",
+    "name": "Riga International Airport",
+    "code": "RIX",
+    "country": "LV",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Avio2016",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riga_Airport_2016.jpg",
+      "width": 1600,
+      "height": 1068
+    },
+    "metrics": {
+      "passengers": 5380779,
+      "runways": 1,
+      "airlines": 14
+    }
+  },
+  {
+    "id": "apt-rkv",
+    "category": "airport",
+    "name": "Reykjavík Airport",
+    "code": "RKV",
+    "country": "IS",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Konstantin von Wedelstaedt",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reykjavik_Airport_aerial.jpg",
+      "width": 960,
+      "height": 639
+    },
+    "metrics": {
+      "passengers": 348773,
+      "runways": 2,
+      "airlines": 1
+    }
+  },
+  {
+    "id": "apt-rmo",
+    "category": "airport",
+    "name": "Chișinău International Airport",
+    "code": "RMO",
+    "country": "MD",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Simiprof",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chisinau_Airport_KIV.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 2995530,
+      "runways": 2,
+      "airlines": 25
+    }
+  },
+  {
+    "id": "apt-ruh",
+    "category": "airport",
+    "name": "King Khalid International Airport",
+    "code": "RUH",
+    "country": "SA",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "amc.af.mil",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Riyadh-airport.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riyadh-airport.jpg",
+      "width": 960,
+      "height": 690
+    },
+    "metrics": {
+      "passengers": 16845937,
+      "runways": 2,
+      "airlines": 58
+    }
+  },
+  {
+    "id": "apt-san",
+    "category": "airport",
+    "name": "San Diego International Airport",
+    "code": "SAN",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Konstantin von Wedelstaedt",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Airways_Boeing_777-200ER_G-YMMS_SAN_2011-7-28.png",
+      "width": 960,
+      "height": 639
+    },
+    "metrics": {
+      "passengers": 25320556,
+      "runways": 1,
+      "airlines": 16
+    }
+  },
+  {
+    "id": "apt-saw",
+    "category": "airport",
+    "name": "Istanbul Sabiha Gökçen International Airport",
+    "code": "SAW",
+    "country": "TR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Apaleutos25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_Sabiha_G%C3%B6k%C3%A7en_Uluslararas%C4%B1_Havaliman%C4%B1.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 48420757,
+      "runways": 2,
+      "airlines": 20
+    }
+  },
+  {
+    "id": "apt-scl",
+    "category": "airport",
+    "name": "Arturo Merino Benítez International Airport",
+    "code": "SCL",
+    "country": "CL",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Phillip Capper from Wellington, New Zealand",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_Aeropuerto_Pudahuel.jpg",
+      "width": 1600,
+      "height": 993
+    },
+    "metrics": {
+      "passengers": 18744155,
+      "runways": 2,
+      "airlines": 19
+    }
+  },
+  {
+    "id": "apt-sen",
+    "category": "airport",
+    "name": "London Southend Airport",
+    "code": "SEN",
+    "country": "GB",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Chris j wood",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southend_Airport_terminal_building_02.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 719513,
+      "runways": 1,
+      "airlines": 1
+    }
+  },
+  {
+    "id": "apt-sfo",
+    "category": "airport",
+    "name": "San Francisco International Airport",
+    "code": "SFO",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Calbookaddict at English Wikipedia",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_San_Francisco_International_Airport_2010.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 54532613,
+      "runways": 4,
+      "airlines": 54
+    }
+  },
+  {
+    "id": "apt-sgn",
+    "category": "airport",
+    "name": "Tan Son Nhat International Airport",
+    "code": "SGN",
+    "country": "VN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Bem photography",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tan_Son_Nhat_International_Airport_at_night_(12088245464).jpg",
+      "width": 1600,
+      "height": 924
+    },
+    "metrics": {
+      "passengers": 39859384,
+      "runways": 2,
+      "airlines": 52
+    }
+  },
+  {
+    "id": "apt-sha",
+    "category": "airport",
+    "name": "Shanghai Hongqiao International Airport",
+    "code": "SHA",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "User:Yuezhi_Huang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shanghai_Hongqiao_2024_(cropped).jpg",
+      "width": 1600,
+      "height": 1222
+    },
+    "metrics": {
+      "passengers": 50151025,
+      "runways": 2,
+      "airlines": 27
+    }
+  },
+  {
+    "id": "apt-shj",
+    "category": "airport",
+    "name": "Sharjah International Airport",
+    "code": "SHJ",
+    "country": "AE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Fadi Fayad Al Taoba",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sharjah_International_Airport_-_panoramio.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 13000000,
+      "runways": 1,
+      "airlines": 18
+    }
+  },
+  {
+    "id": "apt-sin",
+    "category": "airport",
+    "name": "Singapore Changi Airport",
+    "code": "SIN",
+    "country": "SG",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Takeshi Aida from Hong Kong, Hong Kong",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Singapore_Airport,_Jewel_Changi,_20230722_(1)_(53337065497).jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 58900000,
+      "runways": 3,
+      "airlines": 82
+    }
+  },
+  {
+    "id": "apt-sjj",
+    "category": "airport",
+    "name": "Sarajevo International Airport",
+    "code": "SJJ",
+    "country": "BA",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Natalino7",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Airport_1_2024.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 1377348,
+      "runways": 1,
+      "airlines": 25
+    }
+  },
+  {
+    "id": "apt-skp",
+    "category": "airport",
+    "name": "Skopje International Airport",
+    "code": "SKP",
+    "country": "MK",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Stas Kozlovskiy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skopje_aeroport.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 2883378,
+      "runways": 1,
+      "airlines": 15
+    }
+  },
+  {
+    "id": "apt-slc",
+    "category": "airport",
+    "name": "Salt Lake City International Airport",
+    "code": "SLC",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Ron Reiring",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salt_Lake_City_International_Airport_SLC.jpg",
+      "width": 1600,
+      "height": 1058
+    },
+    "metrics": {
+      "passengers": 28158007,
+      "runways": 5,
+      "airlines": 13
+    }
+  },
+  {
+    "id": "apt-snn",
+    "category": "airport",
+    "name": "Shannon Airport",
+    "code": "SNN",
+    "country": "IE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Wolf32at",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ryanair_EI-DAD_Boeing_737-800_Shannon_NEIN_zum_Lufthansa_Kerosinzuschlag.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 1418084,
+      "runways": 1,
+      "airlines": 7
+    }
+  },
+  {
+    "id": "apt-sof",
+    "category": "airport",
+    "name": "Sofia Airport",
+    "code": "SOF",
+    "country": "BG",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Margarita kiril86",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SA-06-NOvember-2015.jpg",
+      "width": 1600,
+      "height": 1011
+    },
+    "metrics": {
+      "passengers": 7992702,
+      "runways": 1,
+      "airlines": 26
+    }
+  },
+  {
+    "id": "apt-spu",
+    "category": "airport",
+    "name": "Saint Jerome Airport",
+    "code": "SPU",
+    "country": "HR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Kucharek 08:43, 7 October 2006 (UTC)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Croatia_Split_Airport_Aerial_Photograph_1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Croatia_Split_Airport_Aerial_Photograph_1.jpg",
+      "width": 1600,
+      "height": 2133
+    },
+    "metrics": {
+      "passengers": 2908577,
+      "runways": 1,
+      "airlines": 35
+    }
+  },
+  {
+    "id": "apt-ssh",
+    "category": "airport",
+    "name": "Sharm el-Sheikh International Airport",
+    "code": "SSH",
+    "country": "EG",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "JHenryW / Justus Weiss",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_2_Sharm_el-Sheikh_Airport.JPG",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 9046690,
+      "runways": 2,
+      "airlines": 36
+    }
+  },
+  {
+    "id": "apt-stn",
+    "category": "airport",
+    "name": "London Stansted Airport",
+    "code": "STN",
+    "country": "GB",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Thomas Nugent",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stansted_Airport_-_geograph.org.uk_-_1710808.jpg",
+      "width": 1600,
+      "height": 1071
+    },
+    "metrics": {
+      "passengers": 23319523,
+      "runways": 1,
+      "airlines": 20
+    }
+  },
+  {
+    "id": "apt-svo",
+    "category": "airport",
+    "name": "Sheremetyevo International Airport",
+    "code": "SVO",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Quick1984",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SVO_aerial_view_2024.jpg",
+      "width": 1600,
+      "height": 1952
+    },
+    "metrics": {
+      "passengers": 43130000,
+      "runways": 3,
+      "airlines": 34
+    }
+  },
+  {
+    "id": "apt-sxm",
+    "category": "airport",
+    "name": "Princess Juliana International Airport",
+    "code": "SXM",
+    "country": "SX",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Todd Neville from Scottsdale, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:American_757_on_final_approach_at_St_Maarten_Airport.jpg",
+      "width": 1600,
+      "height": 1068
+    },
+    "metrics": {
+      "passengers": 792740,
+      "runways": 1,
+      "airlines": 25
+    }
+  },
+  {
+    "id": "apt-syd",
+    "category": "airport",
+    "name": "Sydney Airport",
+    "code": "SYD",
+    "country": "AU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Maksym Kozlenko",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_airport_-_International_terminal.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 28983874,
+      "runways": 3,
+      "airlines": 53
+    }
+  },
+  {
+    "id": "apt-szg",
+    "category": "airport",
+    "name": "Salzburg Airport",
+    "code": "SZG",
+    "country": "AT",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Martin Belam (currybet)",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salzburg_Airport_from_the_air.jpg",
+      "width": 480,
+      "height": 360
+    },
+    "metrics": {
+      "passengers": 1787169,
+      "runways": 1,
+      "airlines": 20
+    }
+  },
+  {
+    "id": "apt-szx",
+    "category": "airport",
+    "name": "Shenzhen Bao'an International Airport",
+    "code": "SZX",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "準建築人手札網站 Forgemind ArchiMedia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shenzhen_Bao%27an_Airport.jpg",
+      "width": 1600,
+      "height": 728
+    },
+    "metrics": {
+      "passengers": 66485213,
+      "runways": 3,
+      "airlines": 50
+    }
+  },
+  {
+    "id": "apt-tas",
+    "category": "airport",
+    "name": "Tashkent International Airport",
+    "code": "TAS",
+    "country": "UZ",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Rolf Wallner",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tashkent_Airport_Wallner.jpg",
+      "width": 960,
+      "height": 648
+    },
+    "metrics": {
+      "passengers": 4430000,
+      "runways": 2,
+      "airlines": 40
+    }
+  },
+  {
+    "id": "apt-tbs",
+    "category": "airport",
+    "name": "Tbilisi International Airport",
+    "code": "TBS",
+    "country": "GE",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Gmaisuradze15",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tbilisi_airport_1.jpg",
+      "width": 480,
+      "height": 319
+    },
+    "metrics": {
+      "passengers": 2998566,
+      "runways": 1,
+      "airlines": 49
+    }
+  },
+  {
+    "id": "apt-tfs",
+    "category": "airport",
+    "name": "Tenerife South Airport",
+    "code": "TFS",
+    "country": "ES",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Ad Meskens",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airport_Tenerife_Sur_05.jpg",
+      "width": 1600,
+      "height": 850
+    },
+    "metrics": {
+      "passengers": 10821703,
+      "runways": 1,
+      "airlines": 41
+    }
+  },
+  {
+    "id": "apt-tgd",
+    "category": "airport",
+    "name": "Podgorica Airport",
+    "code": "TGD",
+    "country": "ME",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Bjoertvedt",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AerodromPodgorica.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 1657522,
+      "runways": 1,
+      "airlines": 15
+    }
+  },
+  {
+    "id": "apt-thd",
+    "category": "airport",
+    "name": "Tho Xuan Airport",
+    "code": "THD",
+    "country": "VN",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Khue avril",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tho_Xuan_airport.jpg",
+      "width": 480,
+      "height": 320
+    },
+    "metrics": {
+      "passengers": 939000,
+      "runways": 1,
+      "airlines": 2
+    }
+  },
+  {
+    "id": "apt-thr",
+    "category": "airport",
+    "name": "Mehrabad International Airport",
+    "code": "THR",
+    "country": "IR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Chrisrabinson",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mehrabad_Airport_Terminal_1%262.jpg",
+      "width": 1600,
+      "height": 873
+    },
+    "metrics": {
+      "passengers": 14931798,
+      "runways": 2,
+      "airlines": 5
+    }
+  },
+  {
+    "id": "apt-tia",
+    "category": "airport",
+    "name": "Tirana International Airport Nënë Tereza",
+    "code": "TIA",
+    "country": "AL",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Dardani89",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Rinas.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rinas.JPG",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 7257634,
+      "runways": 1,
+      "airlines": 41
+    }
+  },
+  {
+    "id": "apt-tll",
+    "category": "airport",
+    "name": "Tallinn Airport",
+    "code": "TLL",
+    "country": "EE",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Pjotr Mahhonin",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tallinn_Airport_03_July_2006.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 2748255,
+      "runways": 1,
+      "airlines": 18
+    }
+  },
+  {
+    "id": "apt-tls",
+    "category": "airport",
+    "name": "Toulouse-Blagnac",
+    "code": "TLS",
+    "country": "FR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Gyrostat",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A%C3%A9rogare_LFBO_2016.jpg",
+      "width": 1600,
+      "height": 1038
+    },
+    "metrics": {
+      "passengers": 7037150,
+      "runways": 2,
+      "airlines": 31
+    }
+  },
+  {
+    "id": "apt-tlv",
+    "category": "airport",
+    "name": "Ben Gurion Airport",
+    "code": "TLV",
+    "country": "IL",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Chris Hoare",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ben-gurion-airport-terminal--september-2012.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 20008532,
+      "runways": 3,
+      "airlines": 56
+    }
+  },
+  {
+    "id": "apt-tpa",
+    "category": "airport",
+    "name": "Tampa International Airport",
+    "code": "TPA",
+    "country": "US",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "S340",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:American_737_at_Tampa_Airport.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 24811253,
+      "runways": 3,
+      "airlines": 21
+    }
+  },
+  {
+    "id": "apt-tpe",
+    "category": "airport",
+    "name": "Taoyuan International Airport",
+    "code": "TPE",
+    "country": "TW",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Photographer: Mosbatho",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Control_tower_at_Taiwan_Taoyuan_International_Airport,_2023.jpg",
+      "width": 1600,
+      "height": 2087
+    },
+    "metrics": {
+      "passengers": 47795969,
+      "runways": 2,
+      "airlines": 56
+    }
+  },
+  {
+    "id": "apt-trn",
+    "category": "airport",
+    "name": "Turin Airport",
+    "code": "TRN",
+    "country": "IT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Paolo Cerutti",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Aeroporto_di_Torino-vista_aerea.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroporto_di_Torino-vista_aerea.JPG",
+      "width": 1600,
+      "height": 848
+    },
+    "metrics": {
+      "passengers": 5006169,
+      "runways": 1,
+      "airlines": 25
+    }
+  },
+  {
+    "id": "apt-tun",
+    "category": "airport",
+    "name": "Tunis–Carthage International Airport",
+    "code": "TUN",
+    "country": "TN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Citizen59",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AeroportTunisCarthage.jpg",
+      "width": 1600,
+      "height": 1063
+    },
+    "metrics": {
+      "passengers": 6441886,
+      "runways": 2,
+      "airlines": 29
+    }
+  },
+  {
+    "id": "apt-ufa",
+    "category": "airport",
+    "name": "Ufa International Airport",
+    "code": "UFA",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Vyacheslav Bukharov",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ufa_International_Airport_(April_2025)_-0_1.jpg",
+      "width": 1600,
+      "height": 830
+    },
+    "metrics": {
+      "passengers": 4900000,
+      "runways": 2,
+      "airlines": 25
+    }
+  },
+  {
+    "id": "apt-uih",
+    "category": "airport",
+    "name": "Phu Cat Airport",
+    "code": "UIH",
+    "country": "VN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Genghiskhan",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Phucatairport1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phucatairport1.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 1500000,
+      "runways": 1,
+      "airlines": 3
+    }
+  },
+  {
+    "id": "apt-urc",
+    "category": "airport",
+    "name": "Ürümqi Tianshan International Airport",
+    "code": "URC",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "HaziiDozen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E5%A4%A9%E5%B1%B1%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%E8%88%AA%E7%AB%99%E6%A5%BC_Terminal_of_Urumqi_Tianshan_International_Airport.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 10035368,
+      "runways": 3,
+      "airlines": 39
+    }
+  },
+  {
+    "id": "apt-vce",
+    "category": "airport",
+    "name": "Venice Marco Polo Airport",
+    "code": "VCE",
+    "country": "IT",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "RUI Sousa, friend of Fufu33. The original uploader was Fufu33 at French…",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroporto_di_Venezia_-_vue_aerienne.jpg",
+      "width": 960,
+      "height": 642
+    },
+    "metrics": {
+      "passengers": 11850336,
+      "runways": 2,
+      "airlines": 54
+    }
+  },
+  {
+    "id": "apt-vcs",
+    "category": "airport",
+    "name": "Con Dao Airport",
+    "code": "VCS",
+    "country": "VN",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "DC112",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ATR72-200_at_Co_Ong.jpg",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 400000,
+      "runways": 1,
+      "airlines": 1
+    }
+  },
+  {
+    "id": "apt-vdh",
+    "category": "airport",
+    "name": "Dong Hoi Airport",
+    "code": "VDH",
+    "country": "VN",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Genghiskhan",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:DHAirport4.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:DHAirport4.jpg",
+      "width": 480,
+      "height": 360
+    },
+    "metrics": {
+      "passengers": 700000,
+      "runways": 1,
+      "airlines": 3
+    }
+  },
+  {
+    "id": "apt-vie",
+    "category": "airport",
+    "name": "Wien-Schwechat Airport",
+    "code": "VIE",
+    "country": "AT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Hansueli Krapf This file was uploaded with Commonist.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2011-06-14_10-23-53_Austria_Nieder%C3%B6sterreich_Fischamend_Markt.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 32559115,
+      "runways": 2,
+      "airlines": 69
+    }
+  },
+  {
+    "id": "apt-vko",
+    "category": "airport",
+    "name": "Vnukovo International Airport",
+    "code": "VKO",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "mos.ru",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vnukovo_International_Airport_2019.jpg",
+      "width": 1600,
+      "height": 1065
+    },
+    "metrics": {
+      "passengers": 16400000,
+      "runways": 2,
+      "airlines": 25
+    }
+  },
+  {
+    "id": "apt-vno",
+    "category": "airport",
+    "name": "Vilnius Airport",
+    "code": "VNO",
+    "country": "LT",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Augustas Didžgalvis",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:EYVI-VNO_by_Augustas_Didzgalvis.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 3915960,
+      "runways": 1,
+      "airlines": 17
+    }
+  },
+  {
+    "id": "apt-vvo",
+    "category": "airport",
+    "name": "Vladivostok International Airport",
+    "code": "VVO",
+    "country": "RU",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Maks25rus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NewUHWWterminal.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 3260000,
+      "runways": 1,
+      "airlines": 14
+    }
+  },
+  {
+    "id": "apt-waw",
+    "category": "airport",
+    "name": "Warsaw Chopin Airport",
+    "code": "WAW",
+    "country": "PL",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lotnisko_Chopina_w_Warszawie_2018b.jpg",
+      "width": 1600,
+      "height": 926
+    },
+    "metrics": {
+      "passengers": 21261806,
+      "runways": 2,
+      "airlines": 34
+    }
+  },
+  {
+    "id": "apt-xiy",
+    "category": "airport",
+    "name": "Xi'an Xianyang International Airport",
+    "code": "XIY",
+    "country": "CN",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "shimin",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airport,_Terminal_JP7562176.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "passengers": 13558364,
+      "runways": 4,
+      "airlines": 42
+    }
+  },
+  {
+    "id": "apt-yul",
+    "category": "airport",
+    "name": "Montréal–Trudeau International Airport",
+    "code": "YUL",
+    "country": "CA",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "FRED",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:YUL.U.S._Departures.Sector.Control.Tower.jpg",
+      "width": 960,
+      "height": 721
+    },
+    "metrics": {
+      "passengers": 21550764,
+      "runways": 2,
+      "airlines": 35
+    }
+  },
+  {
+    "id": "apt-yvr",
+    "category": "airport",
+    "name": "Vancouver International Airport",
+    "code": "YVR",
+    "country": "CA",
+    "photo": {
+      "widths": [461],
+      "formats": ["avif", "webp"],
+      "author": "Sikander Iqbal",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Vancouver_Airport_Tower.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vancouver_Airport_Tower.jpg",
+      "width": 461,
+      "height": 614
+    },
+    "metrics": {
+      "passengers": 26913561,
+      "runways": 3,
+      "airlines": 43
+    }
+  },
+  {
+    "id": "apt-yyc",
+    "category": "airport",
+    "name": "Calgary International Airport",
+    "code": "YYC",
+    "country": "CA",
+    "photo": {
+      "widths": [480],
+      "formats": ["avif", "webp"],
+      "author": "Jeff Walker",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CYYCWestjetTerminalNorth.jpg",
+      "width": 480,
+      "height": 318
+    },
+    "metrics": {
+      "passengers": 18488330,
+      "runways": 3,
+      "airlines": 15
+    }
+  },
+  {
+    "id": "apt-yyz",
+    "category": "airport",
+    "name": "Toronto Pearson International Airport",
+    "code": "YYZ",
+    "country": "CA",
+    "photo": {
+      "widths": [480, 960],
+      "formats": ["avif", "webp"],
+      "author": "Buffyjossdollhouse",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:YYZ_Aerial_2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:YYZ_Aerial_2.jpg",
+      "width": 960,
+      "height": 640
+    },
+    "metrics": {
+      "passengers": 45714326,
+      "runways": 5,
+      "airlines": 53
+    }
+  },
+  {
+    "id": "apt-zad",
+    "category": "airport",
+    "name": "Zadar Airport",
+    "code": "ZAD",
+    "country": "HR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "(aeropagitica)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Zadar_airport_terminal_croatia.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zadar_airport_terminal_croatia.JPG",
+      "width": 1600,
+      "height": 1200
+    },
+    "metrics": {
+      "passengers": 1102381,
+      "runways": 2,
+      "airlines": 16
+    }
+  },
+  {
+    "id": "apt-zag",
+    "category": "airport",
+    "name": "Zagreb Airport",
+    "code": "ZAG",
+    "country": "HR",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "ZagrebAirport",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Novi_putni%C4%8Dki_terminal_.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "metrics": {
+      "passengers": 3124605,
+      "runways": 1,
+      "airlines": 24
+    }
+  },
+  {
+    "id": "apt-zrh",
+    "category": "airport",
+    "name": "Zurich Airport",
+    "code": "ZRH",
+    "country": "CH",
+    "photo": {
+      "widths": [480, 960, 1600],
+      "formats": ["avif", "webp"],
+      "author": "Rama",
+      "license": "CC BY-SA 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zurich_airport_img_3324.jpg",
+      "width": 1600,
+      "height": 1067
+    },
+    "metrics": {
+      "passengers": 32593966,
+      "runways": 4,
+      "airlines": 62
+    }
+  }
+]

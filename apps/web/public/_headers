@@ -1,0 +1,8 @@
+/img/*
+  Cache-Control: public, max-age=604800
+
+/data/*
+  Cache-Control: public, max-age=300, must-revalidate
+
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable

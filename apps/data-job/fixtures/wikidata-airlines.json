@@ -1,0 +1,163 @@
+{
+  "head": { "vars": ["item", "itemLabel", "iata", "icao", "country", "inception", "image"] },
+  "results": {
+    "bindings": [
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q9325" },
+        "country": { "type": "literal", "value": "DE" },
+        "iata": { "type": "literal", "value": "LH" },
+        "icao": { "type": "literal", "value": "DLH" },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1926-01-01T00:00:00Z"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/D-AIXK%20Lufthansa%20A350-900%20MUC%20%22Karlsruhe%22.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "Lufthansa" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q9325" },
+        "country": { "type": "literal", "value": "DE" },
+        "iata": { "type": "literal", "value": "LH" },
+        "icao": { "type": "literal", "value": "DLH" },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1953-01-06T00:00:00Z"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/D-AIXK%20Lufthansa%20A350-900%20MUC%20%22Karlsruhe%22.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "Lufthansa" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q32396" },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "AA" },
+        "icao": { "type": "literal", "value": "AAL" },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1926-04-15T00:00:00Z"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/N189AN%20KJFK%20%2837741857042%29.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "American Airlines" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q32396" },
+        "country": { "type": "literal", "value": "US" },
+        "iata": { "type": "literal", "value": "AA" },
+        "icao": { "type": "literal", "value": "AAL" },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1936-06-25T00:00:00Z"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/N189AN%20KJFK%20%2837741857042%29.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "American Airlines" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q170159" },
+        "country": { "type": "literal", "value": "DE" },
+        "iata": { "type": "literal", "value": "LH" },
+        "icao": { "type": "literal", "value": "DLH" },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2004-01-01T00:00:00Z"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Lufthansa%20CityLine%2C%20D-ACNA%2C%20Bombardier%20CRJ-900LR%20%2826743321668%29.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "Lufthansa Regional" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q310107" },
+        "country": { "type": "literal", "value": "PK" },
+        "iata": { "type": "literal", "value": "PA" },
+        "icao": { "type": "literal", "value": "ABQ" },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2003-01-01T00:00:00Z"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Airbus%20A321-231%2C%20Airblue%20AN1173610.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "airblue" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q649178" },
+        "country": { "type": "literal", "value": "CL" },
+        "iata": { "type": "literal", "value": "LA" },
+        "icao": { "type": "literal", "value": "LAN" },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1929-01-01T00:00:00Z"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/LATAM%20Airlines%2C%20CC-BGJ%2C%20Boeing%20787-9%20Dreamliner%20%2849593009796%29.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "LATAM Airlines" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q691637" },
+        "country": { "type": "literal", "value": "BR" },
+        "iata": { "type": "literal", "value": "G3" },
+        "icao": { "type": "literal", "value": "GLO" },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2001-01-15T00:00:00Z"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/PR-GYC%20%28Gol%20Linhas%20A%C3%A9reas%20Inteligentes%29.png"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "Gol Transportes A\u00e9reos" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q1514315" },
+        "country": { "type": "literal", "value": "AU" },
+        "iata": { "type": "literal", "value": "PA" },
+        "icao": { "type": "literal", "value": "PFY" },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1984-01-01T00:00:00Z"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pel-Air%20%28VH-KNR%29%20IAI%201124A%20Westwind%20II%20taxiing%20at%20Wagga%20Wagga%20Airport.jpg"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "Pel-Air" }
+      },
+      {
+        "item": { "type": "uri", "value": "http://www.wikidata.org/entity/Q14628871" },
+        "country": { "type": "literal", "value": "RU" },
+        "iata": { "type": "literal", "value": "PA" },
+        "icao": { "type": "literal", "value": "PAN" },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1993-01-01T00:00:00Z"
+        },
+        "itemLabel": { "xml:lang": "en", "type": "literal", "value": "PANH" }
+      }
+    ]
+  }
+}

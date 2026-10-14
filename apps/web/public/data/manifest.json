@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-14T13:22:45.683Z",
+  "categories": {
+    "airport": {
+      "file": "items-airport.json",
+      "itemCount": 250
+    },
+    "airline": {
+      "file": "items-airline.json",
+      "itemCount": 250
+    }
+  },
+  "metrics": [
+    {
+      "id": "passengers",
+      "itemCount": 242
+    },
+    {
+      "id": "runways",
+      "itemCount": 250
+    },
+    {
+      "id": "airlines",
+      "itemCount": 249
+    },
+    {
+      "id": "destinations",
+      "itemCount": 213
+    },
+    {
+      "id": "countries",
+      "itemCount": 213
+    },
+    {
+      "id": "founded",
+      "itemCount": 250
+    }
+  ],
+  "minimumItems": 150
+}

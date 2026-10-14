@@ -1,0 +1,21 @@
+{
+  "name": "@agg/data-job",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc -p .",
+    "test": "vitest run",
+    "data-job": "tsx src/main.ts",
+    "validate": "tsx src/validate.ts"
+  },
+  "dependencies": {
+    "@agg/shared": "*",
+    "sharp": "^0.33.0",
+    "tsx": "^4.19.0",
+    "zod": "^3.23.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0"
+  }
+}

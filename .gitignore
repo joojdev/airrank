@@ -1,0 +1,10 @@
+node_modules
+dist
+.vercel
+.env
+.env.local
+*.log
+apps/data-job/.cache
+*.tsbuildinfo
+.wrangler
+.env.deploy
