@@ -5,6 +5,7 @@ export const en: Record<DictionaryKey, string> = {
   "app.tagline":
     "Two items, one question: does the one on the right have more or less? Keep a streak and climb the ranking.",
   "lang.label": "Language",
+  "footer.about": "About me",
   "theme.toDark": "Switch to dark theme",
   "theme.toLight": "Switch to light theme",
   "select.category": "Category",

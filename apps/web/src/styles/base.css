@@ -149,3 +149,20 @@ h3 {
   outline: 2px solid var(--fj-amber-text);
   outline-offset: 2px;
 }
+
+.app-footer {
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 0.75rem;
+}
+.app-footer a {
+  color: var(--fj-ink-soft);
+  text-decoration: none;
+}
+.app-footer a:hover,
+.app-footer a:focus-visible {
+  text-decoration: underline;
+}
+.app-footer svg {
+  font-size: 0.65em;
+}

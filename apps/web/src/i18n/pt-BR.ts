@@ -3,6 +3,7 @@ export const ptBR = {
   "app.tagline":
     "Dois itens, uma pergunta: o da direita tem mais ou menos? Acerte em sequência e suba no ranking.",
   "lang.label": "Idioma",
+  "footer.about": "Sobre mim",
   "theme.toDark": "Mudar para tema escuro",
   "theme.toLight": "Mudar para tema claro",
   "select.category": "Categoria",

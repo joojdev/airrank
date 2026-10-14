@@ -2,6 +2,7 @@ import type { Item, Manifest, Selection } from "@agg/shared";
 import { faPlane } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { useCallback, useEffect, useState } from "react";
+import { Footer } from "./components/Footer";
 import { LanguageSwitcher } from "./components/LanguageSwitcher";
 import { ThemeToggle } from "./components/ThemeToggle";
 import { loadItems, loadManifest } from "./data/loader";
@@ -100,6 +101,7 @@ export function App() {
           />
         )}
       </main>
+      {!playing && <Footer />}
     </div>
   );
 }
