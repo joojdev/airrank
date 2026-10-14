@@ -10,9 +10,7 @@ import {
   type Session,
 } from "@agg/shared";
 import {
-  faArrowDown,
   faArrowLeft,
-  faArrowUp,
   faCaretDown,
   faCaretUp,
   faCheck,
@@ -206,26 +204,20 @@ export function GameScreen({
             variant="sage"
             onClick={() => guess("higher")}
           >
+            {t(metric.answerLabels.higher as "answer.more")}
             <span className="answer-btn__icon" aria-hidden="true">
               <FontAwesomeIcon icon={faCaretUp} />
             </span>
-            {t(metric.answerLabels.higher as "answer.more")}
-            <kbd aria-hidden="true">
-              <FontAwesomeIcon icon={faArrowUp} />
-            </kbd>
           </Button>
           <Button
             className="answer-btn answer-btn--down"
             variant="primary"
             onClick={() => guess("lower")}
           >
+            {t(metric.answerLabels.lower as "answer.less")}
             <span className="answer-btn__icon" aria-hidden="true">
               <FontAwesomeIcon icon={faCaretDown} />
             </span>
-            {t(metric.answerLabels.lower as "answer.less")}
-            <kbd aria-hidden="true">
-              <FontAwesomeIcon icon={faArrowDown} />
-            </kbd>
           </Button>
         </div>
       </ItemCard>

@@ -194,19 +194,6 @@
   outline-color: #ffd166;
   outline-offset: 3px;
 }
-.answer-btn kbd {
-  font: inherit;
-  font-size: 0.75rem;
-  padding: 0.05rem 0.4rem;
-  border: 1px solid rgb(255 255 255 / 0.7);
-  border-radius: 4px;
-  opacity: 0.85;
-}
-@media (hover: none) {
-  .answer-btn kbd {
-    display: none;
-  }
-}
 
 /* --- overlays --- */
 .versus {
