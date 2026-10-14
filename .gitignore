@@ -8,15 +8,16 @@ frontend/test-results/
 frontend/playwright-report/
 frontend/.cache/
 
-# Crawler (Python)
-crawler/__pycache__/
-crawler/**/__pycache__/
-crawler/*.pyc
-crawler/.venv/
-crawler/venv/
-crawler/*.egg-info/
-crawler/.pytest_cache/
-crawler/.behave/
+# Data collector (Python)
+data-collector/__pycache__/
+data-collector/**/__pycache__/
+data-collector/*.pyc
+data-collector/.venv/
+data-collector/venv/
+data-collector/*.egg-info/
+data-collector/.pytest_cache/
+data-collector/.behave/
+data-collector/.data/
 
 # Universal
 .DS_Store

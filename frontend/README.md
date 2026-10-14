@@ -36,7 +36,7 @@ npm run test:e2e
 
 ## Data
 
-The crawler (see `../crawler/README.md`) writes its output to
+The data collector (see `../data-collector/README.md`) writes its output to
 `public/data/airplanes.json`. This app reads that file directly — no build step, no
 backend.
 
@@ -47,4 +47,4 @@ backend.
 - `features/` — Gherkin `.feature` files
 - `tests/steps/` — Cucumber step definitions (Playwright-driven)
 - `tests/unit/` — Vitest unit tests
-- `public/data/airplanes.json` — crawler's committed output (see above)
+- `public/data/airplanes.json` — data collector's committed output (see above)

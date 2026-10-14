@@ -1,0 +1,53 @@
+{{Infobox aircraft
+| name = F-16 Fighting Falcon
+| image = File:F-16 Fighting Falcon.jpg
+| type = [[Fighter aircraft|Air superiority fighter]]/[[multirole combat aircraft]]
+| national_origin = United States
+| manufacturer = {{ubl|[[General Dynamics]]|[[Lockheed Martin]]}}
+| first_flight = 20 January 1974
+| introduction = 17 August 1978
+| status = In service
+| primary_user = [[United States Air Force]]
+}}
+
+The '''General Dynamics F-16 Fighting Falcon''' is a single-engine [[multirole combat aircraft]],
+a [[mid-wing]] design with a semi-[[monocoque]] fuselage and [[tricycle landing gear|retractable
+tricycle landing gear]].
+
+==Specifications==
+{{Aircraft specs
+|ref=USAF fact sheet
+|prime units?=kts
+
+|crew=one
+|length m=
+|length ft=49
+|length in=5
+|span m=
+|span ft=32
+|span in=8
+|height m=
+|height ft=16
+|height in=8.5
+|empty weight lb=20300
+|gross weight lb=
+|max takeoff weight lb=48000
+
+|eng1 number=1
+|eng1 name=[[General Electric F110|General Electric F110-GE-100]]
+|eng1 type=[[afterburning turbofan]]
+|eng1 lbf-ab=29500
+|eng1 kn-ab=131.2
+
+|perfhide=
+|max speed kmh=
+|max speed kts=
+|max speed mach=2.0
+|cruise speed kmh=917
+|cruise speed kts=495
+|never exceed speed kmh=
+|ceiling m=
+|ceiling ft=50000
+|range km=
+|range nmi=2280
+}}

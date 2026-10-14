@@ -1,16 +1,31 @@
 <!--
 Sync Impact Report
-- Version change: 1.1.0 → 1.2.0 (MINOR: materially expanded Technology & Platform
-  Constraints — defines crawler execution model as manual/local/on-demand only, and
-  establishes a committed static JSON file as the sole data store for this version,
-  ruling out a live backend/API)
-- Modified principles: none (this amendment only extends Technology & Platform
-  Constraints)
-- Added sections: none (extends existing section; no new top-level sections)
+- Version change: 1.3.0 → 1.4.0 (MINOR: materially expanded Technology & Platform
+  Constraints — sanctions `langchain` plus a swappable LLM provider (currently
+  Google AI Studio's free tier, via `langchain-google-genai`) for the data
+  collector's field-extraction step, replacing the previous regex/keyword-based
+  extraction; no principle added, removed, or redefined)
+- Modified principles: none (Technology & Platform Constraints' data collector
+  paragraph extended with two sentences; Principle I unchanged — extraction
+  correctness is now a model/prompt concern flagged via `needs_review`, not
+  something `.feature` scenarios can pin deterministically against regex, so those
+  scenarios now verify pipeline wiring against a scripted fake model instead of
+  literal parsing of real wikitext, per the existing "supporting unit tests use
+  pytest" / feature-level carve-out already in this section)
+- Added sections: none
 - Removed sections: none
 - Follow-up TODOs: none
 
 Prior syncs:
+- 1.3.0: sanctions `textual` for the data collector's new interactive
+  aircraft-selection TUI, used to search Wikipedia's aircraft index and curate
+  targets.txt; no principle added, removed, or redefined
+- 1.2.1: renamed the "crawler" component to "data collector" throughout — directory
+  crawler/ -> data-collector/, Python package crawler -> data_collector —
+  wording/reference change only, no principle added, removed, or redefined
+- 1.2.0: materially expanded Technology & Platform Constraints — defines crawler
+  execution model as manual/local/on-demand only, and establishes a committed static
+  JSON file as the sole data store for this version, ruling out a live backend/API
 - 1.1.0: extended Technology & Platform Constraints with concrete two-component
   architecture (frontend: TS/Vite/React/shadcn/Tailwind/Zustand/Playwright+Cucumber/
   Vitest; crawler: Python/Selenium/requests+BeautifulSoup/behave/pytest); Principle I
@@ -38,7 +53,7 @@ matching) and user-facing flows (start a round, submit a guess, see the result) 
 require Gherkin scenarios; unit-level details not worth expressing as Given/When/Then
 may still need supporting unit tests, but the feature-level behavior contract is always
 Gherkin first. This applies identically to both project components: the frontend runs
-its `.feature` scenarios through Playwright + Cucumber, and the data crawler runs its
+its `.feature` scenarios through Playwright + Cucumber, and the data collector runs its
 `.feature` scenarios through `behave`; neither component may add code without a scenario
 in its respective suite going RED first.
 Rationale: A guessing game lives or dies on correct scoring and fair round logic;
@@ -85,26 +100,42 @@ The project has exactly two components, each with a fixed, non-negotiable stack:
   `.feature` files); pure-logic units (scoring, guess matching) additionally get Vitest
   unit tests. The frontend MUST run in a standard modern browser without requiring a
   native app install.
-- **Data crawler** (airplane reference data collection): Python, using Selenium for
+- **Data collector** (airplane reference data collection): Python, using Selenium for
   pages that require JavaScript rendering/interaction and `requests`/`httpx` +
   BeautifulSoup for plain HTML fetch-and-parse targets — Selenium is reserved for pages
   that actually need a browser; simpler pages MUST use the lighter HTTP+parser path.
-  Feature-level crawler behavior (e.g., "given an aircraft listing page, extract name,
-  specs, and image URL") is verified with `behave` Gherkin `.feature` files; supporting
-  unit tests use `pytest`.
+  Feature-level data collector behavior (e.g., "given an aircraft listing page, extract
+  name, specs, and image URL") is verified with `behave` Gherkin `.feature` files;
+  supporting unit tests use `pytest`. For the interactive aircraft-selection tool used
+  to curate `targets.txt`, the data collector MAY additionally use `textual` (a
+  terminal UI framework) to provide a searchable, keyboard-driven picker over
+  Wikipedia's aircraft index; this is the only sanctioned TUI/interactive-terminal
+  library for this component, and it MUST NOT be used to build a persistent or
+  networked service, consistent with the "run manually/on-demand, locally" constraint
+  below. Field extraction from a fetched page's raw content (name, specs, category
+  interpretation) MAY use `langchain` bound to an LLM provider rather than
+  bespoke regex/keyword matching, since Wikipedia's actual wikitext formatting is too
+  varied for any fixed set of patterns to keep up with. Code MUST depend only on
+  `langchain_core.language_models.BaseChatModel`, never a concrete provider class, so
+  the provider is swappable without touching extraction logic; the concrete provider
+  choice lives in exactly one function. Any numeric unit conversion the model needs
+  MUST be exposed to it as a callable tool backed by exact arithmetic, never left to
+  the model's own computation. Provider credentials MUST come from an environment
+  variable, never be hardcoded or committed.
 
-For this version, the crawler is NOT a running service: it MUST be run manually/on-demand,
-locally, whenever the airplane data needs to be (re)collected — no scheduler, cron job,
-or deployed crawler process. Its output MUST be a static JSON file committed to the
-GitHub repository, which acts as the application's sole data store ("fake database")
-for this version; there MUST NOT be a live backend/API serving airplane data. The
-frontend MUST read this committed JSON directly (bundled at build time or fetched as a
-static asset) rather than expecting any server to generate or transform it at runtime.
-The JSON's shape MUST be explicit and documented, and MUST NOT leak the correct answer
-to the client in a way that trivially defeats the guessing mechanic (e.g., a field the
-player can inspect before guessing that reveals the answer). Airplane reference data
-(names, images, specs) produced by the crawler SHOULD be treated as the single,
-identifiable source of truth so that facts shown to players are internally consistent.
+For this version, the data collector is NOT a running service: it MUST be run
+manually/on-demand, locally, whenever the airplane data needs to be (re)collected — no
+scheduler, cron job, or deployed data-collector process. Its output MUST be a static
+JSON file committed to the GitHub repository, which acts as the application's sole data
+store ("fake database") for this version; there MUST NOT be a live backend/API serving
+airplane data. The frontend MUST read this committed JSON directly (bundled at build
+time or fetched as a static asset) rather than expecting any server to generate or
+transform it at runtime. The JSON's shape MUST be explicit and documented, and MUST NOT
+leak the correct answer to the client in a way that trivially defeats the guessing
+mechanic (e.g., a field the player can inspect before guessing that reveals the
+answer). Airplane reference data (names, images, specs) produced by the data collector
+SHOULD be treated as the single, identifiable source of truth so that facts shown to
+players are internally consistent.
 
 ## Development Workflow
 
@@ -134,4 +165,4 @@ All PRs and code reviews MUST verify compliance with this constitution. Any devi
 PR description with a justification; unjustified complexity or skipped tests are
 grounds for requesting changes.
 
-**Version**: 1.2.0 | **Ratified**: 2026-08-08 | **Last Amended**: 2026-08-08
+**Version**: 1.4.0 | **Ratified**: 2026-08-08 | **Last Amended**: 2026-08-11

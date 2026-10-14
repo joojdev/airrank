@@ -7,7 +7,7 @@ Stories 1–3 and Success Criteria SC-001–SC-004 in `spec.md`.
 ## Prerequisites
 
 - Node.js 20+ and a package manager (npm/pnpm/yarn) available on PATH, for `frontend/`.
-- Python 3.11+ and `pip` available on PATH, for `crawler/`.
+- Python 3.11+ and `pip` available on PATH, for `data-collector/`.
 - A freshly cloned copy of this repository (or `git clean` state on this branch).
 
 ## Part A — Frontend (`frontend/`)
@@ -37,27 +37,27 @@ Stories 1–3 and Success Criteria SC-001–SC-004 in `spec.md`.
 5. **Run unit tests**: run the Vitest suite → expected: passes (no unit tests are
    required to exist beyond what the scaffold ships, but the runner must work).
 
-## Part B — Crawler (`crawler/`)
+## Part B — Data collector (`data-collector/`)
 
-1. **Install**: from `crawler/`, install dependencies per `crawler/README.md`.
-2. **Run**: invoke the crawler's entry point locally with no arguments beyond what
-   `crawler/README.md` documents.
+1. **Install**: from `data-collector/`, install dependencies per `data-collector/README.md`.
+2. **Run**: invoke the data collector's entry point locally with no arguments beyond what
+   `data-collector/README.md` documents.
    - **Expected**: `frontend/public/data/airplanes.json` is created/overwritten, is
      valid JSON, and validates against
      `specs/001-project-boilerplate/contracts/airplanes-data.schema.json` with exactly
      one record.
    - Satisfies SC-002 and FR-003.
 3. **Prove red-green**: repeat the same revert → RED → restore → GREEN cycle from Part
-   A step 4, but against `crawler/features/write_placeholder_data.feature` and the
+   A step 4, but against `data-collector/features/write_placeholder_data.feature` and the
    `behave` runner. Satisfies FR-004 and SC-003.
 4. **Run unit tests**: run the `pytest` suite → expected: passes.
 
 ## Part C — Independence and discoverability
 
-1. Delete or ignore `frontend/`'s installed dependencies and confirm `crawler/`'s
+1. Delete or ignore `frontend/`'s installed dependencies and confirm `data-collector/`'s
    install/run/test steps above still succeed unaffected, and vice versa. Satisfies
    FR-006.
-2. As a reader unfamiliar with the repo, locate both `frontend/` and `crawler/` from
+2. As a reader unfamiliar with the repo, locate both `frontend/` and `data-collector/` from
    the repository root and find each one's install/run/test instructions using only
    their respective `README.md` files, with no outside help. Satisfies FR-005, SC-004,
    and User Story 3.

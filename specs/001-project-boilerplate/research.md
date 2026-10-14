@@ -50,13 +50,13 @@ and UI exist, then pass once they do.
 names Playwright, not Cypress, for the frontend); hand-written Playwright test without
 Gherkin (rejected — violates Principle I, which is NON-NEGOTIABLE).
 
-## 4. Crawler project bootstrap
+## 4. Data collector project bootstrap
 
-**Decision**: A plain Python package (`crawler/crawler/`) with a single entry point
-(`main.py`) runnable via `python -m crawler.main`, dependencies pinned in
+**Decision**: A plain Python package (`data-collector/data_collector/`) with a single entry point
+(`main.py`) runnable via `python -m data_collector.main`, dependencies pinned in
 `requirements.txt`, no packaging/publishing tooling.
 
-**Rationale**: The crawler is a local, on-demand script per the constitution — not a
+**Rationale**: The data collector is a local, on-demand script per the constitution — not a
 service, not a published package — so the simplest structure that supports `behave`
 and `pytest` discovery is sufficient; anything more (setup.py, Poetry, a CLI framework)
 would be premature per Simplicity/YAGNI at this stage.
@@ -65,7 +65,7 @@ would be premature per Simplicity/YAGNI at this stage.
 machinery not needed for a locally-invoked script); a CLI framework like Typer/Click
 (rejected — no real CLI surface exists yet at boilerplate scope, would be speculative).
 
-## 5. Crawler fetch strategy for the placeholder scenario
+## 5. Data collector fetch strategy for the placeholder scenario
 
 **Decision**: The boilerplate's one example scenario uses the `requests`/`httpx` +
 BeautifulSoup path (not Selenium), since it only needs to prove "write a placeholder
@@ -79,21 +79,21 @@ untouched until a real crawl target needs it.
 **Alternatives considered**: Wiring up Selenium now "for completeness" (rejected —
 violates Simplicity/YAGNI; nothing in this feature's scope needs a browser yet).
 
-## 6. Crawler Gherkin runner wiring
+## 6. Data collector Gherkin runner wiring
 
-**Decision**: `behave` with feature files under `crawler/features/` and step
-definitions under `crawler/features/steps/`, `pytest` for any supporting unit tests
-under `crawler/tests/`.
+**Decision**: `behave` with feature files under `data-collector/features/` and step
+definitions under `data-collector/features/steps/`, `pytest` for any supporting unit tests
+under `data-collector/tests/`.
 
 **Rationale**: Matches constitution's `behave` requirement directly and follows
 `behave`'s own default discovery convention, minimizing custom configuration.
 
 **Alternatives considered**: `pytest-bdd` (rejected — constitution names `behave`
-specifically for the crawler side).
+specifically for the data collector side).
 
 ## 7. Data hand-off shape
 
-**Decision**: The crawler writes a JSON array of placeholder aircraft records to
+**Decision**: The data collector writes a JSON array of placeholder aircraft records to
 `frontend/public/data/airplanes.json` (schema in `contracts/airplanes-data.schema.json`
 — see Phase 1). The frontend fetches/imports this file as a static asset at runtime;
 no build-time copy step is introduced.
@@ -103,5 +103,5 @@ no build-time copy step is introduced.
 and explicit as possible.
 
 **Alternatives considered**: See spec.md Clarifications — root-level `data/` folder and
-crawler-owned output folder were both rejected in favor of the frontend's own
+data collector-owned output folder were both rejected in favor of the frontend's own
 public/static assets folder, to avoid a cross-package copy step.

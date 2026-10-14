@@ -24,8 +24,8 @@ implementation and testing of each story.
 
 ## Path Conventions
 
-Per `plan.md`'s Project Structure: `frontend/` and `crawler/` are fixed, independent
-top-level directories at the repository root. The crawler writes into
+Per `plan.md`'s Project Structure: `frontend/` and `data-collector/` are fixed, independent
+top-level directories at the repository root. The data collector writes into
 `frontend/public/data/airplanes.json` — the one deliberate coupling point.
 
 ---
@@ -34,10 +34,10 @@ top-level directories at the repository root. The crawler writes into
 
 **Purpose**: Repository-level scaffolding that isn't specific to either side
 
-- [X] T001 Create top-level `frontend/` and `crawler/` directories at the repository root per `plan.md`'s Project Structure
-- [X] T002 [P] Add `frontend/node_modules/`, `frontend/dist/`, `crawler/__pycache__/`, and `crawler/.venv/` to the repository's `.gitignore`
+- [X] T001 Create top-level `frontend/` and `data-collector/` directories at the repository root per `plan.md`'s Project Structure
+- [X] T002 [P] Add `frontend/node_modules/`, `frontend/dist/`, `data-collector/__pycache__/`, and `data-collector/.venv/` to the repository's `.gitignore`
 
-**Checkpoint**: Setup ready — User Story 1 and User Story 2 can now proceed (in parallel, if staffed). There is no separate Foundational phase for this feature: the only shared infrastructure (the crawler→frontend data directory) lives inside `frontend/` and is created as part of User Story 1 below (T007), once the Vite scaffold exists to receive it.
+**Checkpoint**: Setup ready — User Story 1 and User Story 2 can now proceed (in parallel, if staffed). There is no separate Foundational phase for this feature: the only shared infrastructure (the data collector→frontend data directory) lives inside `frontend/` and is created as part of User Story 1 below (T007), once the Vite scaffold exists to receive it.
 
 ---
 
@@ -60,7 +60,7 @@ frontend's automated test suite and confirm the one example scenario passes.
 ### Implementation for User Story 1
 
 - [X] T006 [US1] Scaffold a Vite + React + TypeScript project in `frontend/` (`package.json`, `vite.config.ts`, `tsconfig.json`, `index.html`, `src/main.tsx`, `src/App.tsx`)
-- [X] T007 [US1] Create `frontend/public/data/` directory (with a `.gitkeep` placeholder) as the fixed crawler→frontend data hand-off location defined in `contracts/airplanes-data.schema.json` (depends on T006 — runs after the Vite scaffold exists, so this nested folder is added to an already-scaffolded project rather than colliding with the scaffolder's own directory setup)
+- [X] T007 [US1] Create `frontend/public/data/` directory (with a `.gitkeep` placeholder) as the fixed data collector→frontend data hand-off location defined in `contracts/airplanes-data.schema.json` (depends on T006 — runs after the Vite scaffold exists, so this nested folder is added to an already-scaffolded project rather than colliding with the scaffolder's own directory setup)
 - [X] T008 [P] [US1] Add Tailwind CSS and initialize shadcn/ui in `frontend/` (`tailwind.config.ts`, `postcss.config.js`, `src/index.css`, `components.json`) (depends on T006)
 - [X] T009 [P] [US1] Add Zustand and create a placeholder store in `frontend/src/store/useGameStore.ts` (depends on T006)
 - [X] T010 [P] [US1] Configure the Playwright + Cucumber runner in `frontend/` so `frontend/features/*.feature` drives a real Playwright browser session against the dev/preview server (depends on T006)
@@ -74,36 +74,36 @@ frontend's automated test suite and confirm the one example scenario passes.
 
 ---
 
-## Phase 3: User Story 2 - Data crawler scaffold runs locally on demand (Priority: P2)
+## Phase 3: User Story 2 - Data collector scaffold runs locally on demand (Priority: P2)
 
-**Goal**: A developer can install, run, and test the crawler locally and on demand,
+**Goal**: A developer can install, run, and test the data collector locally and on demand,
 producing a placeholder JSON file the frontend can read, and see one example Gherkin
 scenario go from RED to GREEN.
 
-**Independent Test**: Run the crawler's entry point locally with no arguments beyond
+**Independent Test**: Run the data collector's entry point locally with no arguments beyond
 what the scaffold requires and confirm it produces/overwrites the placeholder JSON
-output file; separately, run the crawler's automated test suite and confirm the one
+output file; separately, run the data collector's automated test suite and confirm the one
 example scenario passes.
 
 **Note**: Every task in this story is independent of User Story 1 except T022 below,
 which needs `frontend/public/data/` to exist — that directory is created by User Story
-1's T007. If US1 and US2 are staffed in parallel, T022 is the one point the crawler
+1's T007. If US1 and US2 are staffed in parallel, T022 is the one point the data collector
 developer must wait on.
 
 ### Tests for User Story 2 (MANDATORY — write first, confirm RED before implementing)
 
-- [X] T016 [P] [US2] Write Gherkin scenario "Crawler writes placeholder airplane data" in `crawler/features/write_placeholder_data.feature`
-- [X] T017 [P] [US2] Write matching (initially unimplemented) behave step definitions in `crawler/features/steps/write_placeholder_data_steps.py`
-- [X] T018 [US2] Run the crawler's `behave` suite and confirm the scenario fails/is undefined (RED) before any implementation exists (depends on T016, T017)
+- [X] T016 [P] [US2] Write Gherkin scenario "Data collector writes placeholder airplane data" in `data-collector/features/write_placeholder_data.feature`
+- [X] T017 [P] [US2] Write matching (initially unimplemented) behave step definitions in `data-collector/features/steps/write_placeholder_data_steps.py`
+- [X] T018 [US2] Run the data collector's `behave` suite and confirm the scenario fails/is undefined (RED) before any implementation exists (depends on T016, T017)
 
 ### Implementation for User Story 2
 
-- [X] T019 [US2] Scaffold a Python project in `crawler/` (`requirements.txt` pinning selenium, requests/httpx, beautifulsoup4, behave, pytest; `crawler/crawler/__init__.py`)
-- [X] T020 [P] [US2] Configure the `behave` runner in `crawler/` pointing at `crawler/features/` (depends on T019)
-- [X] T021 [P] [US2] Configure `pytest` in `crawler/` with one sample passing unit test in `crawler/tests/` (depends on T019)
-- [X] T022 [US2] Implement the crawler entry point in `crawler/crawler/main.py`, writing exactly one placeholder record to `frontend/public/data/airplanes.json` matching `contracts/airplanes-data.schema.json` (depends on T007, T019)
-- [X] T023 [US2] Implement the behave step definitions in `crawler/features/steps/write_placeholder_data_steps.py` to invoke `crawler/crawler/main.py` and assert the output file matches the schema, so the scenario now passes (GREEN) (depends on T018, T020, T022)
-- [X] T024 [P] [US2] Add `crawler/README.md` with install/run/test instructions sufficient for an unfamiliar developer (depends on T019)
+- [X] T019 [US2] Scaffold a Python project in `data-collector/` (`requirements.txt` pinning selenium, requests/httpx, beautifulsoup4, behave, pytest; `data-collector/data_collector/__init__.py`)
+- [X] T020 [P] [US2] Configure the `behave` runner in `data-collector/` pointing at `data-collector/features/` (depends on T019)
+- [X] T021 [P] [US2] Configure `pytest` in `data-collector/` with one sample passing unit test in `data-collector/tests/` (depends on T019)
+- [X] T022 [US2] Implement the data collector entry point in `data-collector/data_collector/main.py`, writing exactly one placeholder record to `frontend/public/data/airplanes.json` matching `contracts/airplanes-data.schema.json` (depends on T007, T019)
+- [X] T023 [US2] Implement the behave step definitions in `data-collector/features/steps/write_placeholder_data_steps.py` to invoke `data-collector/data_collector/main.py` and assert the output file matches the schema, so the scenario now passes (GREEN) (depends on T018, T020, T022)
+- [X] T024 [P] [US2] Add `data-collector/README.md` with install/run/test instructions sufficient for an unfamiliar developer (depends on T019)
 
 **Checkpoint**: User Stories 1 AND 2 both work independently
 
@@ -112,7 +112,7 @@ developer must wait on.
 ## Phase 4: User Story 3 - A developer can tell the two sides apart and knows how to run each (Priority: P3)
 
 **Goal**: A developer unfamiliar with the repository can locate the frontend and the
-crawler and find accurate install/run/test instructions for each without asking a
+data collector and find accurate install/run/test instructions for each without asking a
 teammate.
 
 **Independent Test**: Have a developer unfamiliar with the repo locate both sides and
@@ -120,8 +120,8 @@ their run instructions using only what's checked into the repository.
 
 ### Implementation for User Story 3
 
-- [X] T025 [US3] Update the repository root `README.md` to briefly describe the two-sided layout and link to `frontend/README.md` and `crawler/README.md` (depends on T015, T024)
-- [X] T026 [P] [US3] Review `frontend/` and `crawler/` for overlapping files or cross-dependencies and confirm each can be installed/run/tested with the other side entirely untouched, per FR-006 (depends on T015, T024)
+- [X] T025 [US3] Update the repository root `README.md` to briefly describe the two-sided layout and link to `frontend/README.md` and `data-collector/README.md` (depends on T015, T024)
+- [X] T026 [P] [US3] Review `frontend/` and `data-collector/` for overlapping files or cross-dependencies and confirm each can be installed/run/tested with the other side entirely untouched, per FR-006 (depends on T015, T024)
 
 **Checkpoint**: All three user stories are independently functional
 
@@ -132,7 +132,7 @@ their run instructions using only what's checked into the repository.
 **Purpose**: Final validation across both sides
 
 - [X] T027 Run the full `quickstart.md` validation (Parts A, B, and C) end-to-end — including Part A's missing-dependencies error check — and check off its "Done when" list (depends on T014, T023, T025, T026)
-- [X] T028 [P] Validate `frontend/public/data/airplanes.json` against `contracts/airplanes-data.schema.json` with a JSON Schema validator, confirming the crawler↔frontend contract holds (depends on T022)
+- [X] T028 [P] Validate `frontend/public/data/airplanes.json` against `contracts/airplanes-data.schema.json` with a JSON Schema validator, confirming the data collector↔frontend contract holds (depends on T022)
 
 ---
 
@@ -166,7 +166,7 @@ their run instructions using only what's checked into the repository.
 
 - T001 then T002 can follow immediately after
 - Once Setup (T001-T002) is done, US1 (Phase 2) and US2 (Phase 3) can proceed in
-  parallel if staffed by two developers — the crawler developer can do everything
+  parallel if staffed by two developers — the data collector developer can do everything
   except T022 (and the T023/T028 tasks that depend on it) before US1's T007 lands
 - Within US1: T008, T009, T010, T011, T015 can run in parallel once T006 is done
 - Within US2: T020, T021, T024 can run in parallel once T019 is done
@@ -207,7 +207,7 @@ Task: "Add frontend/README.md with install/run/test instructions"
 ### Parallel Team Strategy
 
 With two developers: one takes User Story 1 (frontend), the other takes User Story 2
-(crawler), both starting right after Phase 1's Setup. The crawler developer can
+(data collector), both starting right after Phase 1's Setup. The data collector developer can
 complete T016-T021 and T024 independently, but T022 (and anything after it) waits on
 the frontend developer's T007. They meet back up for User Story 3 (Phase 4), which
 needs both READMEs to exist.

@@ -1,0 +1,87 @@
+{{Infobox aircraft
+| name = Cessna 172
+| image = File:Cessna 172S Skyhawk SP, Private JP6817606.jpg
+| image_caption = Cessna 172S Skyhawk SP
+| aircraft_type = Civil [[utility aircraft]]
+| national_origin = United States
+| manufacturer = [[Cessna]]<br />[[Textron Aviation]]
+| designer =
+| first_flight = June 12, 1955
+| introduction = 1956
+| retired =
+| status = In production
+| primary_user =
+| more_users =
+| produced = 1956-1986, 1996-present
+| number_built = 44,000+
+| developed_from = [[Cessna 170]]
+| variants = [[Cessna T-41 Mescalero]]
+| developed_into = [[Cessna 175 Skylark]]
+}}
+
+The '''Cessna 172 Skyhawk''' is an American four-seat, single-engine, [[Monoplane#High|high wing]],
+[[fixed-wing aircraft]] made by the [[Cessna Aircraft Company]]. It was developed from the
+[[Cessna 170]], but with [[tricycle landing gear]] rather than [[conventional landing gear]].
+
+==Specifications (172R)==
+{{Aircraft specs
+|ref=Cessna,
+|prime units?=kts
+
+|genhide=
+|crew=one
+|capacity=three passengers, {{Convert|120|lb|kg|abbr=on}} of baggage
+|length m=
+|length ft=27
+|length in=2
+|span m=
+|span ft=36
+|span in=1
+|height m=
+|height ft=8
+|height in=11
+|wing area sqm=
+|wing area sqft=174
+|aspect ratio=7.32
+|airfoil=modified NACA 2412
+|empty weight kg=
+|empty weight lb=1691
+|gross weight kg=
+|gross weight lb=2450
+|fuel capacity={{Convert|56|gal|L|abbr=on}}
+|more general=
+
+|eng1 number=1
+|eng1 name=[[Lycoming O-360|Lycoming IO-360-L2A]]
+|eng1 type=four cylinder, horizontally opposed aircraft engine
+|eng1 kw=
+|eng1 hp=160
+
+|prop blade number=2
+|prop name=metal, fixed pitch [[McCauley Propeller Systems|McCauley]] Model 1C235/LFA7570
+|prop dia ft=6
+|prop dia in=3
+
+|perfhide=
+|max speed kmh=
+|max speed mph=
+|max speed kts=
+|cruise speed kmh=
+|cruise speed mph=
+|cruise speed kts=122
+|stall speed kmh=
+|stall speed mph=
+|stall speed kts=47
+|never exceed speed kmh=
+|never exceed speed mph=
+|never exceed speed kts=163
+|range km=
+|range miles=
+|range nmi=696
+|ceiling m=
+|ceiling ft=13500
+|climb rate ms=
+|climb rate ftmin=721
+|wing loading kg/m2=68.6
+|wing loading lb/sqft=
+}}

@@ -1,12 +1,12 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://airplane-guessing-game/schemas/airplanes-data.schema.json",
-  "title": "Airplanes Data File (Boilerplate)",
-  "description": "Contract between the crawler (writer) and the frontend (reader) for frontend/public/data/airplanes.json. At boilerplate scope this only proves the write/read pipeline; real aircraft fields are added by future features.",
+  "title": "Airplanes Data File",
+  "description": "Contract between the data collector (writer) and the frontend (reader) for frontend/public/data/airplanes.json. Originally scoped to a boilerplate {id, name} placeholder by the 001-project-boilerplate feature; extended here to the real aircraft attributes documented in docs/airplane-attributes.md once the data collector's Wikipedia fetch/filter/clean pipeline began producing real records.",
   "type": "array",
   "items": {
     "type": "object",
-    "title": "Placeholder Aircraft Record",
+    "title": "Aircraft Record",
     "properties": {
       "id": {
         "type": "string",
@@ -16,10 +16,61 @@
       "name": {
         "type": "string",
         "minLength": 1,
-        "description": "Human-readable placeholder label. Not a real aircraft name at this stage."
+        "description": "Human-readable aircraft name."
+      },
+      "weight": {
+        "type": ["number", "null"],
+        "description": "Max takeoff weight (MTOW) in kg, falling back to gross weight then empty weight if MTOW is unavailable. null if no weight field was usable."
+      },
+      "type": {
+        "type": "array",
+        "description": "Zero or more aircraft-type categories; an aircraft can legitimately belong to more than one (e.g. a VIP/BBJ variant is both Comercial and Executivo).",
+        "items": {
+          "type": "string",
+          "enum": ["Comercial", "Militar", "Carga", "Executivo", "Geral/Utilitário", "Treinador"]
+        }
+      },
+      "manufacturer": {
+        "type": "array",
+        "description": "Zero or more manufacturers; an aircraft can legitimately have more than one (joint ventures, consortiums, later corporate successors).",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "engineCount": {
+        "type": ["integer", "null"],
+        "minimum": 0
+      },
+      "wingPosition": {
+        "type": ["string", "null"],
+        "enum": ["Alta", "Média", "Baixa", null],
+        "description": "null means unknown (source had no wing-position category), not 'no wings'."
+      },
+      "landingGearType": {
+        "type": ["string", "null"],
+        "enum": ["Triciclo", "Convencional (bequilha)", null],
+        "description": "null means unknown (source had no landing-gear category)."
+      },
+      "speedRegime": {
+        "type": ["string", "null"],
+        "enum": ["subsonic", "supersonic", null],
+        "description": "Determines the unit of maxSpeed. null if no usable speed field existed in either regime."
+      },
+      "maxSpeed": {
+        "type": ["number", "null"],
+        "description": "Unit is implied by speedRegime: km/h when subsonic, raw Mach number when supersonic. Never converted between the two. null if unavailable."
+      },
+      "serviceCeiling": {
+        "type": ["number", "null"],
+        "description": "Stored in meters; the frontend converts to feet for display."
+      },
+      "image": {
+        "type": ["string", "null"],
+        "description": "Relative path (from frontend/public/data/) to the aircraft's locally stored image file, e.g. \"images/f-16-fighting-falcon.jpg\". null if no image was found."
       }
     },
-    "required": ["id", "name"],
+    "required": ["id", "name", "type"],
     "additionalProperties": false
   }
 }
