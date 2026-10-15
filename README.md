@@ -1,6 +1,25 @@
 # AirRank
 
+English | [Português](README.pt-BR.md)
+
 A static "Higher or Lower" style game about airports and airlines, in pt-BR and English.
+
+## How it was built
+
+This project was built with **Spec-Driven Development** using
+[GitHub Spec Kit](https://github.com/github/spec-kit) and an AI coding assistant (Claude Code),
+with a human making the decisions and reviewing every step.
+
+- **Specification first.** A project constitution (`.specify/memory/constitution.md`) defines the
+  principles (schema-first data, static-only delivery, data provenance and attribution). The
+  feature itself goes spec → plan → tasks (`specs/001-higher-lower-mvp/`) before any code.
+- **AI used with safety and critical judgment.** Generated code is never trusted blindly: every
+  change is reviewed, typechecked, linted and tested (Vitest) locally and in CI before it ships.
+  Data is validated against Zod schemas, deploys are gated by those same checks, and secrets
+  stay out of the repo (Cloudflare token scoped to Pages only, stored as a GitHub environment
+  secret).
+- **Human in the loop.** Design, scope and trade-off decisions are mine; the AI proposes and
+  implements, I approve each change before it is committed.
 
 ## Layout
 
@@ -37,6 +56,9 @@ First time only: `npx wrangler login`, then create the project with
 `npx wrangler pages project create airrank --production-branch main`, and attach the custom domain
 in the Cloudflare dashboard (Workers & Pages, airrank, Custom domains).
 
-Every deploy: `npm run deploy` (builds `apps/web` and uploads `apps/web/dist`).
+Every push to `main` deploys automatically through GitHub Actions
+(`.github/workflows/deploy.yml`): typecheck, tests, build, then upload of `apps/web/dist`. The job
+uses the `production` environment with two secrets: `CLOUDFLARE_API_TOKEN` (Account, Cloudflare
+Pages, Edit) and `CLOUDFLARE_ACCOUNT_ID`. `npm run deploy` remains as a manual fallback.
 `VITE_SITE_URL` for the share text lives in `apps/web/.env.production`.
 Cache rules for images, data and assets are in `apps/web/public/_headers`.
